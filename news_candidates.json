@@ -1,24 +1,648 @@
 {
-  "generated_at": "2026-09-21T18:32:58.091692+00:00",
+  "generated_at": "2026-09-21T20:35:57.557005+00:00",
   "dia_editorial": "2026-09-21",
   "zona_horaria": "UTC-4 (Santo Domingo)",
   "ventana_frescura": "2026-09-20 a 2026-09-21",
   "gemini_model": "gemini-2.5-flash-lite",
   "min_relevance": 6,
-  "count": 28,
+  "count": 45,
   "count_by_day": {
-    "2026-09-21": 26,
-    "2026-09-20": 2
+    "2026-09-21": 42,
+    "2026-09-20": 3
   },
-  "new_this_run": 29,
+  "new_this_run": 30,
   "already_published": 0,
   "out_of_window": 0,
   "ttl_days": 1,
   "max_age_days": 1,
   "errors": 0,
   "sources": 19,
-  "elapsed_s": 420.6,
+  "elapsed_s": 365.5,
   "candidates": [
+    {
+      "id": "n_d1c87fd5a5d59cf8",
+      "source_key": "news_eldia_rss",
+      "source_name": "El Día · RSS",
+      "url": "https://eldia.com.do/rd-registra-585363-operaciones-aereas-en-los-ultimos-tres-anos",
+      "title": "RD registra 585,363 operaciones aéreas en los últimos tres años",
+      "summary": "Santo Domingo .- El director general del Instituto Dominicano de Aviación Civil (IDAC), Igor Rodríguez Durán , informó que la República Dominicana registra 585,363 operaciones aéreas durante los últimos tres años, movimiento que ha permitido transportar a más de 50 millones de pasajeros , reflejando el crecimiento sostenido de la actividad aeronáutica nacional.",
+      "body": "Santo Domingo .- El director general del Instituto Dominicano de Aviación Civil (IDAC), Igor Rodríguez Durán , informó que la República Dominicana registra 585,363 operaciones aéreas durante los últimos tres años, movimiento que ha permitido transportar a más de 50 millones de pasajeros , reflejando el crecimiento sostenido de la actividad aeronáutica nacional. Rodríguez Durán explicó que en 2024 se registraron 212,023 operaciones aéreas, en 2025 la cifra alcanzó las 217,620, y al corte de agosto de 2026 se contabilizan 155,720 operaciones , de acuerdo con las estadísticas del sector. “Hoy somos un referente en toda la región, porque durante la gestión de gobierno del presidente Luis Abinader se ha realizado una importante inversión en equipos y en la capacitación de nuestros técnicos , muchos de ellos con décadas de experiencia en sus respectivas áreas”, afirmó el director general del I",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T17:14:34+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:48.953458+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_2f05365398946562",
+      "source_key": "news_eldia_rss",
+      "source_name": "El Día · RSS",
+      "url": "https://eldia.com.do/avelino-stanley-pone-en-circulacion-historia-de-la-literatura-infantil-y-juvenil-dominicana",
+      "title": "Avelino Stanley pone en circulación \"Historia de la literatura infantil y juvenil dominicana\"",
+      "summary": "URL Source: https://eldia.com.do/avelino-stanley-pone-en-circulacion-historia-de-la-literatura-infantil-y-juvenil-dominicana",
+      "body": "URL Source: https://eldia.com.do/avelino-stanley-pone-en-circulacion-historia-de-la-literatura-infantil-y-juvenil-dominicana El escritor dominicano Avelino Stanley puso en circulación su libro “ Historia de la literatura infantil y juvenil dominicana”, una obra que recoge una investigación que de más de seis años y que abarca un periodo de más de 150 años de historia. La investigación realizada por Stanley incluye alrededor de 350 autores dominicanos de todos los tiempos, entre los que también están integrados los nativos y descendientes residentes en el exterior.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T17:02:44+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:48.829789+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_e0503dd45b8009a3",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/dos-presuntos-delincuentes-se-suman-a-lista-de-abatidos-en-intercambios-de-disparos-con-la-policia",
+      "title": "Dos presuntos delincuentes se suman a lista de abatidos en intercambios de disparos con la Policía",
+      "summary": "URL Source: https://eldia.com.do/dos-presuntos-delincuentes-se-suman-a-lista-de-abatidos-en-intercambios-de-disparos-con-la-policia",
+      "body": "URL Source: https://eldia.com.do/dos-presuntos-delincuentes-se-suman-a-lista-de-abatidos-en-intercambios-de-disparos-con-la-policia Santo Domingo. Dos presuntos delincuentes más se suman este lunes a la lista de personas abatidas en intercambios de disparos con agentes de la Policía Nacional , luego de resultar mortalmente heridos durante operativos realizados por separado en Verón-Punta Cana y Salcedo, provincias Hermanas Mirabal . Se trata de Luis David Fortuna Perdomo (a) “Caco de Leche” , de 27 años, y Rolando Torres Vásquez , de 32, quienes eran activamente buscados por su presunta vinculación con distintos hechos delictivos.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T18:12:18+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:46.788958+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_5ad83d510a960011",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/juezas-aplazan-juicio-contra-donald-guerrero-y-compartes-en-caso-calamar-por-licencia-medica-de-un-imputado",
+      "title": "Juezas aplazan juicio contra Donald Guerrero y compartes en caso Calamar por licencia médica de un imputado",
+      "summary": "URL Source: https://eldia.com.do/juezas-aplazan-juicio-contra-donald-guerrero-y-compartes-en-caso-calamar-por-licencia-medica-de-un-imputado",
+      "body": "URL Source: https://eldia.com.do/juezas-aplazan-juicio-contra-donald-guerrero-y-compartes-en-caso-calamar-por-licencia-medica-de-un-imputado Santo Domingo.- Las juezas del Tercer Tribunal Colegiado del Distrito Nacional aplazaron para el próximo 30 de septiembre el inicio de la presentación de las pruebas testimoniales contra Donald Guerrero y otros implicados en el caso Calamar , luego de que el abogado del imputado Daniel de Jesús Caamaño Santana presentara una licencia médica. Las magistradas adoptaron la decisión para dar tiempo a que el acusado del caso Calamar mejore de su condición de salud.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T17:34:26+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:45.012068+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_cefb0a993c158a94",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/la-provincia-santo-domingo-25-anos-despues-seis-cambios-de-alcaldes-pero-las-carencias-no-han-cambiado",
+      "title": "La provincia Santo Domingo 25 años después: seis cambios de alcaldes pero las carencias no han cambiado",
+      "summary": "URL Source: https://eldia.com.do/la-provincia-santo-domingo-25-anos-despues-seis-cambios-de-alcaldes-pero-las-carencias-no-han-cambiado",
+      "body": "URL Source: https://eldia.com.do/la-provincia-santo-domingo-25-anos-despues-seis-cambios-de-alcaldes-pero-las-carencias-no-han-cambiado SANTO DOMINGO.- La provincia Santo Domingo acumula seis procesos electorales municipales desde su creación y, en ese período, los resultados dejan una pregunta sobre la mesa: ¿qué tanto han respondido las alcaldías a las necesidades de sus comunidades? El balance, visto desde los reclamos que todavía persisten en distintos municipios y desde el comportamiento de los electores en las urnas, parece inclinarse más hacia las sombras que hacia las luces.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T17:29:29+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:39.351090+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_acc84633434d3228",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/prioriza-rd-retira-mas-de-1093-libras-de-desechos-de-los-cayos-de-samana",
+      "title": "Prioriza RD retira más de 1,093 libras de desechos de los cayos de Samaná",
+      "summary": "Santa Bárbara de Samaná .– El Voluntariado Prioriza RD, iniciativa de voluntariado corporativo de Priority Courier ¡La Marca!, realizó una jornada simultánea de limpieza en cayos de Samaná donde fueron recolectadas 1,093 libras de desechos, entre madera, plásticos, tapitas, metales, vidrios y basura general.",
+      "body": "Santa Bárbara de Samaná .– El Voluntariado Prioriza RD, iniciativa de voluntariado corporativo de Priority Courier ¡La Marca!, realizó una jornada simultánea de limpieza en cayos de Samaná donde fueron recolectadas 1,093 libras de desechos, entre madera, plásticos, tapitas, metales, vidrios y basura general. La jornada abarcó las zonas de Cayo Vigía, Cayo Linares y Cayo Levantado, en la provincia de Samaná, donde se involucraron voluntarios, autoridades, organizaciones ambientales, empresas, medios de comunicación y representantes de distintos sectores de la sociedad. En las áreas intervenidas se recolectaron 230 libras correspondieron a madera; 123 libras a plásticos; 8 libras a tapitas; 60 libras a metales; 465 liras a vidrios y 207 libras a basura general.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T17:47:01+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:38.938042+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_3f6c5da3f3db2f81",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/almuerzo-escolar-cuesta-rd93-73-al-estado-por-racion",
+      "title": "¿Cuánto cuesta un almuerzo escolar? Suplidores detallan el monto y sus gastos",
+      "summary": "Santo Domingo.- Los suplidores de alimentación escolar explicaron que el costo de una ración que entregan a los centros educativos de almuerzo escolar asciende a RD$79.43 sin ITBIS y a RD$93.73 con el Impuesto sobre Transferencias de Bienes Industrializados y Servicios (ITBIS), monto con el que deben cubrir los gastos de operación de sus cocinas .",
+      "body": "Santo Domingo.- Los suplidores de alimentación escolar explicaron que el costo de una ración que entregan a los centros educativos de almuerzo escolar asciende a RD$79.43 sin ITBIS y a RD$93.73 con el Impuesto sobre Transferencias de Bienes Industrializados y Servicios (ITBIS), monto con el que deben cubrir los gastos de operación de sus cocinas . África Montas, representante de una Asociación de Suplidores del Desayuno Escolar, explicó que cada empresa tiene una capacidad instalada diferente, así como costos particulares relacionados con el personal, espacio físico, cantidad de raciones que prepara y demás gastos de operación. Detalló que el monto adjudicado depende de la matrícula del centro educativo. Por ejemplo, si una escuela tiene 500 estudiantes, esa matrícula se multiplica por los 200 días que contempla el año escolar para calcular el monto del contrato.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T18:19:03+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:38.524844+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_0d8db52349da70c3",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/proyecto-uno-estrena-audiovisual-de-su-cancon-give-me",
+      "title": "Proyecto Uno estrena audiovisual de su cancón \"Give me”",
+      "summary": "Se recuerda que Proyecto Uno irrumpió en la escena musical a principios de los 90 a ritmo de merenhouse, con canciones como El tiburón, Está pegao, Brinca, 25 horas, Latinos y otros éxitos.",
+      "body": "Se recuerda que Proyecto Uno irrumpió en la escena musical a principios de los 90 a ritmo de merenhouse, con canciones como El tiburón, Está pegao, Brinca, 25 horas, Latinos y otros éxitos. Miami, Florida — La agrupación Proyecto Uno está de regreso y como muestra de su nueva música presentó estrenó el video musical de “Give me”, uno de los temas incluidos en su más reciente álbum, Back in da House. Para esta nueva entrega, Winston De Jesús, Nelson Zapata y Maurimix, exintegrante de la reconocida agrupación venezolana Amigos Invisibles, llevan “Give me” a un nuevo terreno sonoro, incorporando elementos de funk, merengue y sonidos urbanos.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T18:56:53+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:38.448370+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_22a6b68ab49d6834",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/el-mundo/extraditan-18-sospechosos-asesinato-moise-eu_1103053.html",
+      "title": "Extraditan 18 sospechosos de asesinato de Moise a EU",
+      "summary": "Entre los sospechosos que permanecían en Haití a la espera de juicio figuraban 17 soldados colombianos y Joseph Badio, un exempleado del Ministerio de Justicia",
+      "body": "Entre los sospechosos que permanecían en Haití a la espera de juicio figuraban 17 soldados colombianos y Joseph Badio, un exempleado del Ministerio de Justicia Facebook Twitter Bluesky Send (mailto:?subject=JExtraditan%2018%20sospechosos%20de%20asesinato%20de%20Moise%20a%20EU&body==https://hoy.com.do/el-mundo/extraditan-18-sospechosos-asesinato-moise-eu 1103053.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace Dieciocho sospechosos que fueron arrestados por el asesinato del presidente haitiano Jovenel Moïse en julio de 2021 fueron extraditados a EEUU ayer, lo que marca el final de un prolongado proceso judicial en Haití por un crimen que conmocionó al país.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T00:00:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:32.165372+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_58df68cf64118ef1",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/economia/dolar-hoy-asi-cotizan-principales-divisas-republica-dominicana_1103066.html",
+      "title": "Dólar hoy: así se cotizan las principales divisas en República Dominicana",
+      "summary": "El Banco Central precisó que estas tasas representan el promedio ponderado de las transacciones realizadas en el mercado spot",
+      "body": "El Banco Central precisó que estas tasas representan el promedio ponderado de las transacciones realizadas en el mercado spot Un dólar fuerte opera como un impuesto invisible sobre las importaciones: obliga a la economía a generar más pesos para honrar sus compromisos externos. Facebook Twitter Bluesky Send (mailto:?subject=JD%C3%B3lar%20hoy%3A%20as%C3%AD%20se%20cotizan%20las%20principales%20divisas%20en%20Rep%C3%BAblica%20Dominicana&body==https://hoy.com.do/economia/dolar-hoy-asi-cotizan-principales-divisas-republica-dominicana 1103066.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T08:04:44-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:29.170634+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_2c433ae241de3138",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/opinion/consultorios/estres-danino_1103051.html",
+      "title": "¿Cuándo el estrés es dañino?",
+      "summary": "Facebook Twitter Bluesky Send (mailto:?subject=J%C2%BFCu%C3%A1ndo%20el%20estr%C3%A9s%20es%20da%C3%B1ino%3F&body==https://hoy.com.do/opinion/consultorios/estres-danino 1103051.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace",
+      "body": "Facebook Twitter Bluesky Send (mailto:?subject=J%C2%BFCu%C3%A1ndo%20el%20estr%C3%A9s%20es%20da%C3%B1ino%3F&body==https://hoy.com.do/opinion/consultorios/estres-danino 1103051.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace El estrés es una respuesta ante un evento que representa una amenaza, como cuando la vida de una persona esté o percibe que está en peligro. Es una respuesta evolutiva de supervivencia que activa una serie de mecanismos para garantizar la huida o el ataque. Esta respuesta es transitoria y la persona retoma el equilibrio cuando se siente segura. Si el estrés es continuo y el organismo sigue en modo de supervivencia, la amígdala cerebral se mantiene hiperactiva",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T00:00:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:25.928691+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_0c1264ee3bbf0552",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/el-pais/senasa-20-facturas-a-medico-muerto-y-ginecologia-a-hombres-entre-las-maniobras-que-habrian-realizado-los-imputados_1103116.html",
+      "title": "Senasa 2.0: Facturas a médico muerto y ginecología a hombres, entre las maniobras que habrían realizado los imputados",
+      "summary": "Title: Senasa 2.0: Facturas a médico muerto y ginecología a hombres, entre las maniobras que habrían realizado los imputados",
+      "body": "Title: Senasa 2.0: Facturas a médico muerto y ginecología a hombres, entre las maniobras que habrían realizado los imputados URL Source: https://hoy.com.do/el-pais/senasa-20-facturas-a-medico-muerto-y-ginecologia-a-hombres-entre-las-maniobras-que-habrian-realizado-los-imputados 1103116.html País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T15:59:23-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:20.614325+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_717450b08d593ac4",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/el-pais/senasa-2-0-angel-luis-guzman-auxiliar-autorizaciones-medicas-mencionado-444-veces-acusacion_1103020.html",
+      "title": "Senasa 2.0-A: Ángel Luis Guzmán, el ex-auxiliar de autorizaciones médicas mencionado 444 veces en la acusación",
+      "summary": "URL Source: https://hoy.com.do/el-pais/senasa-2-0-angel-luis-guzman-auxiliar-autorizaciones-medicas-mencionado-444-veces-acusacion 1103020.html",
+      "body": "URL Source: https://hoy.com.do/el-pais/senasa-2-0-angel-luis-guzman-auxiliar-autorizaciones-medicas-mencionado-444-veces-acusacion 1103020.html País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy Pese a que es mencionado más de 400 veces, el periódico Hoy comprobó que el señalado no figura en la lista principal de los encartados. No está su nombre pero tampoco su foto, como sí sucede con los demás imputados.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-20T19:57:56-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-20",
+      "fetched_at": "2026-09-21T20:35:20.047019+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_6d12f55854710128",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/el-pais/policia-entrevista-personas-ataque-julian-oro-duro-muerte-esposa_1103111.html",
+      "title": "Policía entrevista a varias personas por ataque a Julián Oro Duro y muerte de su esposa",
+      "summary": "País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy",
+      "body": "País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy Pesqueira informó que los investigadores mantienen la búsqueda de los responsables para identificarlos, apresarlos y ponerlos a disposición de la justicia. Facebook Twitter Bluesky Send (mailto:?subject=JPolic%C3%ADa%20entrevista%20a%20varias%20personas%20por%20ataque%20a%20Juli%C3%A1n%20Oro%20Duro%20y%20muerte%20de%20su%20esposa&body==https://hoy.com.do/el-pais/policia-entrevista-personas-ataque-julian-oro-duro-muerte-esposa 1103111.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T15:00:58-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:19.919304+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending",
+      "tambien_en": [
+        {
+          "source_name": "Diario Libre · Economía",
+          "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/lo-que-se-sabe-de-la-muerte-de-la-esposa-de-julian-oro-duro/3665816",
+          "title": "Lo que se sabe de la muerte de la esposa de Julián Oro Duro"
+        }
+      ]
+    },
+    {
+      "id": "n_a2467fe25bc0478b",
+      "source_key": "news_eldinero_rss",
+      "source_name": "El Dinero · RSS",
+      "url": "https://eldinero.com.do/381770/banco-ademi-dispone-de-rd1000-millones-para-credimejoras",
+      "title": "Banco Ademi dispone de RD$1,000 millones para CrediMejoras",
+      "summary": "(mailto:?subject=Banco%20Ademi%20dispone%20de%20RD%241%2C000%20millones%20para%20CrediMejoras&body=https%3A%2F%2Feldinero.com.do%2F381770%2Fbanco-ademi-dispone-de-rd1000-millones-para-credimejoras%2F)",
+      "body": "(mailto:?subject=Banco%20Ademi%20dispone%20de%20RD%241%2C000%20millones%20para%20CrediMejoras&body=https%3A%2F%2Feldinero.com.do%2F381770%2Fbanco-ademi-dispone-de-rd1000-millones-para-credimejoras%2F) Banco Múltiple Ademi anunció la apertura de CrediMejoras 2026-2027, su programa de financiamiento para el mejoramiento de viviendas y la ampliación de negocios, con una disponibilidad de RD$1,000 millones. Ademi destaca que la feria se llevará a cabo desde mediados de septiembre de 2026 hasta el 31 de enero de 2027 y ofrecerá tasas de interés preferenciales, condiciones de pago flexibles y facilidades de acceso dirigidas principalmente a familias y emprendedores de menores ingresos.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T19:31:34+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:06.810875+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_69ef62e06b704fb5",
+      "source_key": "news_extra_msynflyf",
+      "source_name": "Fuente guardada",
+      "url": "https://www.fxstreet.es/news/dolar-de-singapur-la-inflacion-mantiene-vivo-el-riesgo-de-endurecimiento-del-mas-commerzbank-202609211851",
+      "title": "Dólar de Singapur: La inflación mantiene vivo el riesgo de endurecimiento del MAS - Commerzbank",
+      "summary": "URL Source: https://www.fxstreet.es/news/dolar-de-singapur-la-inflacion-mantiene-vivo-el-riesgo-de-endurecimiento-del-mas-commerzbank-202609211851",
+      "body": "URL Source: https://www.fxstreet.es/news/dolar-de-singapur-la-inflacion-mantiene-vivo-el-riesgo-de-endurecimiento-del-mas-commerzbank-202609211851 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T18:51:10+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:01.140245+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_03e888e80e8077fd",
+      "source_key": "news_extra_msynflyf",
+      "source_name": "Fuente guardada",
+      "url": "https://www.fxstreet.es/news/musalem-de-la-fed-pide-mas-subidas-de-tasas-de-interes-202609211846",
+      "title": "Fed: Probablemente las tasas de interés deban subir más - Alberto Musalem",
+      "summary": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "body": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T18:46:13+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:35:00.340835+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_640c9078888f881a",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
+      "url": "https://www.diariolibre.com/mundo/haiti/2026/09/21/magnicidio-que-haiti-no-pudo-juzgar-llega-a-estados-unidos/3665530",
+      "title": "Magnicidio que Haití no pudo juzgar llega a Estados Unidos",
+      "summary": "URL Source: https://www.diariolibre.com/mundo/haiti/2026/09/21/magnicidio-que-haiti-no-pudo-juzgar-llega-a-estados-unidos/3665530",
+      "body": "URL Source: https://www.diariolibre.com/mundo/haiti/2026/09/21/magnicidio-que-haiti-no-pudo-juzgar-llega-a-estados-unidos/3665530",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T08:46:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:34:32.777784+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_0bc229c50a8587fe",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
+      "url": "https://www.diariolibre.com/politica/congreso-nacional/2026/09/21/senado-revisa-casos-de-nepotismo-pero-aun-no-anuncia-medidas/3665676",
+      "title": "Senado revisa casos de nepotismo, pero aún no anuncia medidas",
+      "summary": "URL Source: https://www.diariolibre.com/politica/congreso-nacional/2026/09/21/senado-revisa-casos-de-nepotismo-pero-aun-no-anuncia-medidas/3665676",
+      "body": "URL Source: https://www.diariolibre.com/politica/congreso-nacional/2026/09/21/senado-revisa-casos-de-nepotismo-pero-aun-no-anuncia-medidas/3665676",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd",
+        "hecho"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T11:24:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:34:32.609062+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_0e6cba5c638d35f1",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
+      "url": "https://www.diariolibre.com/revista/musica/2026/09/21/asi-vive-shakira-en-madrid-durante-su-residencia/3665821",
+      "title": "Así vive Shakira en Madrid durante su residencia",
+      "summary": "URL Source: https://www.diariolibre.com/revista/musica/2026/09/21/asi-vive-shakira-en-madrid-durante-su-residencia/3665821",
+      "body": "URL Source: https://www.diariolibre.com/revista/musica/2026/09/21/asi-vive-shakira-en-madrid-durante-su-residencia/3665821",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T13:47:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:34:26.457817+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_bbf9b4d5bdb62d69",
+      "source_key": "news_diariolibre",
+      "source_name": "Diario Libre · Economía",
+      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/piden-evitar-intercambio-de-disparos-en-caso-julian-oro-duro/3665710",
+      "title": "Piden evitar intercambio de disparos en caso Julián Oro Duro",
+      "summary": "URL Source: https://www.diariolibre.com/actualidad/sucesos/2026/09/21/piden-evitar-intercambio-de-disparos-en-caso-julian-oro-duro/3665710",
+      "body": "URL Source: https://www.diariolibre.com/actualidad/sucesos/2026/09/21/piden-evitar-intercambio-de-disparos-en-caso-julian-oro-duro/3665710",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T11:51:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:34:16.168064+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_0328c5d6f0048503",
+      "source_key": "news_diariolibre",
+      "source_name": "Diario Libre · Economía",
+      "url": "https://www.diariolibre.com/economia/empleo/2026/09/21/nuestra-senora-de-las-mercedes-y-el-dia-feriado-24-septiembre/3665883",
+      "title": "Nuestra Señora de las Mercedes y el día feriado 24 septiembre",
+      "summary": "URL Source: https://www.diariolibre.com/economia/empleo/2026/09/21/nuestra-senora-de-las-mercedes-y-el-dia-feriado-24-septiembre/3665883",
+      "body": "URL Source: https://www.diariolibre.com/economia/empleo/2026/09/21/nuestra-senora-de-las-mercedes-y-el-dia-feriado-24-septiembre/3665883",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T14:43:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:34:11.791511+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_db308451de506bf1",
+      "source_key": "news_diariolibre",
+      "source_name": "Diario Libre · Economía",
+      "url": "https://www.diariolibre.com/politica/gobierno/2026/09/21/abinader-presenta-inversiones-atractivas-en-republica-dominicana/3665945",
+      "title": "Abinader presenta inversiones atractivas en República Dominicana",
+      "summary": "URL Source: https://www.diariolibre.com/politica/gobierno/2026/09/21/abinader-presenta-inversiones-atractivas-en-republica-dominicana/3665945",
+      "body": "URL Source: https://www.diariolibre.com/politica/gobierno/2026/09/21/abinader-presenta-inversiones-atractivas-en-republica-dominicana/3665945",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd",
+        "hecho"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T15:38:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:34:10.507646+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_b5c84b3272bbe830",
+      "source_key": "news_diariolibre",
+      "source_name": "Diario Libre · Economía",
+      "url": "https://www.diariolibre.com/revista/cultura/2026/09/21/a-ritmo-de-aplausos-y-a-las-dos-de-la-tarde-mas-de-500-horas-leyendo/3665882",
+      "title": "A ritmo de aplausos y a las dos de la tarde: ¡Más de 500 horas leyendo",
+      "summary": "URL Source: https://www.diariolibre.com/revista/cultura/2026/09/21/a-ritmo-de-aplausos-y-a-las-dos-de-la-tarde-mas-de-500-horas-leyendo/3665882",
+      "body": "URL Source: https://www.diariolibre.com/revista/cultura/2026/09/21/a-ritmo-de-aplausos-y-a-las-dos-de-la-tarde-mas-de-500-horas-leyendo/3665882",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T14:48:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:34:10.215657+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_da915266d13e1664",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/381772/fantino-polanco-calidad-es-pasaporte-de-los-productos-dominicanos-para-exportar",
+      "title": "Fantino Polanco: calidad es pasaporte de los productos dominicanos para exportar",
+      "summary": "La calidad se consolida como el principal requisito para que los productos dominicanos accedan a mercados internacionales, según declaraciones de Fantino Polanco. El cumplimiento de estándares y certificaciones es crucial para la competitividad y el éxito de las exportaciones dominicanas en el comercio global.",
+      "body": "Fantino Polanco enfatizó que la calidad es el pasaporte indispensable para que los productos dominicanos puedan ingresar a mercados extranjeros. Señaló que el cumplimiento de estándares de trazabilidad, sostenibilidad y regulaciones internacionales ya no es una opción, sino una necesidad para las empresas que buscan participar activamente en el comercio internacional y asegurar su permanencia en dichos mercados.",
+      "category": "Economia",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-09-21T20:10:13+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:31:01.567972+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_f5650d19dd8c2926",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/381793/ia-en-logistica-genera-retornos-cuando-se-implementa-correctamente-afirma-experto-internacional",
+      "title": "IA en logística genera retornos cuando se implementa correctamente, afirma experto internacional",
+      "summary": "La inteligencia artificial (IA) está siendo adoptada por el 35% de las empresas dominicanas con acceso a internet, generando retornos significativos en logística si se implementa correctamente. Expertos señalan que la optimización de rutas y la predicción de comportamientos futuros son áreas clave para obtener ventajas competitivas.",
+      "body": "La inteligencia artificial (IA) está transformando la logística en República Dominicana, con un 35% de empresas formales ya utilizándola según la ONE. El experto internacional Diego Páramo destacó que la correcta implementación de IA genera retornos y ventajas competitivas, especialmente en la optimización de rutas y la predicción de comportamientos futuros, áreas cruciales para la cadena de suministro.",
+      "category": "Economia",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-09-21T20:29:49+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:30:24.095766+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": "n_8efddd9fff6351ba",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/381788/experta-advierte-que-empresarios-deben-entender-el-arbitraje-antes-de-firmar-un-contrato",
+      "title": "Experta advierte que empresarios deben entender el arbitraje antes de firmar un contrato",
+      "summary": "La árbitra internacional Diana Correa enfatiza la necesidad de que los empresarios comprendan las cláusulas de arbitraje en sus contratos, no solo delegando en abogados. Esta comprensión es crucial para la gestión de riesgos contractuales desde la firma del acuerdo.",
+      "body": "La árbitra internacional Diana Correa destacó la importancia de que los empresarios se involucren activamente en la definición de las cláusulas de arbitraje en sus contratos. Señaló que delegar completamente esta tarea en los abogados es un error común, ya que el arbitraje debe ser entendido como una parte integral del negocio y un mecanismo para gestionar riesgos desde su origen.",
+      "category": "Financiero",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-09-21T20:17:39+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-21T20:30:06.351660+00:00",
+      "dia_lectura": "2026-09-21",
+      "status": "pending"
+    },
     {
       "id": "n_ce87b943a863b746",
       "source_key": "news_gnews_bcrd",
@@ -179,7 +803,19 @@
       "dia_editorial": "2026-09-21",
       "fetched_at": "2026-09-21T18:32:28.960898+00:00",
       "dia_lectura": "2026-09-21",
-      "status": "pending"
+      "status": "pending",
+      "tambien_en": [
+        {
+          "source_name": "Diario Libre · Finanzas",
+          "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/abinader-insta-a-responsables-de-ataque-a-julian-oro-duro-a-entregarse/3665709",
+          "title": "Abinader insta a responsables de ataque a Julián Oro Duro a entregarse"
+        },
+        {
+          "source_name": "Diario Libre · Finanzas",
+          "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/ataque-a-julian-oro-duro-matan-a-su-esposa/3665694",
+          "title": "Ataque a Julián Oro Duro: matan a su esposa"
+        }
+      ]
     },
     {
       "id": "n_2f4fd7b3a07d9860",
@@ -434,246 +1070,9 @@
       "fetched_at": "2026-09-21T18:32:06.903837+00:00",
       "dia_lectura": "2026-09-21",
       "status": "pending"
-    },
-    {
-      "id": "n_42e95267dbd520cf",
-      "source_key": "news_hoy",
-      "source_name": "Hoy Digital · Economía",
-      "url": "https://hoy.com.do/economia/verifon-pasara-estaciones-combustibles-viernes_1103079.html",
-      "title": "Verifón: qué pasará con las estaciones de combustibles desde este viernes",
-      "summary": "El reclamo principal del gremio gira en torno a los altos costos por las comisiones y cargos asociados al uso de las transacciones electrónicas, un tema que ha mantenido enfrentados a los detallistas y a los procesadores de pagos",
-      "body": "El reclamo principal del gremio gira en torno a los altos costos por las comisiones y cargos asociados al uso de las transacciones electrónicas, un tema que ha mantenido enfrentados a los detallistas y a los procesadores de pagos Facebook Twitter Bluesky Send (mailto:?subject=JVerif%C3%B3n%3A%20qu%C3%A9%20pasar%C3%A1%20con%20las%20estaciones%20de%20combustibles%20desde%20este%20viernes&body==https://hoy.com.do/economia/verifon-pasara-estaciones-combustibles-viernes 1103079.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace La tensión en el sector combustibles escala a pocas horas de que se cumpla el plazo anunciado. La Asociación Nacional de Detallistas de Gasolinas (Anadegas) reafirmó que este viernes 25 de septiembre a las 6:00 a. m. procederá a desconectar los dispositivos de pago electrónico (verifones) en sus",
-      "category": "Financiero",
-      "relevance": 10,
-      "señales": [
-        "entidad_rd"
-      ],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": true,
-      "published_at": "2026-09-21T10:20:32-04:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:32:02.891949+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
-    },
-    {
-      "id": "n_4f6c395f9b8a81c5",
-      "source_key": "news_hoy",
-      "source_name": "Hoy Digital · Economía",
-      "url": "https://hoy.com.do/el-pais/julian-oro-duro-resulta-herido-y-su-esposa-muere-tras-ataque-en-su-residencia_1103067.html",
-      "title": "Muere Zeneida, esposa de “Julián Oro Duro”, tras ataque; el merenguero resulta herido",
-      "summary": "URL Source: https://hoy.com.do/el-pais/julian-oro-duro-resulta-herido-y-su-esposa-muere-tras-ataque-en-su-residencia 1103067.html",
-      "body": "URL Source: https://hoy.com.do/el-pais/julian-oro-duro-resulta-herido-y-su-esposa-muere-tras-ataque-en-su-residencia 1103067.html País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy Facebook Twitter Bluesky Send (mailto:?subject=JMuere%20Zeneida%2C%20esposa%20de%20%E2%80%9CJuli%C3%A1n%20Oro%20Duro%E2%80%9D%2C%20tras%20ataque%3B%20el%20merenguero%20resulta%20herido&body==https://hoy.com.do/el-pais/julian-oro-duro-resulta-herido-y-su-esposa-muere-tras-ataque-en-su-residencia 1103067.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace",
-      "category": "Financiero",
-      "relevance": 10,
-      "señales": [
-        "entidad_rd"
-      ],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": true,
-      "published_at": "2026-09-21T08:20:09-04:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:32:02.218476+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
-    },
-    {
-      "id": "n_da934392646c7dba",
-      "source_key": "news_hoy",
-      "source_name": "Hoy Digital · Economía",
-      "url": "https://hoy.com.do/el-pais/caso-julian-oro-duro-que-lesiones-sufrio-el-artista-y-cual-es-su-estado-de-salud_1103082.html",
-      "title": "Caso Julián Oro Duro: ¿Qué lesiones sufrió el artista y cuál es su estado de salud?",
-      "summary": "URL Source: https://hoy.com.do/el-pais/caso-julian-oro-duro-que-lesiones-sufrio-el-artista-y-cual-es-su-estado-de-salud 1103082.html",
-      "body": "URL Source: https://hoy.com.do/el-pais/caso-julian-oro-duro-que-lesiones-sufrio-el-artista-y-cual-es-su-estado-de-salud 1103082.html País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy Su evaluación inicial evidenció múltiples traumatismos, en la región frontal y parietal de la cabeza, así como en diferentes partes de su cuerpo.",
-      "category": "Financiero",
-      "relevance": 10,
-      "señales": [
-        "entidad_rd"
-      ],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": true,
-      "published_at": "2026-09-21T10:34:03-04:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:32:01.975705+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
-    },
-    {
-      "id": "n_abe03297ebbafa01",
-      "source_key": "news_extra_msynflyf",
-      "source_name": "Fuente guardada",
-      "url": "https://www.fxstreet.es/news/macklem-del-boc-ve-una-inflacion-al-alza-mientras-persiste-la-incertidumbre-202609211702",
-      "title": "BoC: Veo una inflación al alza mientras persista la incertidumbre - Tiff Macklem",
-      "summary": "URL Source: https://www.fxstreet.es/news/macklem-del-boc-ve-una-inflacion-al-alza-mientras-persiste-la-incertidumbre-202609211702",
-      "body": "URL Source: https://www.fxstreet.es/news/macklem-del-boc-ve-una-inflacion-al-alza-mientras-persiste-la-incertidumbre-202609211702 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
-      "category": "Economia",
-      "relevance": 9,
-      "señales": [
-        "politica_monetaria"
-      ],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": true,
-      "published_at": "2026-09-21T17:02:55+00:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:31:33.962192+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
-    },
-    {
-      "id": "n_55a6cc8498449c52",
-      "source_key": "news_extra_msynflyc",
-      "source_name": "Fuente guardada",
-      "url": "https://www.hacienda.gob.do/hacienda-y-economia-participa-en-encuentro-junto-a-mas-de-20-instituciones-para-fortalecer-acciones-dirigidas-a-mujeres-adolescentes-y-ninas",
-      "title": "Hacienda y Economía participa en encuentro junto a más de 20 instituciones para fortalecer acciones dirigidas a mujeres, adolescentes y niñas",
-      "summary": "Title: Hacienda y Economía participa en encuentro junto a más de 20 instituciones para fortalecer acciones dirigidas a mujeres, adolescentes y niñas",
-      "body": "Title: Hacienda y Economía participa en encuentro junto a más de 20 instituciones para fortalecer acciones dirigidas a mujeres, adolescentes y niñas URL Source: https://www.hacienda.gob.do/hacienda-y-economia-participa-en-encuentro-junto-a-mas-de-20-instituciones-para-fortalecer-acciones-dirigidas-a-mujeres-adolescentes-y-ninas Enlaces de interés ! Image 25: Logo de Servicios Gob Servicios Gob ! Image 26: Logo de Sistema 311 Sistema 311 ! Image 27: Logo de Sistema 911 Sistema 911 ! Image 28: Logo de Observatorio SP Observatorio SP ! Image 29: Logo de Beca tu futuro Beca tu futuro ! Image 30: Logo de Denuncia IWF Denuncia IWF ! Image 31: Logo de Ciberseguridad Ciberseguridad",
-      "category": "Economia",
-      "relevance": 9,
-      "señales": [
-        "regulador",
-        "hecho"
-      ],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": true,
-      "published_at": "2026-09-21T14:18:14+00:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:31:23.962906+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
-    },
-    {
-      "id": "n_ea611badb64c2b41",
-      "source_key": "news_diariolibre",
-      "source_name": "Diario Libre · Economía",
-      "url": "https://www.diariolibre.com/actualidad/justicia/2026/09/21/caso-senasa20-presunto-lider-dispuesto-a-negociar-con-el-mp/3665669",
-      "title": "Presunto líder de fraude de RD$41 millones al Senasa y su familia dispuestos a negociar con el MP",
-      "summary": "El presunto cabecilla de un fraude millonario contra el Seguro Nacional de Salud (Senasa) ha expresado su disposición a negociar con el Ministerio Público. Este caso, que involucra una suma considerable de dinero, podría tener implicaciones en la percepción de seguridad y transparencia de las instituciones públicas dominicanas.",
-      "body": "El principal sospechoso de un fraude millonario contra el Seguro Nacional de Salud (Senasa) se ha mostrado abierto a alcanzar un acuerdo con el Ministerio Público. La investigación abarca a su familia y se centra en la presunta malversación de unos 41 millones de pesos, lo que pone de relieve la necesidad de fortalecer los controles internos y la vigilancia en las entidades gubernamentales.",
-      "category": "Regulatorio",
-      "relevance": 10,
-      "señales": [
-        "entidad_rd",
-        "hecho"
-      ],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": false,
-      "published_at": "2026-09-21T11:22:00-04:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:27:49.414951+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
-    },
-    {
-      "id": "n_934b0fc0a423ef7f",
-      "source_key": "news_eldinero",
-      "source_name": "El Dinero · Finanzas",
-      "url": "https://eldinero.com.do/381714/rd-procesara-en-noviembre-datos-para-definir-recursos-de-tierras-raras",
-      "title": "RD procesará en noviembre datos para definir recursos de tierras raras",
-      "summary": "República Dominicana avanzará en noviembre en la determinación de sus recursos de tierras raras tras analizar miles de muestras, con la meta de declarar reservas en el primer semestre de 2027. Este proceso podría convertir los recursos certificados en activos transables, impactando la economía nacional.",
-      "body": "El Ministerio de Energía y Minas procesará en noviembre datos cruciales para definir los recursos de tierras raras en República Dominicana, tras analizar más de 5,000 muestras. El ministro Joel Santos destacó que la primera declaración de reservas se proyecta para el primer semestre de 2027, lo que podría convertir estos recursos certificados en activos transables para el país.",
-      "category": "Economia",
-      "relevance": 7,
-      "señales": [],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": false,
-      "published_at": "2026-09-21T17:14:05+00:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:27:24.936601+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
-    },
-    {
-      "id": "n_f9a4c5c4933d4674",
-      "source_key": "news_eldinero",
-      "source_name": "El Dinero · Finanzas",
-      "url": "https://eldinero.com.do/381719/diego-paramo-la-inteligencia-artificial-avanza-pero-la-cultura-empresarial-sigue-siendo-el-principal-desafio",
-      "title": "Diego Páramo: “La inteligencia artificial avanza, pero la cultura empresarial sigue siendo el principal desafío”",
-      "summary": "Empresas logísticas dominicanas enfrentan el desafío de adaptar su cultura organizacional para aprovechar la inteligencia artificial, más allá de la tecnología misma. La resistencia al cambio y la gestión del talento humano son claves para la competitividad en la nueva era logística.",
-      "body": "El experto internacional Diego Páramo destacó que la adopción de inteligencia artificial en las empresas logísticas dominicanas se ve frenada no por la tecnología, sino por la cultura empresarial. La resistencia al cambio y la necesidad de preparar al talento humano para trabajar con nuevas herramientas son los principales obstáculos. Páramo enfatizó que las soluciones genéricas de IA no garantizan mejoras, sino que se requieren implementaciones específicas y una gestión del cambio efectiva para optimizar operaciones.",
-      "category": "Economia",
-      "relevance": 7,
-      "señales": [],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": false,
-      "published_at": "2026-09-21T17:26:24+00:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:26:20.709449+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
-    },
-    {
-      "id": "n_9e5001710bc9c0c8",
-      "source_key": "news_eldinero",
-      "source_name": "El Dinero · Finanzas",
-      "url": "https://eldinero.com.do/381726/honduras-y-republica-dominica-a-la-cabeza-por-inflacion-en-agosto-2026",
-      "title": "Honduras y República Dominicana a la cabeza por inflación en agosto 2026",
-      "summary": "La inflación en Centroamérica y República Dominicana mostró variaciones significativas en agosto de 2026, con Honduras y República Dominicana liderando las tasas interanuales. El Banco Central de la República Dominicana reportó una inflación del 5.13%, indicando una convergencia hacia su meta, mientras otros países de la región presentan tendencias distintas.",
-      "body": "En agosto de 2026, Honduras y República Dominicana registraron las tasas de inflación interanual más altas de Centroamérica, con 6.20% y 5.13% respectivamente. El Banco Central de la República Dominicana (BCRD) informó una variación mensual del Índice de Precios al Consumidor (IPC) del 0.38%, situando la inflación interanual en 5.13% y mostrando una tendencia hacia su rango objetivo. Los principales incrementos de precios se concentraron en alimentos, educación y transporte.",
-      "category": "Economia",
-      "relevance": 9,
-      "señales": [
-        "regulador",
-        "politica_monetaria"
-      ],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": false,
-      "published_at": "2026-09-21T17:55:19+00:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:26:14.571930+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending",
-      "tambien_en": [
-        {
-          "source_name": "Google News · BCRD y política monetaria",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEhqNWpYeUNpUzVBR1FfT3JnUzNxNVctYnRmMWMtUUY5bk9zSTZVdVdqTUdXQ1ROZGMxajk0dFhwamF3VjhSeENkUXVXa3JfNTVCLVRxRUtDUWpKRUJYaEtBcEpTVmpjVjd0cWdrX25JWXc1QmtiMmlqTGplSWpRR2N5MmU5cFVabU9OejRlaThVaEZEYUUtdzlrTUZZUmFFOFhfeQ?oc=5",
-          "title": "Honduras y República Dominica a la cabeza por inflación en agosto 2026 - Periódico elDinero"
-        }
-      ]
-    },
-    {
-      "id": "n_bdb240cff3ad57c8",
-      "source_key": "news_eldinero",
-      "source_name": "El Dinero · Finanzas",
-      "url": "https://eldinero.com.do/381737/cepal-alerta-sobre-impacto-economico-de-un-posible-el-nino-extremo",
-      "title": "Cepal alerta sobre impacto económico de un posible El Niño extremo",
-      "summary": "La Cepal advierte que un El Niño extremo podría reducir el PIB de América Latina y el Caribe en al menos 2% y aumentar la pobreza en 4.8 millones de personas. El fenómeno amenaza sectores clave como la agricultura, la pesca y la energía, con especial riesgo para República Dominicana.",
-      "body": "La Comisión Económica para América Latina y el Caribe (Cepal) ha emitido una alerta sobre las severas repercusiones económicas y sociales de un posible El Niño extremo en la región. Se estima una pérdida del 2% del PIB regional y un incremento de 4.8 millones de personas en situación de pobreza. Sectores como la agricultura, pesca y energía, cruciales para economías como la dominicana, enfrentarían impactos significativos.",
-      "category": "Economia",
-      "relevance": 9,
-      "señales": [
-        "macro",
-        "hecho"
-      ],
-      "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
-      "sin_ia": false,
-      "published_at": "2026-09-21T18:11:08+00:00",
-      "fecha_inferida_de_url": false,
-      "dia_editorial": "2026-09-21",
-      "fetched_at": "2026-09-21T18:26:08.423111+00:00",
-      "dia_lectura": "2026-09-21",
-      "status": "pending"
     }
   ],
-  "discarded_count": 57,
+  "discarded_count": 60,
   "discarded": [
     {
       "id": "n_51f775572dd53c6e",
@@ -700,76 +1099,40 @@
       "fetched_at": "2026-09-21T18:26:32.855587+00:00"
     },
     {
+      "id": "n_1768784a5e407335",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Vance justifica el veto a medios en que el “92% de noticias sobre Trump” son negativas",
+      "url": "https://eldinero.com.do/381775/vance-justifica-el-veto-a-medios-en-que-el-92-de-noticias-sobre-trump-son-negativas",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-09-21T20:34:00.500080+00:00"
+    },
+    {
+      "id": "n_8cf925468571161e",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Sector manufacturero lidera exportaciones en 2025; minería crece 51.4% impulsada por el oro",
+      "url": "https://eldinero.com.do/381783/sector-manufacturero-lidera-exportaciones-en-2025-mineria-crece-51-4-impulsada-por-el-oro",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-09-21T20:34:00.504167+00:00"
+    },
+    {
       "id": "n_f97af80291b7d232",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Embajada de EE. UU. advierte a sus ciudadanos que viajan RD: No pagamos atención médica",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "La advertencia de la Embajada de EE. UU. en RD para ciudadanos",
       "url": "https://www.diariolibre.com/usa/actualidad/2026/09/21/la-advertencia-de-la-embajada-de-ee-uu-en-rd-para-ciudadanos/3665695",
       "source_name": "Diario Libre · Economía",
-      "relevance": 5,
+      "relevance": null,
       "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-21T18:27:55.268353+00:00"
-    },
-    {
-      "id": "n_b6af9ad5e77a636d",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Abinader a responsables de la muerte de la esposa de Julián Oro Duro: \"Les va a ir peor\"",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/abinader-insta-a-responsables-de-ataque-a-julian-oro-duro-a-entregarse/3665709",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 5,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-21T18:28:12.992736+00:00"
-    },
-    {
-      "id": "n_b5ee5e82e8e6c7ee",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Vecinos de Julián Oro Duro expresan preocupación por delincuencia en Brisa Oriental",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/ataque-a-julian-oro-duro-matan-a-su-esposa/3665694",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 5,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-21T18:28:18.935981+00:00"
-    },
-    {
-      "id": "n_0bc229c50a8587fe",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Presidente del Senado dice que revisan casos de nepotismo, pero no anuncia medidas",
-      "url": "https://www.diariolibre.com/politica/congreso-nacional/2026/09/21/senado-revisa-casos-de-nepotismo-pero-aun-no-anuncia-medidas/3665676",
-      "source_name": "Diario Libre · Finanzas",
-      "relevance": 5,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-21T18:29:00.713420+00:00"
-    },
-    {
-      "id": "n_6f4f843b046eac7d",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Lo que se sabe hasta ahora del asalto a la casa de Julián Oro Duro en el que murió su esposa",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/lo-que-se-sabe-de-la-muerte-de-la-esposa-de-julian-oro-duro/3665816",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-21T18:28:00.782347+00:00"
-    },
-    {
-      "id": "n_bbf9b4d5bdb62d69",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Atacantes habrían permanecido alrededor de ocho horas dentro de la casa de Julián Oro Duro",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/21/piden-evitar-intercambio-de-disparos-en-caso-julian-oro-duro/3665710",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-21T18:28:06.925289+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-21T20:34:15.923585+00:00"
     },
     {
       "id": "n_e24f2eeda6842275",
@@ -781,7 +1144,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-19, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.675938+00:00"
+      "fetched_at": "2026-09-21T20:34:52.064854+00:00"
     },
     {
       "id": "n_17b4c5395f9d1a3b",
@@ -793,7 +1156,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-18, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.676022+00:00"
+      "fetched_at": "2026-09-21T20:34:52.064940+00:00"
     },
     {
       "id": "n_1d2f6f6c601eccc3",
@@ -805,7 +1168,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-11, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.676096+00:00"
+      "fetched_at": "2026-09-21T20:34:52.065014+00:00"
     },
     {
       "id": "n_bc4d6cb46974fb50",
@@ -817,7 +1180,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-10, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.676167+00:00"
+      "fetched_at": "2026-09-21T20:34:52.065075+00:00"
     },
     {
       "id": "n_615a498323dc3059",
@@ -829,7 +1192,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-10, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.676242+00:00"
+      "fetched_at": "2026-09-21T20:34:52.065144+00:00"
     },
     {
       "id": "n_920a8b98c200a0ba",
@@ -841,7 +1204,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-09, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.676315+00:00"
+      "fetched_at": "2026-09-21T20:34:52.065228+00:00"
     },
     {
       "id": "n_70fc6ccd39cf4ead",
@@ -853,7 +1216,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-08, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.676402+00:00"
+      "fetched_at": "2026-09-21T20:34:52.065302+00:00"
     },
     {
       "id": "n_c98c0bbe835a799f",
@@ -865,7 +1228,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-08, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.676471+00:00"
+      "fetched_at": "2026-09-21T20:34:52.065373+00:00"
     },
     {
       "id": "n_0ef7aa27e9bfe4a6",
@@ -877,7 +1240,151 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-07, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:18.676536+00:00"
+      "fetched_at": "2026-09-21T20:34:52.065484+00:00"
+    },
+    {
+      "id": "n_28ef8326f4f91f64",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Rupia indonesia: La continuidad de la política compensa, pero no puede eliminar, los vientos en contra externos – OCBC",
+      "url": "https://www.fxstreet.es/news/rupia-indonesia-la-continuidad-de-la-politica-compensa-pero-no-puede-eliminar-los-vientos-en-contra-externos-ocbc-202609211937",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-21T20:34:56.326121+00:00"
+    },
+    {
+      "id": "n_c9c2739dc2157f4d",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Dólar de Singapur: La holgura laboral limita el riesgo de endurecimiento del MAS – UOB",
+      "url": "https://www.fxstreet.es/news/dolar-de-singapur-la-holgura-laboral-limita-el-riesgo-de-endurecimiento-del-mas-uob-202609212018",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-21T20:34:56.696502+00:00"
+    },
+    {
+      "id": "n_802a438387d87e28",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El precio del Oro retrocede mientras los halcones de la Fed mantienen la fortaleza del Dólar estadounidense",
+      "url": "https://www.fxstreet.es/news/el-precio-del-oro-retrocede-mientras-los-halcones-de-la-fed-mantienen-la-fortaleza-del-dolar-estadounidense-202609212010",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-21T20:34:58.170787+00:00"
+    },
+    {
+      "id": "n_c8dd41355bfce347",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Brent: Los riesgos de suministro contrastan con unos precios más débiles – ING",
+      "url": "https://www.fxstreet.es/news/brent-los-riesgos-de-suministro-contrastan-con-unos-precios-mas-debiles-ing-202609211912",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-21T20:34:59.118168+00:00"
+    },
+    {
+      "id": "n_68bb19c1421b4054",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El petróleo de Texas cae 4.5% hasta US$95,78 tras señales de diálogo entre Trump e Irán",
+      "url": "https://eldinero.com.do/381766/el-petroleo-de-texas-cae-4-5-hasta-us9578-tras-senales-de-dialogo-entre-trump-e-iran",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-21T20:35:07.145882+00:00"
+    },
+    {
+      "id": "n_fe0ce82a07bcde24",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "ETED fortalece la gobernanza y el cumplimiento con la cuarta Sala de Energía y Sostenibilidad",
+      "url": "https://eldinero.com.do/381756/eted-fortalece-la-gobernanza-y-el-cumplimiento-con-la-cuarta-sala-de-energia-y-sostenibilidad",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-21T20:35:08.071863+00:00"
+    },
+    {
+      "id": "n_1bb69f75615c0aa0",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "CESDN asume cinco compromisos para fortalecer las mipymes",
+      "url": "https://eldinero.com.do/381759/cesdn-asume-cinco-compromisos-para-fortalecer-las-mipymes",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-21T20:35:11.760372+00:00"
+    },
+    {
+      "id": "n_f02f3ab136a1f038",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Pide tiempo para solucionar tema de cobro con verifones",
+      "url": "https://hoy.com.do/economia/pide-solucionar-tema-cobro-verifones_1101855.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-09-10, ventana 2026-09-20 a 2026-09-21",
+      "fetched_at": "2026-09-21T20:35:13.620366+00:00"
+    },
+    {
+      "id": "n_a6f0aff697781792",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "“El Fiestazo de las Mercedes”: el gran junte de la nueva sangre del merengue típico",
+      "url": "https://hoy.com.do/vivir/alegria/conciertos/fiestazo-mercedes-gran-junte-nueva-sangre-merengue-tipico_1102864.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-09-18, ventana 2026-09-20 a 2026-09-21",
+      "fetched_at": "2026-09-21T20:35:13.620491+00:00"
+    },
+    {
+      "id": "n_bfa0e4b28a6963ed",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Jacob Elordi, el actor australiano que conquista Hollywood y roba suspiros en todo el mundo",
+      "url": "https://hoy.com.do/vivir/alegria/cine/jacob-elordi-actor-australiano-conquista-hollywood-roba-suspiros-mundo_1073800.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-01-22, ventana 2026-09-20 a 2026-09-21",
+      "fetched_at": "2026-09-21T20:35:13.620620+00:00"
+    },
+    {
+      "id": "n_99ce49c6992f49da",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Haití registra 164 asesinatos en masacres julio y agosto",
+      "url": "https://hoy.com.do/el-mundo/haiti/haiti-registra-164-asesinatos-masacres-julio-agosto_1102813.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-09-18, ventana 2026-09-20 a 2026-09-21",
+      "fetched_at": "2026-09-21T20:35:13.620692+00:00"
+    },
+    {
+      "id": "n_eb0c92d6608ec624",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "¿Cuándo los celos son peligrosos?",
+      "url": "https://hoy.com.do/opinion/consultorios/celos-son-peligrosos_1101476.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-09-07, ventana 2026-09-20 a 2026-09-21",
+      "fetched_at": "2026-09-21T20:35:13.620764+00:00"
     },
     {
       "id": "n_f7d07580d67761d3",
@@ -986,30 +1493,6 @@
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
       "fetched_at": "2026-09-21T18:31:53.505100+00:00"
-    },
-    {
-      "id": "n_f02f3ab136a1f038",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Pide tiempo para solucionar tema de cobro con verifones",
-      "url": "https://hoy.com.do/economia/pide-solucionar-tema-cobro-verifones_1101855.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-10, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:55.456737+00:00"
-    },
-    {
-      "id": "n_a6f0aff697781792",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "“El Fiestazo de las Mercedes”: el gran junte de la nueva sangre del merengue típico",
-      "url": "https://hoy.com.do/vivir/alegria/conciertos/fiestazo-mercedes-gran-junte-nueva-sangre-merengue-tipico_1102864.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-18, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:31:55.456834+00:00"
     },
     {
       "id": "n_d9bdc296cbb95aa2",
@@ -1310,54 +1793,6 @@
       "señales": [],
       "detalle": "el feed la fecha 2026-09-08, ventana 2026-09-20 a 2026-09-21",
       "fetched_at": "2026-09-21T18:32:52.569767+00:00"
-    },
-    {
-      "id": "n_ee09d26f45c03539",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La junta monetaria de Guatemala oficializa a 21 aspirantes para dirigir la superintendencia de bancos - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSzdFWXl2ZTFEX1FQYzN5SUc3dWNVT3hEbFREckpyY0trQkRkcFNUZTVZWUxCa1RuQ29UTk9mbnQxV1NiZWgweEdiT0FzMVRaQ0dzeVJmaHR0Y21aLWNyWjB4UFVZRExPbTVxYkN1OUdzQ0JMblZtNGhSNXZRblpvQVZ0dVRQb3U5a2NuSEd2NjVGOTROOEdjck1xczF0N2R5VHVQeWo3LUlFUkFtUXBneXhDbjZ3RkpvcDRxQlp6eDdwbFVhQ3lkTk8zd2JZY2FaYklvd0p2b0JHV21sd3ZFVNIB-wFBVV95cUxONTJXTXNwYU94WEFEWVhJa294RnRGekdGVFJ2RVRSaWdPSU9kMy1kNVM0UGJjcFFMZG9YNWlYR2N6b1lQTXNad3Jrald6SWhVNFd3WmtUMktGVDlnLUFmdERIM0pkMlgwblRsZGY0LURNc2JKS2dEMzhPYnFOSWxrMTVPZ0RFLUw3TDRQYXRLTGJiVDZWUTJHNTJUaFhOd2hrOVV5NlBHc2NJSVItQWhsLVotZzhqY20wNjVzZXZOYkJiQ1lfOEZsLUxCeU9aWUF5dFF1VXpMTGZ0bWlvemhNdVdFOTQyRWtzWnl1dC1DSDZDSl80a01sQ0hFcw?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-03, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:32:52.569841+00:00"
-    },
-    {
-      "id": "n_2b9cd96232b0fbc9",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos ha detectado más de 70 entidades sin autorización para operar en 2026 - Vistazo",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYmRTU2hneWJzMzh2Mi10SkV1N0Rtb2pQNm5ZZ2oteTJHR0ZHM2RHTURjN1VnTzdaR2wxcXBpYk5rV3pxbnp1N2Q5cFNpcHVSbnNLWFBQX0RTVVNRZzlTSll1VlhCb1E1ZGdnTlRBZDdvTG9BOTFWVU44bkNjMHVIa2lkX3N5ZF91RHVzQ1lVY3hsaXFuMlk4eWswcFBDMllzUEZ3QWFOUkRTX1ZxWnZkNnpPYnhlLUJCMmZxadIBwgFBVV95cUxQOVpGNm45WkNqRnJGZmNpdlpnUXFDMS1QQnN3dlRTR2R6bjVicWdqeEZNWF84SElWRU5BS21Pb0hiM0N3eERiYWlnWWhIempIQmkyUWRmZGFRTmREYzc2d3d1UDdiZkppU0FNVHA5S2JwbVROVER3Ui1sUDdORVFVOFVMbTEtbHhyVXVhNTktZ1dMQnRDZlFJY3BnWmxsUU40Z0E1X3JrbmRFcG9Oc283d1hiSHZYbXhSZXZvU2d6Y2ZOUQ?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-09, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:32:52.569913+00:00"
-    },
-    {
-      "id": "n_ab438bf49c84b3f2",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Banca dominicana mantiene su fortaleza ante los riesgos del entorno internacional - Periódico elDinero",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUDYwY0w1LXZlQ1VRQ0U2WGNicUhPYjhjc1RhWU1NcFBPa0JwT1B0VEZWS0pwY1EwcmtBUV9zS3BkLXFaakhiUGwwSC1QZkw0MGtHcWUxWUdmc3FRMjJSYU9kckY5T05NYjZvMkJVOG9Cc3RSWEc5Uk5ZQ2lHTHB0Q3VkRi1YRHVuTnl0dnQxN0VCRm9vN250Mm5SajU4Y25JakFQSl82VHltMlhBRTFqT3FrNA?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-08, ventana 2026-09-20 a 2026-09-21",
-      "fetched_at": "2026-09-21T18:32:52.569978+00:00"
-    },
-    {
-      "id": "n_ba3920472b4466cf",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Ley Antilavado en Guatemala: plantean inconstitucionalidad contra obligaciones relacionadas al secreto profesional",
-      "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
-      "source_name": "Búsqueda web",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-21T18:32:54.207717+00:00"
     }
   ]
 }
