@@ -1,23 +1,46 @@
 {
-  "generado_en": "2026-09-06T15:16:03.585385+00:00",
+  "generado_en": "2026-09-21T18:05:49.280460+00:00",
   "modelo": "gemini-2.5-flash-lite",
   "secciones": {
-    "sib": {
-      "periodo": "2026-07",
-      "titulo": "Sistema Financiero: Calidad de Cartera y Rentabilidad en Julio 2026",
-      "resumen": "El sistema financiero dominicano muestra una ligera mejora en la calidad de su cartera, con una morosidad general de 1.87% en julio de 2026. La rentabilidad, medida por el ROE, se mantiene robusta, especialmente en el segmento de Bancos Múltiples.",
+    "macro": {
+      "periodo": "2026-09",
+      "titulo": "Estadísticas macroeconómicas de República Dominicana",
+      "resumen": "La actividad económica, medida por el IMAE, mostró una desaceleración en julio de 2026, al registrar un crecimiento de 4.60%. La inflación interanual se ubicó en 4.98% en enero de 2026, una aceleración respecto al cierre de 2024.",
       "puntos": [
-        "La morosidad del sistema se ubicó en 1.87% en julio de 2026, mostrando una tendencia a la baja respecto al mes anterior.",
-        "Las Asociaciones de Ahorros y Préstamos (AAyP) registraron una morosidad de 1.98% y un ROE de 8.85% en el mismo período.",
-        "Los activos totales del sector de AAyP alcanzaron los 432.1 mil millones de pesos dominicanos en julio de 2026."
+        "El IMAE registró un crecimiento de 4.60% en julio de 2026, menor al 6.40% de junio.",
+        "La inflación interanual cerró en 4.98% en enero de 2026, superior al 3.32% de enero de 2024.",
+        "Las remesas mostraron un leve repunte en julio de 2026, alcanzando los 1,097.10 millones de dólares."
       ],
       "vigilar": [
-        "La morosidad de las AAyP se mantiene por encima del promedio general del sistema.",
-        "La eficiencia (CTI) de las AAyP se sitúa en 65.00%, un nivel que requiere atención continua.",
-        "Se observa una volatilidad en la morosidad de algunas asociaciones específicas, como Peravia (6.53%)."
+        "Comportamiento del tipo de cambio del dólar, que se situó en 59.33 RD$ al 17 de septiembre de 2026.",
+        "Evolución de los precios del petróleo WTI, que cerraron julio de 2026 en 85.17 US$/barril.",
+        "Próximas publicaciones del Banco Central de la República Dominicana sobre indicadores económicos."
       ],
-      "generado_en": "2026-09-06T15:16:13.716974+00:00"
+      "generado_en": "2026-09-21T18:06:00.677284+00:00",
+      "fuentes": [
+        "bcrd",
+        "titulares"
+      ]
+    },
+    "sib": {
+      "periodo": "2026-08",
+      "titulo": "Sistema financiero muestra estabilidad en cartera y rentabilidad",
+      "resumen": "El sistema financiero dominicano, en su conjunto, mantiene indicadores de salud general estables, con una morosidad controlada y una rentabilidad que se ha recuperado. Las Asociaciones de Ahorros y Préstamos (AAyP) exhiben un comportamiento similar, con un crecimiento sostenido de sus activos netos totales.",
+      "puntos": [
+        "La morosidad general del sistema se ubicó en 2.11% para las AAyP y 1.68% para los Bancos Múltiples en agosto de 2026.",
+        "El ROE de las AAyP alcanzó el 8.91% y el ROA el 1.58% en agosto de 2026, mostrando una mejora respecto al año anterior.",
+        "Los activos netos totales de las AAyP sumaron RD$438.9 mil millones en agosto de 2026, evidenciando expansión.",
+        "La eficiencia (CTI) de las AAyP se situó en 64.40% en agosto de 2026, una mejora respecto a meses previos."
+      ],
+      "vigilar": [
+        "La morosidad de las AAyP mostró un leve repunte a 2.11% en agosto de 2026, tras una tendencia decreciente.",
+        "La eficiencia (CTI) de La Nacional se ubicó en 74.80% en agosto de 2026, siendo superior al promedio de su segmento.",
+        "Se observa una volatilidad en la morosidad de La Nacional en los últimos meses, con un valor de 2.09% en agosto de 2026."
+      ],
+      "generado_en": "2026-09-21T18:06:09.953841+00:00",
+      "fuentes": [
+        "sib_snapshot"
+      ]
     }
-  },
-  "_nota_macro": "Sección macro retirada el 2026-09-15: sus cifras no provenían de ninguna fuente del Observatorio. El generador ahora lee las series del estado en vivo y verifica que toda cifra publicada esté en el contexto."
+  }
 }
