@@ -1,24 +1,393 @@
 {
-  "generated_at": "2026-09-22T17:38:55.018813+00:00",
+  "generated_at": "2026-09-22T19:56:30.332059+00:00",
   "dia_editorial": "2026-09-22",
   "zona_horaria": "UTC-4 (Santo Domingo)",
   "ventana_frescura": "2026-09-21 a 2026-09-22",
   "gemini_model": "gemini-2.5-flash-lite",
   "min_relevance": 6,
-  "count": 25,
+  "count": 41,
   "count_by_day": {
-    "2026-09-22": 23,
-    "2026-09-21": 2
+    "2026-09-22": 37,
+    "2026-09-21": 4
   },
-  "new_this_run": 25,
+  "new_this_run": 17,
   "already_published": 0,
   "out_of_window": 0,
   "ttl_days": 1,
   "max_age_days": 1,
   "errors": 0,
   "sources": 19,
-  "elapsed_s": 554.3,
+  "elapsed_s": 407.9,
   "candidates": [
+    {
+      "id": "n_0804f5f60cf38f00",
+      "source_key": "news_gnews_bcrd",
+      "source_name": "Google News · BCRD y política monetaria",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUUNKb3hGMjhyOHRvMVRYTnIyZ1d6TUQybTBzQ1Z6VmZmaFp0MFktWWowWlkwUndSMlNrdHYxeXV4NldnRGRFUkJHNFZTV3FYTDJ2cS0xWElFS0pmUkZfbXR1OHB0RmRqNlVZbnNPX0tYNk0zbXdzX2hSV19jbndicjZsTHVVZzZBWS1fVnFucG9ZcWE5QmZUa3FDSGQzOFdLLTJ1ZENzTUl4cGZ1b0lrUzBhR3RkcVh6cmZHUnAzd3NZSGk4bU5XN0JvWHdSZXhNbmI2U3ZtUVdwQ3hXVnlfbmdMQlVTWDh5NS1qSzN5QXZJcmYya2hjSGlYVlRZU3fSAZoCQVVfeXFMTlJqUXoyYml1dUF1N3FicWZqOFhHZlBnWGRZVDlWTlFkRnpYYkxDWmlCSV8yeVpBU0Y3REthS3NRcGJCNVNGSmstV056cVc3NUFOcS13LTd5V0hMR0FHLTZ0ZHhJTUlTNjVzbFo4dVJtWGczNl9rUjQ2RU0xS01EY0lXRHQ5UHU0N1piRlZqVG9iWEltM0VyWHA5YjNYbTVsTDlTRVdDaUJVZkZ0N3hDeGU5TEw4cElLUmVNNGRKMUdNUTVLbXZpSWpwUTlzTm1Nb214UURpa2dWSlk1SW9kUi0zcUxzbngydFJhRzFrV1Y1MWltckhCTWlXeEVHY3lSQzBqU3N4V2xHbXdfSEl4bVNObDJ0N2cwSWJR?oc=5",
+      "title": "El empleo en República Dominicana subió a 5.27 millones de ocupados en el segundo trimestre, según el Banco Central - Infobae",
+      "summary": "URL Source: https://news.google.com/rss/articles/CBMi wFBVV95cUxNUUNKb3hGMjhyOHRvMVRYTnIyZ1d6TUQybTBzQ1Z6VmZmaFp0MFktWWowWlkwUndSMlNrdHYxeXV4NldnRGRFUkJHNFZTV3FYTDJ2cS0xWElFS0pmUkZfbXR1OHB0RmRqNlVZbnNPX0tYNk0zbXdzX2hSV19jbndicjZsTHVVZzZBWS1fVnFucG9ZcWE5QmZUa3FDSGQzOFdLLTJ1ZENzTUl4cGZ1b0lrUzBhR3RkcVh6cmZHUnAzd3NZSGk4bU5XN0JvWHdSZXhNbmI2U3ZtUVdwQ3hXVnlfbmdMQlVTWDh5NS1qSzN5QXZJcmYya2hjSGlYVlRZU3fSAZo",
+      "body": "URL Source: https://news.google.com/rss/articles/CBMi wFBVV95cUxNUUNKb3hGMjhyOHRvMVRYTnIyZ1d6TUQybTBzQ1Z6VmZmaFp0MFktWWowWlkwUndSMlNrdHYxeXV4NldnRGRFUkJHNFZTV3FYTDJ2cS0xWElFS0pmUkZfbXR1OHB0RmRqNlVZbnNPX0tYNk0zbXdzX2hSV19jbndicjZsTHVVZzZBWS1fVnFucG9ZcWE5QmZUa3FDSGQzOFdLLTJ1ZENzTUl4cGZ1b0lrUzBhR3RkcVh6cmZHUnAzd3NZSGk4bU5XN0JvWHdSZXhNbmI2U3ZtUVdwQ3hXVnlfbmdMQlVTWDh5NS1qSzN5QXZJcmYya2hjSGlYVlRZU3fSAZoCQVVfeXFMTlJqUXoyYml1dUF1N3FicWZqOFhHZlBnWGRZVDlWTlFkRnpYYkxDWmlCSV8yeVpBU0Y3REthS3NRcGJCNVNGSmstV056cVc3NUFOcS13LTd5V0hMR0FHLTZ0ZHhJTUlTNjVzbFo4dVJtWGczNl9rUjQ2RU0xS01EY0lXRHQ5UHU0N1piRlZqVG9iWEltM0VyWHA5YjNYbTVsTDlTRVdDaUJVZkZ0N3hDeGU5TEw4cElLUmVNNGRKMUdNUTVLbXZpSWpwUTlzTm1Nb214UURpa2dWSlk1SW9kUi0zcUxzbngydFJhRzFrV1Y1MWltckhCTWlXeEVHY3lSQzBqU3N4V2xHbXdfSEl4bVNObDJ0N2cwSWJR?oc=5",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "regulador"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T04:52:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-22T19:55:47.918343+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_ffc4dafbbf80ac17",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/banco-ademi-dispone-de-rd1000-millones-para-mipymes",
+      "title": "Banco Ademi dispone de RD$1,000 millones para mipymes",
+      "summary": "Santo Domingo.- Banco Múltiple Ademi anunció la apertura de CrediMejoras 2026-2027, su programa de financiamiento para el mejoramiento de viviendas y la ampliación de negocios, que en esta edición contará con una disponibilidad de RD$1,000 millones.",
+      "body": "Santo Domingo.- Banco Múltiple Ademi anunció la apertura de CrediMejoras 2026-2027, su programa de financiamiento para el mejoramiento de viviendas y la ampliación de negocios, que en esta edición contará con una disponibilidad de RD$1,000 millones. La feria se llevará a cabo desde mediados de septiembre de 2026 hasta el 31 de enero de 2027 y ofrecerá tasas de interés preferenciales, condiciones de pago flexibles y facilidades de acceso dirigidas principalmente a familias y emprendedores de menores ingresos. Desde su primera edición en 2013, CrediMejoras ha canalizado más de RD$3,600 millones en financiamientos, beneficiando a más de 19 mil familias y microempresarios en el país. “CrediMejoras responde a nuestro propósito de darle acceso a una vivienda digna a los dominicanos de los sectores menos favorecidos de República Dominicana. A través de esta iniciativa otorgamos financiamiento f",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T17:12:01+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:36.218864+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_7698f04cd5312b2a",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/el-ron-ripiao-viene-con-homenaje-a-fefita-la-grande",
+      "title": "El ron “Ripiao” viene con homenaje a Fefita La Grande",
+      "summary": "Jack Astacio afirmó que el Ron Ripiao Edición Especial Fefita La Grande afianza la visión de la empresa sobre la bebida ideal para compartir entre amigos que disfrutan de este excelente ron añejo hecho en la RD.",
+      "body": "Jack Astacio afirmó que el Ron Ripiao Edición Especial Fefita La Grande afianza la visión de la empresa sobre la bebida ideal para compartir entre amigos que disfrutan de este excelente ron añejo hecho en la RD. Santo Domingo.- El nuevo ron es elaborado por la firma licorista J&J Spirits, colocando especial cuidado y esmero en el desarrollo de un producto elaborado completamente a mano por artesanos dominicanos. Hicieron uso de la palabra Delvair Amarilla, gerente general de Avolta en República Dominicana y Jack Astacio, fundador y director ejecutivo de J&J Spirits; y por supuesto, la noche estuvo engalanada con la presencia de Fefita La Grande.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T17:35:19+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:36.209452+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_a3ad4bc5a14f013f",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/yiyo-sarante-suspende-presentaciones-tras-la-muerte-de-zeneida-esposa-de-julian-oro-duro",
+      "title": "Yiyo Sarante suspende presentaciones tras la muerte de Zeneida, esposa de Julián Oro Duro",
+      "summary": "URL Source: https://eldia.com.do/yiyo-sarante-suspende-presentaciones-tras-la-muerte-de-zeneida-esposa-de-julian-oro-duro",
+      "body": "URL Source: https://eldia.com.do/yiyo-sarante-suspende-presentaciones-tras-la-muerte-de-zeneida-esposa-de-julian-oro-duro Santo Domingo.- El crimen atroz cometido contra la esposa del merenguero Julián Oro Duro consternó a la sociedad, especialmente al hermano del artista, Yiyo Sarante, quien anunció la reprogramación de las presentaciones previstas para del 23 y 26 de septiembre. \"Pedimos sinceras disculpas a nuestro público, promotores y relacionados por los inconvenientes que este cambio pueda ocasionar\", estableció el comunicado del artista en su red social de Instagram.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T17:44:04+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:35.768176+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_24d417875fc4f8b3",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/cuando-el-dinero-no-alcanza-como-las-dificultades-economicas-pueden-afectar-la-salud-mental",
+      "title": "Cuando el dinero no alcanza: cómo las dificultades económicas pueden afectar la salud mental",
+      "summary": "URL Source: https://eldia.com.do/cuando-el-dinero-no-alcanza-como-las-dificultades-economicas-pueden-afectar-la-salud-mental",
+      "body": "URL Source: https://eldia.com.do/cuando-el-dinero-no-alcanza-como-las-dificultades-economicas-pueden-afectar-la-salud-mental Advierten que las preocupaciones por alimentación, vivienda, educación, empleo y transporte pueden convertirse en factores de estrés que afectan a toda la familia Santo Domingo .- La preocupación por no tener suficiente dinero para comprar alimentos, pagar la vivienda, cubrir el transporte o garantizar los estudios de los hijo no se queda en el bolsillo. También puede trasladarse al sueño, las emociones, las relaciones familiares y el rendimiento laboral.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T18:24:36+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:35.675037+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_9b87b2171926cac0",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/mujeres-aumentan-su-participacion-en-el-sistema-financiero-dominicano-resalta-steven-puig",
+      "title": "Mujeres aumentan su participación en el sistema financiero dominicano resalta Steven Puig",
+      "summary": "URL Source: https://eldia.com.do/mujeres-aumentan-su-participacion-en-el-sistema-financiero-dominicano-resalta-steven-puig",
+      "body": "URL Source: https://eldia.com.do/mujeres-aumentan-su-participacion-en-el-sistema-financiero-dominicano-resalta-steven-puig Santo Domingo.- La participación de las mujeres dominicanas en el sistema financiero registra un crecimiento en los últimos años resaltó Steven Puig, presidente del Banco BHD al citar datos de la Superintendencia de Bancos, entre enero de 2021 y enero de 2026 aumentó en 42 % la cantidad de mujeres con créditos formales. Además, desde noviembre de 2025, por primera vez, las mujeres superan a los hombres en número de personas con crédito en el sistema financiero dominicano.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd",
+        "banca"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T18:51:57+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:35.591664+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_3476829692c0e9e5",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/el-pais/provincias/grupos-populares-advierten-protestas-48-horas-salcedo_1103196.html",
+      "title": "Grupos populares advierten protestas de 48 horas en Salcedo",
+      "summary": "País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy",
+      "body": "País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy Los dirigentes del movimiento señalaron que los munícipes se encuentran con “el grito al cielo” ante la impotencia que, aseguran, les generan las actuaciones de las autoridades de la Empresa Distribuidora de Electricidad del Norte (EDENORTE). Facebook Twitter Bluesky Send (mailto:?subject=JGrupos%20populares%20advierten%20protestas%20de%2048%20horas%20en%20Salcedo&body==https://hoy.com.do/el-pais/provincias/grupos-populares-advierten-protestas-48-horas-salcedo 1103196.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T10:50:07-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:23.697547+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_28632508f9be1e72",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/el-pais/madre-desesperada-encontrar-hijo-desaparecido-entrega-rd-26-000-falsas-pistas_1103193.html",
+      "title": "Madre, desesperada por encontrar a su hijo desaparecido, entrega RD$26,000 por falsas pistas",
+      "summary": "URL Source: https://hoy.com.do/el-pais/madre-desesperada-encontrar-hijo-desaparecido-entrega-rd-26-000-falsas-pistas 1103193.html",
+      "body": "URL Source: https://hoy.com.do/el-pais/madre-desesperada-encontrar-hijo-desaparecido-entrega-rd-26-000-falsas-pistas 1103193.html País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy La denuncia presentada ante el Ministerio Público incluye conversaciones, números telefónicos y comprobantes de las transferencias",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T09:53:29-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:16.597748+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_ac262d6b9457d65e",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/el-pais/provincias/convocan-nuevo-dia-negro-protesta-moca-apagones-aumento-tarifa-electrica_1103109.html",
+      "title": "Convocan nuevo “Día Negro de Protesta” en Moca contra apagones y aumento de la tarifa eléctrica",
+      "summary": "URL Source: https://hoy.com.do/el-pais/provincias/convocan-nuevo-dia-negro-protesta-moca-apagones-aumento-tarifa-electrica 1103109.html",
+      "body": "URL Source: https://hoy.com.do/el-pais/provincias/convocan-nuevo-dia-negro-protesta-moca-apagones-aumento-tarifa-electrica 1103109.html País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy La jornada se realizará el miércoles 16 de septiembre, a las 10:00 de la mañana, frente a la oficina de Edenorte e incluirá un velatorio simbólico y un micrófono abierto para que los ciudadanos expresen sus quejas",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-21T15:10:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-21",
+      "fetched_at": "2026-09-22T19:55:15.800759+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_2523a7c8886d8e3b",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/vivir/28-anos-huracan-georges-danos-muertes-lecciones-dejo-rd_1103195.html",
+      "title": "28 años del huracán Georges: daños, muertes y lecciones que dejó en RD",
+      "summary": "Facebook Twitter Bluesky Send (mailto:?subject=J28%20a%C3%B1os%20del%20hurac%C3%A1n%20Georges%3A%20da%C3%B1os%2C%20muertes%20y%20lecciones%20que%20dej%C3%B3%20en%20RD&body==https://hoy.com.do/vivir/28-anos-huracan-georges-danos-muertes-lecciones-dejo-rd 1103195.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace",
+      "body": "Facebook Twitter Bluesky Send (mailto:?subject=J28%20a%C3%B1os%20del%20hurac%C3%A1n%20Georges%3A%20da%C3%B1os%2C%20muertes%20y%20lecciones%20que%20dej%C3%B3%20en%20RD&body==https://hoy.com.do/vivir/28-anos-huracan-georges-danos-muertes-lecciones-dejo-rd 1103195.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace Este 22 de septiembre se cumplen 28 años del paso del huracán Georges por República Dominicana, un fenómeno que impactó al país en 1998 con fuertes vientos, lluvias torrenciales, inundaciones y graves daños en distintas zonas del territorio nacional. Georges tocó suelo dominicano como un huracán de categoría 3, desplazándose sobre el país con vientos de hasta 200 kilómetros por hora. Las intensas y prolongadas precipitaciones provocaron el desbordamiento de ríos y represas, principalmente en las regiones Est",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T10:46:21-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:09.917640+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_fc11cf26c28417c0",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/el-pais/a-punta-de-pistola-asaltantes-atan-y-amordazan-a-regidor-y-su-esposa-en-su-propia-residencia_1103217.html",
+      "title": "A punta de pistola, asaltantes atan y amordazan a regidor y su esposa en su propia residencia",
+      "summary": "URL Source: https://hoy.com.do/el-pais/a-punta-de-pistola-asaltantes-atan-y-amordazan-a-regidor-y-su-esposa-en-su-propia-residencia 1103217.html",
+      "body": "URL Source: https://hoy.com.do/el-pais/a-punta-de-pistola-asaltantes-atan-y-amordazan-a-regidor-y-su-esposa-en-su-propia-residencia 1103217.html País Agenda Almuerzo Corripio Calles y avenidas Esquina joven Hoy en tu Barrio Provincias El tema de hoy Grano a grano Especiales de Hoy Los desconocidos despojaron a la pareja de más de 200 mil pesos, unos 2,000 dólares estadounidenses en efectivo y otras prendas de valor.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T14:53:14-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:08.512632+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_1f582176909c39e1",
+      "source_key": "news_hoy",
+      "source_name": "Hoy Digital · Economía",
+      "url": "https://hoy.com.do/economia/improductividad-ciclonica-debe-llevar-falta-cautela_1103134.html",
+      "title": "La improductividad ciclónica no debe llevar a la falta de cautela",
+      "summary": "La temporada ciclónica de 2026 llega al 21 de septiembre con seis tormentas nombradas, pero ningún huracán, lo que es una quietud excepcional.",
+      "body": "La temporada ciclónica de 2026 llega al 21 de septiembre con seis tormentas nombradas, pero ningún huracán, lo que es una quietud excepcional. Facebook Twitter Bluesky Send (mailto:?subject=JLa%20improductividad%20cicl%C3%B3nica%20no%20debe%20llevar%20a%20la%20falta%20de%20cautela&body==https://hoy.com.do/economia/improductividad-ciclonica-debe-llevar-falta-cautela 1103134.html utm source=rrss-comp&utm medium=tw&utm campaign=fixed-btn \"Compartir en Send\") Whatsapp Whatsapp Telegram Copiar enlace Si quisiéramos medir cuán venturosa debe sentirse la República Dominicana ante la excepcional quietud de la actual temporada ciclónica, bastaría recordar que, al 21 de septiembre, el Atlántico ha producido seis tormentas con nombre, pero ningún huracán. El Centro Nacional de Huracanes registra para 2026 seis sistemas nombrados —Arthur, Bertha, Cristóbal, Dolly, Edouard y Fay— frente a un promedio",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T00:00:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:55:08.158672+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_cc9a872ade95a6db",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
+      "url": "https://www.diariolibre.com/revista/musica/2026/09/22/ramon-orlando-agoto-entradas-y-promete-ocho-horas-de-musica/3666441",
+      "title": "Ramón Orlando agotó entradas y promete ocho horas de música",
+      "summary": "URL Source: https://www.diariolibre.com/revista/musica/2026/09/22/ramon-orlando-agoto-entradas-y-promete-ocho-horas-de-musica/3666441",
+      "body": "URL Source: https://www.diariolibre.com/revista/musica/2026/09/22/ramon-orlando-agoto-entradas-y-promete-ocho-horas-de-musica/3666441",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T06:19:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:54:04.019758+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_a98bd2f5e2e76684",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
+      "url": "https://www.diariolibre.com/revista/musica/2026/09/22/la-drastica-decision-de-yiyo-sarante-tras-tragedia-familiar/3666959",
+      "title": "La drástica decisión de Yiyo Sarante tras tragedia familiar",
+      "summary": "URL Source: https://www.diariolibre.com/revista/musica/2026/09/22/la-drastica-decision-de-yiyo-sarante-tras-tragedia-familiar/3666959",
+      "body": "URL Source: https://www.diariolibre.com/revista/musica/2026/09/22/la-drastica-decision-de-yiyo-sarante-tras-tragedia-familiar/3666959",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T14:37:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:54:03.672912+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_a17c4bb1fe77e622",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
+      "url": "https://www.diariolibre.com/actualidad/justicia/2026/09/22/prision-preventiva-para-imputado-de-herir-a-gustavo-mejia-ricart-risk/3666683",
+      "title": "Prisión preventiva para imputado de herir a Gustavo Mejía-Ricart Risk",
+      "summary": "URL Source: https://www.diariolibre.com/actualidad/justicia/2026/09/22/prision-preventiva-para-imputado-de-herir-a-gustavo-mejia-ricart-risk/3666683",
+      "body": "URL Source: https://www.diariolibre.com/actualidad/justicia/2026/09/22/prision-preventiva-para-imputado-de-herir-a-gustavo-mejia-ricart-risk/3666683",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T10:56:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:54:03.654817+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": "n_7d12e89786286d47",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
+      "url": "https://www.diariolibre.com/actualidad/justicia/2026/09/22/juicio-de-fondo-a-hugo-beras-y-jochi-gomez-sera-los-martes-y-viernes/3666969",
+      "title": "Juicio de fondo a Hugo Beras y Jochi Gómez será los martes y viernes",
+      "summary": "URL Source: https://www.diariolibre.com/actualidad/justicia/2026/09/22/juicio-de-fondo-a-hugo-beras-y-jochi-gomez-sera-los-martes-y-viernes/3666969",
+      "body": "URL Source: https://www.diariolibre.com/actualidad/justicia/2026/09/22/juicio-de-fondo-a-hugo-beras-y-jochi-gomez-sera-los-martes-y-viernes/3666969",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-09-22T14:48:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-09-22",
+      "fetched_at": "2026-09-22T19:54:03.622126+00:00",
+      "dia_lectura": "2026-09-22",
+      "status": "pending"
+    },
     {
       "id": "n_ba3920472b4466cf",
       "source_key": "busqueda_web",
@@ -110,7 +479,14 @@
       "dia_editorial": "2026-09-22",
       "fetched_at": "2026-09-22T17:38:31.597762+00:00",
       "dia_lectura": "2026-09-22",
-      "status": "pending"
+      "status": "pending",
+      "tambien_en": [
+        {
+          "source_name": "Diario Libre · Finanzas",
+          "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/22/incendio-en-vivienda-en-mao-causa-muerte-de-cinco-miembros-de-familia/3666517",
+          "title": "Incendio en vivienda en Mao causa muerte de cinco miembros de familia"
+        }
+      ]
     },
     {
       "id": "n_656f02a53fd47397",
@@ -595,8 +971,20 @@
       "status": "pending"
     }
   ],
-  "discarded_count": 59,
+  "discarded_count": 60,
   "discarded": [
+    {
+      "id": "n_570a128832cddc6a",
+      "motivo": "relevancia_baja",
+      "motivo_texto": "El modelo le puso poca relevancia financiera",
+      "title": "ICE retira del sistema de localización a inmigrantes detenidos con órdenes de deportación",
+      "url": "https://www.diariolibre.com/usa/actualidad/2026/09/22/ice-y-la-localizacion-de-inmigrantes-detenidos-con-ordenes-finales/3666917",
+      "source_name": "Diario Libre · Economía",
+      "relevance": 5,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-09-22T19:50:13.222415+00:00"
+    },
     {
       "id": "n_53eadac70cf76ee6",
       "motivo": "relevancia_baja",
@@ -634,30 +1022,6 @@
       "fetched_at": "2026-09-22T17:30:02.553794+00:00"
     },
     {
-      "id": "n_79dc86772dfacb2d",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Cinco miembros de una familia mueren calcinados en incendio de vivienda en Mao",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/22/incendio-en-vivienda-en-mao-causa-muerte-de-cinco-miembros-de-familia/3666517",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 5,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-22T17:30:23.456693+00:00"
-    },
-    {
-      "id": "n_a17c4bb1fe77e622",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Tres meses de prisión preventiva para imputado de herir a Gustavo Mejía-Ricart Risk en Serrallés",
-      "url": "https://www.diariolibre.com/actualidad/justicia/2026/09/22/prision-preventiva-para-imputado-de-herir-a-gustavo-mejia-ricart-risk/3666683",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 5,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-22T17:30:29.381253+00:00"
-    },
-    {
       "id": "n_f4482cfbd764ac6f",
       "motivo": "relevancia_baja",
       "motivo_texto": "El modelo le puso poca relevancia financiera",
@@ -670,42 +1034,6 @@
       "fetched_at": "2026-09-22T17:30:35.323820+00:00"
     },
     {
-      "id": "n_abb19b473921c9c9",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Restos de esposa de Julián Oro Duro serán expuestos este martes en la funeraria Blandino",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/22/ataque-a-julian-oro-duro-familiares-y-allegados-despiden-su-esposa/3666644",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-22T17:30:41.285739+00:00"
-    },
-    {
-      "id": "n_dc66f591610f7155",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Julián Oro Duro tiene las visitas prohibidas y continúa bajo seguimiento médico tras resultar herido",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/22/ataque-a-julian-oro-duro-permanece-ingresado-y-no-recibe-visitas/3666664",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-22T17:30:47.323392+00:00"
-    },
-    {
-      "id": "n_e923164ae7030d6b",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "unnamed.png",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/09/22/ataque-a-julian-oro-duro-hermana-dice-su-cunada-no-abria-a-extranos/3666804",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-09-22T17:30:52.933234+00:00"
-    },
-    {
       "id": "n_e24f2eeda6842275",
       "motivo": "vieja",
       "motivo_texto": "Publicada fuera del dia editorial en curso",
@@ -715,7 +1043,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-19, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.786953+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892003+00:00"
     },
     {
       "id": "n_17b4c5395f9d1a3b",
@@ -727,7 +1055,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-18, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.787071+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892136+00:00"
     },
     {
       "id": "n_1d2f6f6c601eccc3",
@@ -739,7 +1067,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-11, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.787176+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892256+00:00"
     },
     {
       "id": "n_bc4d6cb46974fb50",
@@ -751,7 +1079,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-10, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.787277+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892365+00:00"
     },
     {
       "id": "n_615a498323dc3059",
@@ -763,7 +1091,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-10, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.787412+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892459+00:00"
     },
     {
       "id": "n_920a8b98c200a0ba",
@@ -775,7 +1103,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-09, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.787513+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892552+00:00"
     },
     {
       "id": "n_70fc6ccd39cf4ead",
@@ -787,7 +1115,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-08, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.787614+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892647+00:00"
     },
     {
       "id": "n_c98c0bbe835a799f",
@@ -799,7 +1127,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-08, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.787714+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892741+00:00"
     },
     {
       "id": "n_0ef7aa27e9bfe4a6",
@@ -811,103 +1139,163 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-07, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:37:05.787812+00:00"
+      "fetched_at": "2026-09-22T19:54:25.892836+00:00"
     },
     {
-      "id": "n_1e35365beeb814d0",
+      "id": "n_7f271f70800f0982",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "El Dow Jones cae desde un máximo semanal mientras las acciones bancarias retroceden",
-      "url": "https://www.fxstreet.es/news/el-promedio-industrial-dow-jones-cae-desde-un-maximo-semanal-mientras-las-acciones-bancarias-retroceden-202609221609",
+      "title": "Dólar taiwanés: Las entradas de capital en renta variable respaldan al TWD frente al Dólar estadounidense – OCBC",
+      "url": "https://www.fxstreet.es/news/dolar-taiwanes-las-entradas-de-capital-en-renta-variable-respaldan-al-twd-frente-al-dolar-estadounidense-ocbc-202609221951",
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:37:18.930691+00:00"
+      "fetched_at": "2026-09-22T19:54:30.832841+00:00"
     },
     {
-      "id": "n_13ae25e3936134f1",
+      "id": "n_781696599941bd9a",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "La libra esterlina se hunde mientras el USD se encoge de hombros ante las esperanzas de reapertura del estrecho de Ormuz",
-      "url": "https://www.fxstreet.es/news/la-libra-esterlina-se-hunde-mientras-el-usd-se-encoge-de-hombros-ante-las-esperanzas-de-reapertura-del-estrecho-de-ormuz-202609221639",
+      "title": "Divisas asiáticas: el apoyo impulsado por la IA a las divisas regionales – MUFG",
+      "url": "https://www.fxstreet.es/news/divisas-asiaticas-el-apoyo-impulsado-por-la-ia-a-las-divisas-regionales-mufg-202609221917",
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:37:19.224959+00:00"
+      "fetched_at": "2026-09-22T19:54:30.890659+00:00"
     },
     {
-      "id": "n_26da83b75a4035c8",
+      "id": "n_da52eeeb761c9c84",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Barkin, de la Fed, respalda una subida de tipos, pero sigue sin tener claro si habrá más aumentos",
-      "url": "https://www.fxstreet.es/news/barkin-de-la-fed-respalda-una-subida-de-tipos-pero-sigue-sin-tener-claro-si-habra-mas-aumentos-202609221715",
+      "title": "El Oro pierde altura mientras las esperanzas de paz se enfrentan a las apuestas de una Fed de línea dura",
+      "url": "https://www.fxstreet.es/news/el-oro-pierde-altura-mientras-las-esperanzas-de-paz-se-enfrentan-a-las-apuestas-de-una-fed-de-linea-dura-202609221937",
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:37:21.280896+00:00"
+      "fetched_at": "2026-09-22T19:54:31.539639+00:00"
     },
     {
-      "id": "n_3cf70efc6a2da491",
+      "id": "n_6c3a39a0b56fa3aa",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "El Oro se consolida mientras las esperanzas de diplomacia con Irán chocan con las expectativas de la Fed",
-      "url": "https://www.fxstreet.es/news/el-oro-se-estabiliza-ante-las-esperanzas-de-una-solucion-diplomatica-para-iran-las-perspectivas-de-la-fed-limitan-las-subidas-202609221120",
+      "title": "Forex Hoy: Los PMI avanzados en el foco, pero ¿qué pasa con la Asamblea General de la ONU?",
+      "url": "https://www.fxstreet.es/news/forex-hoy-los-pmi-avanzados-en-el-foco-pero-que-pasa-con-la-asamblea-general-de-la-onu-202609221854",
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:37:21.430680+00:00"
+      "fetched_at": "2026-09-22T19:54:33.387653+00:00"
     },
     {
-      "id": "n_29c40645b3068b2e",
+      "id": "n_9786952292a601e8",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "El Dólar canadiense cae mientras la caída del petróleo y las perspectivas moderadas del BoC respaldan al USD",
-      "url": "https://www.fxstreet.es/news/el-dolar-canadiense-cae-mientras-la-caida-del-petroleo-y-las-perspectivas-moderadas-del-boc-respaldan-la-fortaleza-del-dolar-estadounidense-202609221557",
+      "title": "Yuan chino: Descenso gradual dentro de bandas estrechas – UOB",
+      "url": "https://www.fxstreet.es/news/yuan-chino-descenso-gradual-dentro-de-bandas-estrechas-uob-202609221839",
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:37:21.943425+00:00"
+      "fetched_at": "2026-09-22T19:54:33.927532+00:00"
     },
     {
-      "id": "n_3f008fa561d33778",
+      "id": "n_7a01536eea05e22e",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Petróleo: Los titulares impulsan la vulnerabilidad – TD Securities",
-      "url": "https://www.fxstreet.es/news/petroleo-los-titulares-impulsan-la-vulnerabilidad-td-securities-202609221543",
+      "title": "El WTI prolonga su caída mientras Donald Trump señala avances en las conversaciones con Irán",
+      "url": "https://www.fxstreet.es/news/el-wti-prolonga-su-caida-mientras-trump-senala-avances-en-las-conversaciones-con-iran-202609221825",
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:37:24.318936+00:00"
+      "fetched_at": "2026-09-22T19:54:34.250632+00:00"
     },
     {
-      "id": "n_8977f7de1f1160f4",
+      "id": "n_675ef1850ab5cfe6",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "RD prioriza situación de Haití, inversiones y exportaciones en su agenda ante la ONU",
-      "url": "https://eldinero.com.do/381955/rd-prioriza-situacion-de-haiti-inversiones-y-exportaciones-en-su-agenda-ante-la-onu",
+      "title": "Cuba rechaza las “falsedades” de Trump en la ONU: “Cuba no es una amenaza para EE.UU.”",
+      "url": "https://eldinero.com.do/382055/cuba-rechaza-las-falsedades-de-trump-en-la-onu-cuba-no-es-una-amenaza-para-ee-uu",
       "source_name": "El Dinero · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:37:30.381296+00:00"
+      "fetched_at": "2026-09-22T19:54:45.569645+00:00"
     },
     {
-      "id": "n_19e6cf73be50f5e9",
+      "id": "n_703e913ce2bacc95",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "América Latina supera el millón de vehículos livianos electrificados",
-      "url": "https://eldinero.com.do/381947/america-latina-supera-el-millon-de-vehiculos-livianos-electrificados",
+      "title": "La delegación de Cuba abandona la ONU tras afirmar Trump que es “un estado fallido”",
+      "url": "https://eldinero.com.do/382052/la-delegacion-de-cuba-abandona-la-onu-tras-afirmar-trump-que-es-un-estado-fallido",
       "source_name": "El Dinero · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:37:30.429246+00:00"
+      "fetched_at": "2026-09-22T19:54:54.477578+00:00"
+    },
+    {
+      "id": "n_9d4b8891bb12c0af",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Trump afirma que tuvo una reunión “muy buena” con delegación iraní",
+      "url": "https://eldinero.com.do/382040/trump-afirma-que-tuvo-una-reunion-muy-buena-con-delegacion-irani",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-22T19:54:54.650744+00:00"
+    },
+    {
+      "id": "n_e875417ed7c1ce0a",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El petróleo de Texas baja 1.24%, con la vista puesta en posible acuerdo entre EE.UU. e Irán",
+      "url": "https://eldinero.com.do/382046/el-petroleo-de-texas-baja-1-24-con-la-vista-puesta-en-posible-acuerdo-entre-ee-uu-e-iran",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-22T19:54:54.925001+00:00"
+    },
+    {
+      "id": "n_78a4cf50fb7ef26d",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "AWS advierte que la inteligencia artificial obligará a cambiar la gobernanza empresarial",
+      "url": "https://eldinero.com.do/382037/aws-advierte-que-la-inteligencia-artificial-obligara-a-cambiar-la-gobernanza-empresarial",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-22T19:54:55.104764+00:00"
+    },
+    {
+      "id": "n_e98474d58338447b",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Paliza llama a fortalecer cooperación regional para sostener avances contra el hambre",
+      "url": "https://eldinero.com.do/382049/paliza-llama-a-fortalecer-cooperacion-regional-para-sostener-avances-contra-el-hambre",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-22T19:54:59.796287+00:00"
+    },
+    {
+      "id": "n_62971c327d6ed6ac",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Videos revelan cómo ocurrió el asalto en Azua y cómo buscan al prófugo",
+      "url": "https://hoy.com.do/el-pais/videos-revelan-ocurrio-asalto-azua-buscan-profugo_1102170.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-09-12, ventana 2026-09-21 a 2026-09-22",
+      "fetched_at": "2026-09-22T19:55:01.703898+00:00"
     },
     {
       "id": "n_6095f9c5154c8cbb",
@@ -919,7 +1307,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-17, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:36.421739+00:00"
+      "fetched_at": "2026-09-22T19:55:43.029827+00:00"
     },
     {
       "id": "n_a1ebb75eb08237fb",
@@ -931,7 +1319,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-17, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:36.421853+00:00"
+      "fetched_at": "2026-09-22T19:55:43.029941+00:00"
     },
     {
       "id": "n_929c8c19751eedd9",
@@ -943,19 +1331,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-18, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:36.422072+00:00"
+      "fetched_at": "2026-09-22T19:55:43.030266+00:00"
     },
     {
-      "id": "n_7af2ef8131d169dc",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar en República Dominicana hoy, 22 de septiembre: cotización USD a DOP, compra y venta - El Comercio Perú",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZmt5blRZaDI5SHhEUnRvNFFQMlduN1FUdjRVZTBfV2pJeHp4aGdVcE1BZE9EcjJNRjlHVktnU09peFJ2Ry1rUUNnTm0yVGdPQlpGTmg0WjMxQTNLSTlvRDk4cHBIWW5pWGRtbGxSRzdTdWt1dVFsRUd3ZEhOYlFVTmtvaWZXbmJzMTdMbllZSXEtc2VXWGR1NGtQRTg5bWhjcV8teF83VXVFZlZhemVmYWlOVkgwblhyYmg5RDVPVmk4MHV1V2sxemlGOW5Fb0s4WHN3Tkh5S1ZUUmhCVEZ5eWZfV19VckZIQXNVeA?oc=5",
+      "id": "n_f063add769e1c143",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Advierten Banco Central está obligado a aumentar la tasa de interés, tras medidas de Estados Unidos - El Nacional — La voz de todos",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeW5vdW0wMUhPUWtUNXdidEJlS0k1bER2SmM0XzNNSVNwUGN1dFFqYmpva3V6RWczNWt1OFJNS1ItS0RGMGVxSDc0c3laVklkN1BOTlRqUl9rS2t2TDNxZVcxaEdpQTI4Tmx4c1lSZkQ2WTA4UUNWSEdlQWFNcHEzMTZCaTVaeXdEZWZJV3NWN3Z4ODEzR0NMYXM3bFdkd0wwM3p6aHBSLUpaYnVYMmU4NGYwalVBX3g4ekFjVU5xcVZtUdIBxwFBVV95cUxONW5MYnBWRXRyXzhuV2Y4bmM5ZGRmN01YVy1IbXJXMFltNVRTNERkTm0tRWtWcmFpQzM5ZGVlYWVJVEpRU1hoeU5jREVnaklZWkc5cElIYmw3WldpWUV2NmdDVFpNQUp4bFZ4MjBVV2dCSWZIZzlNRVhDLUhpWFVBOUdYU21ubDVmdldIdGd2TVpUS0liY0JjVHo1WXBSM3B6YUxpWW5CTmh4aEE2M0JLLXpabVd6OXFxSktBWnl6eFdWV1d3cUdv?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:38:38.380432+00:00"
+      "detalle": "el feed la fecha 2026-09-20, ventana 2026-09-21 a 2026-09-22",
+      "fetched_at": "2026-09-22T19:55:43.030376+00:00"
     },
     {
       "id": "n_951044153a0b2468",
@@ -967,31 +1355,31 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:38:39.373012+00:00"
+      "fetched_at": "2026-09-22T19:55:45.214999+00:00"
     },
     {
       "id": "n_86d42307b16bf4b5",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Estas son las tasas del dólar para este martes 22 de septiembre en República Dominicana - hoy.com.do",
+      "title": "Estas son las tasas del dólar para este martes 22 de septiembre en República Dominicana - Hoy Digital",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaU1IV21BbmxLWDNpZ2N1dnhSSUJWREE3eS1jTjViSDVfdjJ2UDZYbnFLX3duWVNtWXdGNUhLeXJFektzU1hVQ1RYTlI5eW1IWW9RLTdxOFdvckNndkVPZEQ5MWV3UGMxbkU5MW5KSVdRaXI0eTR6V2FsUDZuUzJPWVZIWTF2RzBoamdwckZGOGNKalBMNjh0emViUWZRMEHSAaQBQVVfeXFMUFpJT01QV0JhSTdYUzk1MG5ZOVhrN2Rkb2JQYnJCMXpFckNlZGgzc3pQZWkxaFpqX0k3TkFMNWs0TTVSMmRUeXQ1Snp6cmVEb1ItY0FPWlJ0UUpKOUd4VHJSR1ZFbnpua0hkVzIxczltZjhSbnZYQzVpczN2RVQyQ0FBM0Z0bTU4amxFRE9DY2pwTjlEUERhSGxuRXZ4eUlNeHNlSmE?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:38:41.033538+00:00"
+      "fetched_at": "2026-09-22T19:55:45.563229+00:00"
     },
     {
-      "id": "n_bfcc2e00164eb63d",
+      "id": "n_7af2ef8131d169dc",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Dólar hoy en República Dominicana: ¿a cuánto se cotiza este martes? - Acento",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDg0X2lmLXhpVXhzNVJHUC1sTldJUGdDT25Hel9hNkRQdXNSbTRyYkpZaEhHUVhkSE9XZG95U1BJSUVlTmxlX0xaeEdtNVNYWHpLRzhDZDctRE52VEhjS0djSDVZSEo2T1RPX3hOU0ZYbEZhbjdXU0NJU3dYLWNsMHdkQnRNRm9pMmIzOTYxeFlOY3hGNlhtZTA3cTAybHlDUFVCYnF3bm1NY2xQ0gGsAUFVX3lxTE9kODRfaWYteGlVeHM1UkdQLWxOV0lQZ0NPbkd6X2E2RFB1c1JtNHJiSlloSEdRWGRIT1dkb3lTUElJRWVObGVfTFp4R201U1hYektHOENkNy1ETnZUSGNLR2NINVlISjZPVE9feE5TRlhsRmFuN1dTQ0lTd1gtY2wwd2RCdE1Gb2kyYjM5NjF4WU5jeEY2WG1lMDdxMDJseUNQVUJicXdubU1jbFA?oc=5",
+      "title": "Precio del dólar en República Dominicana hoy, 22 de septiembre: cotización USD a DOP, compra y venta - El Comercio Perú",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZmt5blRZaDI5SHhEUnRvNFFQMlduN1FUdjRVZTBfV2pJeHp4aGdVcE1BZE9EcjJNRjlHVktnU09peFJ2Ry1rUUNnTm0yVGdPQlpGTmg0WjMxQTNLSTlvRDk4cHBIWW5pWGRtbGxSRzdTdWt1dVFsRUd3ZEhOYlFVTmtvaWZXbmJzMTdMbllZSXEtc2VXWGR1NGtQRTg5bWhjcV8teF83VXVFZlZhemVmYWlOVkgwblhyYmg5RDVPVmk4MHV1V2sxemlGOW5Fb0s4WHN3Tkh5S1ZUUmhCVEZ5eWZfV19VckZIQXNVeA?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:38:41.228753+00:00"
+      "fetched_at": "2026-09-22T19:55:45.806378+00:00"
     },
     {
       "id": "n_7f271ba07fb57bbe",
@@ -1003,7 +1391,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-09-22T17:38:43.001868+00:00"
+      "fetched_at": "2026-09-22T19:55:53.398087+00:00"
+    },
+    {
+      "id": "n_bfcc2e00164eb63d",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Dólar hoy en República Dominicana: ¿a cuánto se cotiza este martes? - Acento",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZDg0X2lmLXhpVXhzNVJHUC1sTldJUGdDT25Hel9hNkRQdXNSbTRyYkpZaEhHUVhkSE9XZG95U1BJSUVlTmxlX0xaeEdtNVNYWHpLRzhDZDctRE52VEhjS0djSDVZSEo2T1RPX3hOU0ZYbEZhbjdXU0NJU3dYLWNsMHdkQnRNRm9pMmIzOTYxeFlOY3hGNlhtZTA3cTAybHlDUFVCYnF3bm1NY2xQ0gGsAUFVX3lxTE9kODRfaWYteGlVeHM1UkdQLWxOV0lQZ0NPbkd6X2E2RFB1c1JtNHJiSlloSEdRWGRIT1dkb3lTUElJRWVObGVfTFp4R201U1hYektHOENkNy1ETnZUSGNLR2NINVlISjZPVE9feE5TRlhsRmFuN1dTQ0lTd1gtY2wwd2RCdE1Gb2kyYjM5NjF4WU5jeEY2WG1lMDdxMDJseUNQVUJicXdubU1jbFA?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-09-22T19:55:57.063812+00:00"
     },
     {
       "id": "n_21dc7e17ecf94656",
@@ -1015,7 +1415,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-18, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.678944+00:00"
+      "fetched_at": "2026-09-22T19:55:59.551892+00:00"
     },
     {
       "id": "n_f0324ba66c647069",
@@ -1027,7 +1427,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-16, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679069+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552033+00:00"
     },
     {
       "id": "n_dd6c57982a93d22d",
@@ -1039,7 +1439,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-11, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679181+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552139+00:00"
     },
     {
       "id": "n_37b15d9ea29f31ad",
@@ -1051,19 +1451,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-01, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679288+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552237+00:00"
     },
     {
       "id": "n_f3cb5b9fbd68de46",
       "motivo": "vieja",
       "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Gastos financieros de la banca dominicana bajan 5.3% a julio de 2026 - eldinero.com.do",
+      "title": "Gastos financieros de la banca dominicana bajan 5.3% a julio de 2026 - Periódico elDinero",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLS1wRGJGaV9oNV85VnJNYnpCYXhSTGxrNU5xRjFmck1XR09ZZ09Pc2dRTi11MHZCZzJRQXZtVDlSckpfYVYzRHYyNHlYVHN0RnFaZ1R0ajlGUE5kdnFlTGhUekRZYjV4N3hMRWIyRjhNWUVCbERUTG9FdXNOSU5xZ1RXWFVia0I1SUNHQktqN1VrbERYTFI3aWdYNkljYU11?oc=5",
       "source_name": "Google News · Banca y Superintendencia",
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-16, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679432+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552325+00:00"
     },
     {
       "id": "n_da6152581f878b7d",
@@ -1075,7 +1475,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-18, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679541+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552391+00:00"
     },
     {
       "id": "n_5c806dc754a8783b",
@@ -1087,7 +1487,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-17, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679660+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552459+00:00"
     },
     {
       "id": "n_7cb1ef5b8c8a2d5b",
@@ -1099,7 +1499,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-30, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679781+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552526+00:00"
     },
     {
       "id": "n_62ee5abf51ecb2b0",
@@ -1111,19 +1511,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-16, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679886+00:00"
-    },
-    {
-      "id": "n_063489c4c006b4ea",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Banco Central y Superintendencia de Bancos presentan nuevos aportes para fortalecer la reforma monetaria y financiera - Asamblea Nacional del Ecuador",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmFpeDc2eHJGMXBCS3JNZzlGTG5wSGU4enlhdFJ2M2JHSndmYXp0OUdzSGhnaUdNUlN1SUk3bHAyRUZhQWJJUWVKRGY3bHdJSGI0UHRLMG84ZWhZQXdfTlJ2dnV6ODlWcDFhaE9uYW1mSnFoc190TVM3QXlUOWMxbDZuazFYQVNzMlpoV05JU1BlbEZUT2tsQU9oRzRQMVZCNTdvbk1UdzN3Zw?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-05-15, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.679987+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552588+00:00"
     },
     {
       "id": "n_ce675cd044785893",
@@ -1135,7 +1523,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-02, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680089+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552650+00:00"
     },
     {
       "id": "n_e8d512f4ad8843bd",
@@ -1147,7 +1535,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-17, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680200+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552717+00:00"
     },
     {
       "id": "n_3ef2d7d5253477b3",
@@ -1159,7 +1547,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-08, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680303+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552780+00:00"
     },
     {
       "id": "n_2b0f4bd59edc8ae8",
@@ -1171,7 +1559,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-08, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680435+00:00"
+      "fetched_at": "2026-09-22T19:55:59.552843+00:00"
+    },
+    {
+      "id": "n_ee09d26f45c03539",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "La junta monetaria de Guatemala oficializa a 21 aspirantes para dirigir la superintendencia de bancos - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSzdFWXl2ZTFEX1FQYzN5SUc3dWNVT3hEbFREckpyY0trQkRkcFNUZTVZWUxCa1RuQ29UTk9mbnQxV1NiZWgweEdiT0FzMVRaQ0dzeVJmaHR0Y21aLWNyWjB4UFVZRExPbTVxYkN1OUdzQ0JMblZtNGhSNXZRblpvQVZ0dVRQb3U5a2NuSEd2NjVGOTROOEdjck1xczF0N2R5VHVQeWo3LUlFUkFtUXBneXhDbjZ3RkpvcDRxQlp6eDdwbFVhQ3lkTk8zd2JZY2FaYklvd0p2b0JHV21sd3ZFVNIB-wFBVV95cUxONTJXTXNwYU94WEFEWVhJa294RnRGekdGVFJ2RVRSaWdPSU9kMy1kNVM0UGJjcFFMZG9YNWlYR2N6b1lQTXNad3Jrald6SWhVNFd3WmtUMktGVDlnLUFmdERIM0pkMlgwblRsZGY0LURNc2JKS2dEMzhPYnFOSWxrMTVPZ0RFLUw3TDRQYXRLTGJiVDZWUTJHNTJUaFhOd2hrOVV5NlBHc2NJSVItQWhsLVotZzhqY20wNjVzZXZOYkJiQ1lfOEZsLUxCeU9aWUF5dFF1VXpMTGZ0bWlvemhNdVdFOTQyRWtzWnl1dC1DSDZDSl80a01sQ0hFcw?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-09-03, ventana 2026-09-21 a 2026-09-22",
+      "fetched_at": "2026-09-22T19:55:59.552909+00:00"
     },
     {
       "id": "n_8247242539f96e12",
@@ -1183,7 +1583,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-24, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680538+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553031+00:00"
     },
     {
       "id": "n_e47d6db92bb439e1",
@@ -1195,7 +1595,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-06, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680643+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553155+00:00"
     },
     {
       "id": "n_a0aa586c064a5c72",
@@ -1207,7 +1607,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-27, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680747+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553250+00:00"
     },
     {
       "id": "n_2f77bfd95d666d3e",
@@ -1219,7 +1619,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-14, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680851+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553346+00:00"
     },
     {
       "id": "n_a2203039d24ca772",
@@ -1231,7 +1631,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-06-30, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.680954+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553420+00:00"
     },
     {
       "id": "n_36379ff0e122be8d",
@@ -1243,7 +1643,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-20, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.681057+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553485+00:00"
+    },
+    {
+      "id": "n_063489c4c006b4ea",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Banco Central y Superintendencia de Bancos presentan nuevos aportes para fortalecer la reforma monetaria y financiera - Asamblea Nacional del Ecuador",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUmFpeDc2eHJGMXBCS3JNZzlGTG5wSGU4enlhdFJ2M2JHSndmYXp0OUdzSGhnaUdNUlN1SUk3bHAyRUZhQWJJUWVKRGY3bHdJSGI0UHRLMG84ZWhZQXdfTlJ2dnV6ODlWcDFhaE9uYW1mSnFoc190TVM3QXlUOWMxbDZuazFYQVNzMlpoV05JU1BlbEZUT2tsQU9oRzRQMVZCNTdvbk1UdzN3Zw?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-05-15, ventana 2026-09-21 a 2026-09-22",
+      "fetched_at": "2026-09-22T19:55:59.553547+00:00"
     },
     {
       "id": "n_95856d797766829e",
@@ -1255,7 +1667,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-09, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.681173+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553610+00:00"
     },
     {
       "id": "n_dae337bc2d357ae0",
@@ -1267,7 +1679,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-05, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.681277+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553673+00:00"
     },
     {
       "id": "n_92e1d87c3fb82197",
@@ -1279,31 +1691,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-07, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.681415+00:00"
-    },
-    {
-      "id": "n_be8f46330b052031",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos: Cartera de crédito de la banca creció 9.5 % en 2025 - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM1Y0tDcFJpUVA0UFdJZUFmQUxPeVVZQWh0REh3cThlZUN3MHliUEZrMXVrQ0hWQzlnVFJsbVdnbnl2cjgwZ3dTVjRQZ2FRMHdMZ0VPRW1LWGl5ZVRRMmIzakRQZFdNR0dnckxpMy01WlFYbV9GSjBuY18yMGlOWTF2QVA5ODV6bTB2NzdHS3Fjc3NSU0gxa0lpRXJTRUQ3OW9IYzQwdmlJa1VnUlp5OA?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-03-30, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.681521+00:00"
-    },
-    {
-      "id": "n_c0dddff5a0b4982d",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Moody’s: asociaciones de ahorros y préstamos mantienen fortaleza financiera y cartera estable - eldinero.com.do",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU0yZ0UxcHc4ci1qTTdhQS1Keng2VGlsc3VQNUI4U2x1WDlnQ0VGR0pCdTE4bzhnOE1MQWNBT1FpM0ZVMDdQV2dTVFR0TkZZbnl2NkVpWlVTM1diV0Y2Q1Rqb3dJaldLVWJQd0wtdjFya3JjQTFIM2FGUkhVTlo3Y0FoU0VZVHhFaVQ4VWVzb2tVMGVYeHZycHlfdXg4eVY4eld3Wl9nUm9jTTBqX1NjeUZxMXlaV09kaG9xelN2S0Y?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-01, ventana 2026-09-21 a 2026-09-22",
-      "fetched_at": "2026-09-22T17:38:45.681626+00:00"
+      "fetched_at": "2026-09-22T19:55:59.553741+00:00"
     }
   ]
 }
