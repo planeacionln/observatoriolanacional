@@ -1,43 +1,42 @@
 {
-  "generado_en": "2026-09-21T18:05:49.280460+00:00",
+  "generado_en": "2026-10-06T18:10:19.336213+00:00",
   "modelo": "gemini-2.5-flash-lite",
   "secciones": {
     "macro": {
-      "periodo": "2026-09",
-      "titulo": "Estadísticas macroeconómicas de República Dominicana",
-      "resumen": "La actividad económica, medida por el IMAE, mostró una desaceleración en julio de 2026, al registrar un crecimiento de 4.60%. La inflación interanual se ubicó en 4.98% en enero de 2026, una aceleración respecto al cierre de 2024.",
+      "periodo": "2026-10",
+      "titulo": "Déficit fiscal y subsidio eléctrico marcan el panorama económico",
+      "resumen": "El Gobierno central acumuló un déficit de RD$191,241.6 millones hasta septiembre, afectado por el pago de intereses de deuda. Paralelamente, se prevé una asignación de RD$116,394.7 millones para el subsidio eléctrico en 2027, buscando cubrir déficits operativos e inversiones.",
       "puntos": [
-        "El IMAE registró un crecimiento de 4.60% en julio de 2026, menor al 6.40% de junio.",
-        "La inflación interanual cerró en 4.98% en enero de 2026, superior al 3.32% de enero de 2024.",
-        "Las remesas mostraron un leve repunte en julio de 2026, alcanzando los 1,097.10 millones de dólares."
+        "Gobierno central registra déficit fiscal de RD$191,241.6 millones hasta septiembre.",
+        "Se destinarán RD$116,394.7 millones al subsidio eléctrico en 2027.",
+        "Nuevo Código Penal introduce riesgos legales para las empresas por fallas de control."
       ],
       "vigilar": [
-        "Comportamiento del tipo de cambio del dólar, que se situó en 59.33 RD$ al 17 de septiembre de 2026.",
-        "Evolución de los precios del petróleo WTI, que cerraron julio de 2026 en 85.17 US$/barril.",
-        "Próximas publicaciones del Banco Central de la República Dominicana sobre indicadores económicos."
+        "Implicaciones del nuevo Código Penal en la gestión de riesgos empresariales.",
+        "Tendencias en el uso de stablecoins para pagos empresariales.",
+        "Patrones de recepción de remesas en la zona fronteriza."
       ],
-      "generado_en": "2026-09-21T18:06:00.677284+00:00",
+      "generado_en": "2026-10-06T18:11:06.620455+00:00",
       "fuentes": [
-        "bcrd",
         "titulares"
       ]
     },
     "sib": {
       "periodo": "2026-08",
       "titulo": "Sistema financiero muestra estabilidad en cartera y rentabilidad",
-      "resumen": "El sistema financiero dominicano, en su conjunto, mantiene indicadores de salud general estables, con una morosidad controlada y una rentabilidad que se ha recuperado. Las Asociaciones de Ahorros y Préstamos (AAyP) exhiben un comportamiento similar, con un crecimiento sostenido de sus activos netos totales.",
+      "resumen": "El sistema financiero dominicano, en su conjunto, exhibe una cartera de crédito con morosidad contenida y una rentabilidad neta (ROE) que se mantiene robusta. Las Asociaciones de Ahorros y Préstamos (AAyP) presentan indicadores de calidad de cartera y eficiencia operativa que, si bien son distintos a los de la banca múltiple, muestran una tendencia de mejora en rentabilidad.",
       "puntos": [
-        "La morosidad general del sistema se ubicó en 2.11% para las AAyP y 1.68% para los Bancos Múltiples en agosto de 2026.",
-        "El ROE de las AAyP alcanzó el 8.91% y el ROA el 1.58% en agosto de 2026, mostrando una mejora respecto al año anterior.",
-        "Los activos netos totales de las AAyP sumaron RD$438.9 mil millones en agosto de 2026, evidenciando expansión.",
-        "La eficiencia (CTI) de las AAyP se situó en 64.40% en agosto de 2026, una mejora respecto a meses previos."
+        "La morosidad general del sistema se ubicó en 2.11% al cierre de agosto de 2026, con una leve alza respecto al mes anterior.",
+        "El ROE promedio de las AAyP alcanzó 8.91% en agosto de 2026, reflejando una mejora sostenida en el último año.",
+        "Los activos totales de las AAyP sumaron RD$438.9 mil millones, evidenciando crecimiento en el período.",
+        "La eficiencia operativa (CTI) de las AAyP mejoró, situándose en 64.40% en agosto de 2026."
       ],
       "vigilar": [
-        "La morosidad de las AAyP mostró un leve repunte a 2.11% en agosto de 2026, tras una tendencia decreciente.",
-        "La eficiencia (CTI) de La Nacional se ubicó en 74.80% en agosto de 2026, siendo superior al promedio de su segmento.",
-        "Se observa una volatilidad en la morosidad de La Nacional en los últimos meses, con un valor de 2.09% en agosto de 2026."
+        "La morosidad de las AAyP cerró en 2.11%, un ligero repunte tras una tendencia a la baja.",
+        "La eficiencia (CTI) de La Nacional se ubicó en 74.80%, por encima del promedio del sector AAyP.",
+        "La Superintendencia de Bancos (SIB) publicará nuevas estadísticas que podrían reflejar cambios en las tendencias observadas."
       ],
-      "generado_en": "2026-09-21T18:06:09.953841+00:00",
+      "generado_en": "2026-10-06T18:11:55.724807+00:00",
       "fuentes": [
         "sib_snapshot"
       ]
