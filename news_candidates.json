@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-09T18:52:53.585085+00:00",
+  "generated_at": "2026-10-09T21:17:02.854278+00:00",
   "dia_editorial": "2026-10-09",
   "zona_horaria": "UTC-4 (Santo Domingo)",
   "ventana_frescura": "2026-10-08 a 2026-10-09",
   "gemini_model": "gemini-2.5-flash-lite",
   "min_relevance": 6,
-  "count": 8,
+  "count": 12,
   "count_by_day": {
-    "2026-10-09": 5,
+    "2026-10-09": 9,
     "2026-10-08": 3
   },
-  "new_this_run": 8,
+  "new_this_run": 5,
   "already_published": 0,
   "out_of_window": 0,
   "ttl_days": 1,
   "max_age_days": 1,
   "errors": 0,
   "sources": 19,
-  "elapsed_s": 930.6,
+  "elapsed_s": 548.7,
   "candidates": [
     {
-      "id": "n_ba3920472b4466cf",
-      "source_key": "busqueda_web",
-      "source_name": "Búsqueda web",
-      "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
-      "title": "Superintendencia de Bancos impulsa estrategia para fortalecer el bienestar financiero de los deudores",
+      "id": "n_283cc53ffb307230",
+      "source_key": "news_gnews_banca",
+      "source_name": "Google News · Banca y Superintendencia",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOME0zTHM1Slc0UjZGRkFwLU9GbGRTY3J3aDExZnJRVDNTUUZaYkZEQVRWenFlZC16SGdVQjV3UkhQcV9nSFF2N3laRkEzSUl0eVBFNDhVT2FkUjZTRHhVdm9iZF9qTW1xanBfWnVZN0xsZUQ2Ykp6ck56dFdXY204VTN1SWRPZnJaTmJYLS1pYmFxQ01nSmtlNl9hLXBlNnNOeXJZa1VUejRRV0lwRFQ4SXdGWXJkMmxla1VuLXgtZkNKZw?oc=5",
+      "title": "Superintendencia de Bancos impulsa estrategia para fortalecer el bienestar financiero de los deudores - Presidencia de la República Dominicana",
       "summary": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
       "body": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
       "category": "Economia",
@@ -33,12 +33,105 @@
         "regulador"
       ],
       "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
+      "cuerpo_recuperado": true,
       "sin_ia": true,
       "published_at": "2026-10-08T19:12:33+00:00",
       "fecha_inferida_de_url": false,
       "dia_editorial": "2026-10-08",
-      "fetched_at": "2026-10-09T18:52:48.880991+00:00",
+      "fetched_at": "2026-10-09T21:16:56.501613+00:00",
+      "dia_lectura": "2026-10-09",
+      "status": "pending",
+      "tambien_en": [
+        {
+          "source_name": "Búsqueda web",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
+          "title": "Superintendencia de Bancos impulsa estrategia para fortalecer el bienestar financiero de los deudores"
+        }
+      ]
+    },
+    {
+      "id": "n_e5578b56ae2c085b",
+      "source_key": "news_eldinero_rss",
+      "source_name": "El Dinero · RSS",
+      "url": "https://eldinero.com.do/384386/banco-agricola-ha-prestado-rd19345-millones-este-ano-santo-domingo-y-la-vega-concentran-los-mayores-montos",
+      "title": "Banco Agrícola ha prestado RD$19,345 millones este año: Santo Domingo y La Vega concentran los mayores montos",
+      "summary": "URL Source: https://eldinero.com.do/384386/banco-agricola-ha-prestado-rd19345-millones-este-ano-santo-domingo-y-la-vega-concentran-los-mayores-montos",
+      "body": "URL Source: https://eldinero.com.do/384386/banco-agricola-ha-prestado-rd19345-millones-este-ano-santo-domingo-y-la-vega-concentran-los-mayores-montos Entre enero y septiembre, la entidad otorgó 12,347 préstamos, un 4.9% más que en igual período de 2025, aunque realizó 280 operaciones menos (mailto:?subject=Banco%20Agr%C3%ADcola%20ha%20prestado%20RD%2419%2C345%20millones%20este%20a%C3%B1o%3A%20Santo%20Domingo%20y%20La%20Vega%20concentran%20los%20mayores%20montos&body=https%3A%2F%2Feldinero.com.do%2F384386%2Fbanco-agricola-ha-prestado-rd19345-millones-este-ano-santo-domingo-y-la-vega-concentran-los-mayores-montos%2F)",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-10-09T19:48:32+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-09",
+      "fetched_at": "2026-10-09T21:15:25.130341+00:00",
+      "dia_lectura": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "id": "n_4def26d30f6f65cf",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/384410/republica-dominicana-plantea-vincular-la-ia-con-la-productividad-regional",
+      "title": "República Dominicana plantea vincular la IA con la productividad regional",
+      "summary": "República Dominicana, durante su presidencia de la Cepal, impulsará la inteligencia artificial y la transformación digital para aumentar la productividad y reducir brechas económicas. El objetivo es que el desarrollo tecnológico genere oportunidades y fortalezca la capacidad productiva regional.",
+      "body": "El ministro de Relaciones Exteriores, Víctor Bisonó, anunció que República Dominicana priorizará la inteligencia artificial y la transformación digital durante su presidencia de la Cepal (2026-2028). La iniciativa busca que la conectividad digital se traduzca en mayor productividad, innovación y oportunidades económicas, reduciendo las brechas entre países y comunidades. Se enfatiza la necesidad de una dirección estratégica y coordinación institucional para estos procesos.",
+      "category": "Economia",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-10-09T20:45:24+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-09",
+      "fetched_at": "2026-10-09T21:11:14.765271+00:00",
+      "dia_lectura": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "id": "n_1f50e15c89284430",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/384419/rd-plantea-mas-recursos-para-fortalecer-la-resiliencia-climatica-del-caribe",
+      "title": "RD plantea más recursos para fortalecer la resiliencia climática del Caribe",
+      "summary": "República Dominicana, durante su presidencia de la Cepal, busca priorizar el acceso a financiamiento climático para el Caribe. El país aboga por traducir los compromisos internacionales en instrumentos y recursos que permitan a las naciones caribeñas mejorar su resiliencia y capacidad de recuperación ante los efectos del cambio climático.",
+      "body": "República Dominicana, a través de su canciller Víctor Bisonó, ha propuesto fortalecer la resiliencia climática del Caribe mediante un mayor acceso a recursos financieros. Durante la 41.ª sesión de la Cepal, se enfatizó la necesidad de que los compromisos climáticos se traduzcan en instrumentos y financiamiento adecuado para la prevención de daños y la recuperación ante fenómenos climáticos.",
+      "category": "Economia",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-10-09T20:47:34+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-09",
+      "fetched_at": "2026-10-09T21:08:08.420773+00:00",
+      "dia_lectura": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "id": "n_82a2e8c236942da8",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/384409/sec-respalda-avances-en-la-lucha-contra-el-comercio-ilicito-y-valora-reactivacion-del-consejo-interinstitucional",
+      "title": "SEC respalda avances en la lucha contra el comercio ilícito y valora reactivación del Consejo Interinstitucional",
+      "summary": "La Sociedad de Empresas de Combustibles y Derivados (SEC) apoya las iniciativas contra el comercio ilícito y destaca la reactivación del Consejo Interinstitucional como un paso crucial. Se busca fortalecer la coordinación público-privada para combatir la competencia desleal y asegurar la transparencia en el mercado.",
+      "body": "La Sociedad de Empresas de Combustibles y Derivados (SEC) ha expresado su respaldo a las medidas contra el comercio ilícito, valorando positivamente la reactivación del Consejo Interinstitucional. Este organismo busca mejorar la coordinación entre el Estado y el sector productivo para enfrentar la competencia desleal y fortalecer la transparencia del mercado, especialmente en el sector de combustibles.",
+      "category": "Economia",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-10-09T20:30:04+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-09",
+      "fetched_at": "2026-10-09T21:08:02.479519+00:00",
       "dia_lectura": "2026-10-09",
       "status": "pending"
     },
@@ -203,6 +296,18 @@
   "discarded_count": 60,
   "discarded": [
     {
+      "id": "n_cc09ed8f2bd46a7f",
+      "motivo": "relevancia_baja",
+      "motivo_texto": "El modelo le puso poca relevancia financiera",
+      "title": "Gobierno rehabilitará más de 1,500 kilómetros de redes eléctricas entre 2027 y 2028",
+      "url": "https://eldinero.com.do/384405/gobierno-rehabilitara-mas-de-1500-kilometros-de-redes-electricas-entre-2027-y-2028",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": 5,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-10-09T21:08:22.544946+00:00"
+    },
+    {
       "id": "n_72e16a1536005848",
       "motivo": "relevancia_baja",
       "motivo_texto": "El modelo le puso poca relevancia financiera",
@@ -251,40 +356,112 @@
       "fetched_at": "2026-10-09T18:39:21.569961+00:00"
     },
     {
-      "id": "n_517c2be616f8db63",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Policía apresa a tres hombres por intento de asalto a joyería en Villa Juana",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/10/09/policia-nacional-detiene-a-tres-por-intento-asalto-joyeria/3682818",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
+      "id": "n_e5c8116d0a2ae5ca",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Forbes RD y AIRD celebran el “Foro de Economía & Negocios 2026”",
+      "url": "https://eldinero.com.do/384399/forbes-rd-y-aird-celebran-el-foro-de-economia-negocios-2026",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-10-09T18:38:27.038083+00:00"
+      "fetched_at": "2026-10-09T21:14:26.015380+00:00"
     },
     {
-      "id": "n_797c5992c9ac441d",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Dictan un año de prisión preventiva contra acusado de matar a adolescente en Navarrete",
-      "url": "https://www.diariolibre.com/actualidad/justicia/2026/10/09/prision-preventiva-para-imputado-de-matar-adolescente-en-navarrete/3682779",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
+      "id": "n_bdf77f4b792c2077",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El 47% de los partos en zona fronteriza dominicana fueron por cesárea en 2025",
+      "url": "https://eldinero.com.do/384396/el-47-de-los-partos-en-zona-fronteriza-dominicana-fueron-por-cesarea-en-2025",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-10-09T18:38:32.970728+00:00"
+      "fetched_at": "2026-10-09T21:14:32.084478+00:00"
     },
     {
-      "id": "n_de255f7c375732bc",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Identifican como Oscar Belgal al dominicano herido por el ICE; policía confirma que está vivo",
-      "url": "https://www.diariolibre.com/usa/actualidad/2026/10/09/identifican-como-oscar-belgal-al-dominicano-herido-por-ice/3682744",
+      "id": "n_ab3b491c53a88701",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "América Latina bajo los efectos de los terremotos",
+      "url": "https://www.diariolibre.com/mundo/america-latina/2026/10/09/america-latina-bajo-los-efectos-de-los-terremotos/3683005",
       "source_name": "Diario Libre · Economía",
-      "relevance": 0,
+      "relevance": null,
       "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-10-09T18:38:51.049090+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-09T21:14:34.876602+00:00"
+    },
+    {
+      "id": "n_a685812b71202b3c",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Fuerte terremoto de magnitud 7.7 sacude a Panamá",
+      "url": "https://www.diariolibre.com/planeta/ciencia/2026/10/09/fuerte-terremoto-de-magnitud-77-sacude-a-panama/3682970",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-09T21:14:34.910573+00:00"
+    },
+    {
+      "id": "n_7032d4da2b4285ae",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El CNM concluye entrevistas para escoger seis jueces de la Suprema",
+      "url": "https://www.diariolibre.com/actualidad/justicia/2026/10/09/el-cnm-concluye-entrevistas-para-escoger-seis-jueces-de-la-suprema/3682983",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-09T21:14:35.277698+00:00"
+    },
+    {
+      "id": "n_f3e24ad8edf8eb7f",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Bisonó dice ONU no ha determinado cómo llegaron municiones a Haití",
+      "url": "https://www.diariolibre.com/actualidad/nacional/2026/10/09/bisono-dice-onu-no-ha-determinado-como-llegaron-municiones-a-haiti/3682980",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-09T21:14:38.129981+00:00"
+    },
+    {
+      "id": "n_e367b1611c11b2bb",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Reportan otro muerto a manos de la Policía en San Juan",
+      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/10/09/reportan-otro-muerto-a-manos-de-la-policia-en-san-juan/3682968",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-09T21:14:42.717696+00:00"
+    },
+    {
+      "id": "n_990126554ad02ccf",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Productores artísticos solicitan apoyo de Abinader por conflicto",
+      "url": "https://www.diariolibre.com/revista/cultura/2026/10/09/productores-artisticos-solicitan-apoyo-de-abinader-por-conflicto/3682969",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-09T21:14:43.205602+00:00"
+    },
+    {
+      "id": "n_5371440d0da6c0ab",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Magín Díaz destaca la credibilidad económica de RD ante el mercado internacional",
+      "url": "https://www.hacienda.gob.do/magin-diaz-destaca-la-credibilidad-economica-de-rd-ante-el-mercado-internacional",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-07, ventana 2026-10-08 a 2026-10-09",
+      "fetched_at": "2026-10-09T21:15:15.957526+00:00"
     },
     {
       "id": "n_7b85260bd812e8dd",
@@ -296,7 +473,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-06, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:44:40.822552+00:00"
+      "fetched_at": "2026-10-09T21:15:15.957612+00:00"
     },
     {
       "id": "n_b7978ff9140b998c",
@@ -308,7 +485,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-29, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:44:40.822630+00:00"
+      "fetched_at": "2026-10-09T21:15:15.957691+00:00"
     },
     {
       "id": "n_62c414c63889abe8",
@@ -320,7 +497,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-29, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:44:40.822685+00:00"
+      "fetched_at": "2026-10-09T21:15:15.957765+00:00"
     },
     {
       "id": "n_46af5ffa8d1ee467",
@@ -332,7 +509,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-29, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:44:40.822734+00:00"
+      "fetched_at": "2026-10-09T21:15:15.957835+00:00"
     },
     {
       "id": "n_f0d5c8fc48a8c5d0",
@@ -344,7 +521,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-23, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:44:40.822775+00:00"
+      "fetched_at": "2026-10-09T21:15:15.957902+00:00"
     },
     {
       "id": "n_bb085a0da98918b2",
@@ -356,7 +533,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-22, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:44:40.822808+00:00"
+      "fetched_at": "2026-10-09T21:15:15.957968+00:00"
     },
     {
       "id": "n_55a6cc8498449c52",
@@ -368,7 +545,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-21, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:44:40.822841+00:00"
+      "fetched_at": "2026-10-09T21:15:15.958062+00:00"
     },
     {
       "id": "n_e24f2eeda6842275",
@@ -380,115 +557,79 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-19, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:44:40.822872+00:00"
+      "fetched_at": "2026-10-09T21:15:15.958138+00:00"
     },
     {
-      "id": "n_572a506b12de69c1",
+      "id": "n_c3f59b5c6e39bee9",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Delcy Rodríguez descarta dolarizar Venezuela y apuesta por fortalecer el bolívar",
-      "url": "https://eldinero.com.do/384352/delcy-rodriguez-descarta-dolarizar-venezuela-y-apuesta-por-fortalecer-el-bolivar",
+      "title": "Planificación integrada, descarbonización y participación comunitaria: las tres prioridades para una minería sostenible en América Latina",
+      "url": "https://eldinero.com.do/384388/planificacion-integrada-descarbonizacion-y-participacion-comunitaria-las-tres-prioridades-para-una-mineria-sostenible-en-america-latina",
       "source_name": "El Dinero · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:50:59.965811+00:00"
+      "fetched_at": "2026-10-09T21:15:24.980816+00:00"
     },
     {
-      "id": "n_f26651175d7d7de2",
+      "id": "n_23cf9a7505ec2118",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Eficiencia energética en el Estado dominicano generaría ahorros de RD$340 millones al año",
-      "url": "https://eldinero.com.do/384355/eficiencia-energetica-en-el-estado-dominicano-generaria-ahorros-de-rd340-millones-al-ano",
+      "title": "LMD destina más de RD$27 millones a obras y servicios municipales en Guayabal",
+      "url": "https://eldinero.com.do/384383/lmd-destina-mas-de-rd27-millones-a-obras-y-servicios-municipales-en-guayabal",
       "source_name": "El Dinero · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:00.009917+00:00"
+      "fetched_at": "2026-10-09T21:15:37.848507+00:00"
     },
     {
-      "id": "n_c3a31a49b41b4445",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Kaspersky advierte que 8 de cada 10 usuarios no revisan los permisos de privacidad de sus apps",
-      "url": "https://eldinero.com.do/384345/kaspersky-advierte-que-8-de-cada-10-usuarios-no-revisan-los-permisos-de-privacidad-de-sus-apps",
-      "source_name": "El Dinero · RSS",
+      "id": "n_ae38811eddb87bf0",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "La Insuperable llevará su música a Costa Rica el próximo 31 de octubre",
+      "url": "https://hoy.com.do/vivir/alegria/musica/insuperable-llevara-musica-costa-rica-proximo-31-octubre_1104042.html",
+      "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:00.236726+00:00"
+      "detalle": "el feed la fecha 2026-09-26, ventana 2026-10-08 a 2026-10-09",
+      "fetched_at": "2026-10-09T21:15:39.821648+00:00"
     },
     {
-      "id": "n_08c26a360e5c94b4",
+      "id": "n_070ac27ba9ffc585",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Expertos alertan sobre nueva generación de fraude digital impulsada por inteligencia artificial",
-      "url": "https://eldinero.com.do/384344/expertos-alertan-sobre-nueva-generacion-de-fraude-digital-impulsada-por-inteligencia-artificial",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:00.261142+00:00"
-    },
-    {
-      "id": "n_d58d46469aa016ac",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Un terremoto de magnitud 7.6 sacude Panamá",
-      "url": "https://eldinero.com.do/384365/un-terremoto-de-magnitud-7-6-sacude-panama",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:16.922657+00:00"
-    },
-    {
-      "id": "n_932b4933668d8dad",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Asaltos a joyerías en RD: estos son algunos de los casos más recordados",
-      "url": "https://hoy.com.do/el-pais/asaltos-joyerias-rd-son-casos-recordados_1105022.html",
+      "title": "Acusado de intento de asalto a joyería en Villa Juana: “Tengo un plomazo, salí a hacer algo y la cosa salió mal”",
+      "url": "https://hoy.com.do/el-pais/acusado-intento-asalto-joyeria-villa-juana-plomazo-sali-cosa-salio-mal_1105059.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:24.435887+00:00"
+      "fetched_at": "2026-10-09T21:15:46.343754+00:00"
     },
     {
-      "id": "n_36712b10e8c5a949",
+      "id": "n_b0683c84f66b90d0",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Intento de asalto a joyería en Villa Juana: suman tres los detenidos por el delito que dejó un hombre herido",
-      "url": "https://hoy.com.do/el-pais/intento-asalto-joyeria-villa-juana-suman-tres-detenidos-delito-dejo-hombre-herido_1105033.html",
+      "title": "¿Quién es Navi Pillay, la jurista sudafricana reconocida con el Premio Nobel de la Paz 2026?",
+      "url": "https://hoy.com.do/el-mundo/navi-pillay-jurista-sudafricana-reconocida-premio-nobel-paz-2026_1105040.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:26.539335+00:00"
+      "fetched_at": "2026-10-09T21:15:46.688102+00:00"
     },
     {
-      "id": "n_2f14617fea5bd9c7",
+      "id": "n_9498ddd35c3ac96b",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "República Dominicana escala dos puestos y se mete entre los ocho mejores del béisbol mundial",
-      "url": "https://hoy.com.do/deportes/beisbol/republica-dominicana-escala-dos-puestos-mete-ocho-mejores-beisbol-mundial_1105012.html",
+      "title": "De Bulin 47 al freestyle: cómo este movimiento pasó de las calles a los grandes escenarios",
+      "url": "https://hoy.com.do/vivir/alegria/bulin-47-freestyle-movimiento-paso-calles-grandes-escenarios_1105056.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:33.697505+00:00"
-    },
-    {
-      "id": "n_c3293f3e443187ce",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "La jurista sudafricana Navanethem \"Navi\" Pillay, Premio Nobel de la Paz 2026",
-      "url": "https://hoy.com.do/el-mundo/jurista-sudafricana-navanethem-navi-pillay-premio-nobel-paz-2026_1105010.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:33.954127+00:00"
+      "fetched_at": "2026-10-09T21:15:53.079723+00:00"
     },
     {
       "id": "n_efb992992c026b83",
@@ -500,91 +641,103 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:39.857118+00:00"
+      "fetched_at": "2026-10-09T21:15:54.200065+00:00"
     },
     {
-      "id": "n_0b93a99cc44688a7",
+      "id": "n_932b4933668d8dad",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Cleveland vence W. Sox y obliga a 5to juego decisivo",
-      "url": "https://hoy.com.do/deportes/beisbol/cleveland-vence-w-sox-obliga-5to-juego-decisivo_1105004.html",
+      "title": "Asaltos a joyerías en RD: estos son algunos de los casos más recordados",
+      "url": "https://hoy.com.do/el-pais/asaltos-joyerias-rd-son-casos-recordados_1105022.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:48.976111+00:00"
+      "fetched_at": "2026-10-09T21:15:55.369767+00:00"
     },
     {
-      "id": "n_cf4c7007198c61b4",
+      "id": "n_7f9ec4988296e50a",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Terremoto de magnitud 8,0 sacude Panamá y advierten posible riesgo de tsunami",
-      "url": "https://eldia.com.do/terremoto-de-magnitud-80-sacude-panama-y-advierten-posible-riesgo-de-tsunami",
+      "title": "Un terremoto sacude Panamá: conozca su magnitud, profundidad y lo que se sabe hasta el momento",
+      "url": "https://hoy.com.do/el-mundo/terremoto-magnitud-7-6-sacude-panama_1105053.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-09T21:16:06.780492+00:00"
+    },
+    {
+      "id": "n_7865df5fdda93924",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El frío empuja a la viuda negra occidental hacia el interior de las viviendas",
+      "url": "https://eldia.com.do/el-frio-empuja-a-la-viuda-negra-occidental-hacia-el-interior-de-las-viviendas",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:51:55.889002+00:00"
+      "fetched_at": "2026-10-09T21:16:13.657859+00:00"
     },
     {
-      "id": "n_366869775ab32601",
+      "id": "n_e3315eab57216e66",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "De país pelotero a país deportivo: República Dominicana amplía su espacio en el deporte mundial",
-      "url": "https://eldia.com.do/de-pais-pelotero-a-pais-deportivo-republica-dominicana-amplia-su-espacio-en-el-deporte-mundial",
+      "title": "“Elio, toy’ abaleao”: Asaltante herido en atraco a joyería en Villa Juana grabó video mientras conducía baleado",
+      "url": "https://eldia.com.do/elio-toy-abaleao-asaltante-herido-en-atraco-a-joyeria-en-villa-juana-grabo-video-mientras-conducia-baleado",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:00.148865+00:00"
+      "fetched_at": "2026-10-09T21:16:13.675552+00:00"
     },
     {
-      "id": "n_04c111d03ba0da35",
+      "id": "n_5def80c9278b6c84",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Ciudad Juan Bosch: del sueño de una ciudad modelo al desafío de construir su futuro",
-      "url": "https://eldia.com.do/ciudad-juan-bosch-del-sueno-de-una-ciudad-modelo-al-desafio-de-construir-su-futuro",
+      "title": "Caso Karen Yapoort: ¿qué establece la ley dominicana sobre la difamación y la injuria?",
+      "url": "https://eldia.com.do/caso-karen-yapoort-que-establece-la-ley-dominicana-sobre-la-difamacion-y-la-injuria",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:00.482025+00:00"
+      "fetched_at": "2026-10-09T21:16:13.694851+00:00"
     },
     {
-      "id": "n_aa6138f4810440e5",
+      "id": "n_400e817f7c17d5c8",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Dominicano fue herido por agente de ICE mientras iba en el asiento trasero de un vehículo junto a su hijo de 5 años",
-      "url": "https://eldia.com.do/dominicano-recibio-disparo-mientras-iba-en-el-asiento-trasero-de-un-vehiculo-junto-a-un-nino-afirma-alcalde-de-ny",
+      "title": "RD decomisa más de 270 millones de productos ilícitos y refuerza la lucha contra el contrabando",
+      "url": "https://eldia.com.do/rd-decomisa-mas-de-270-millones-de-productos-ilicitos-y-refuerza-la-lucha-contra-el-contrabando",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:02.977463+00:00"
+      "fetched_at": "2026-10-09T21:16:14.170107+00:00"
     },
     {
-      "id": "n_c9b76903e9018561",
+      "id": "n_4ea74ecc6c2807ae",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Héctor Acosta visita al papa León XIV y pide oración por República Dominicana",
-      "url": "https://eldia.com.do/hector-acosta-visita-al-papa-leon-xiv-y-pide-oracion-por-republica-dominicana",
+      "title": "Abogado Carlos Tavárez afirma que el papel activo del juez laboral no debe vulnerar la defensa del empleador",
+      "url": "https://eldia.com.do/abogado-carlos-tavarez-afirma-que-el-papel-activo-del-juez-laboral-no-debe-vulnerar-la-defensa-del-empleador",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:06.379865+00:00"
+      "fetched_at": "2026-10-09T21:16:20.588653+00:00"
     },
     {
-      "id": "n_c96b616ded86a084",
+      "id": "n_be9edff06cb4c112",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "INABIE capacita a más de 2,244 proveedores para elevar la calidad del alimento estudiantil",
-      "url": "https://eldia.com.do/inabie-capacita-a-mas-de-2244-proveedores-para-elevar-la-calidad-del-alimento-estudiantil",
+      "title": "¿Por qué el constante crecimiento del baloncesto dominicano en el ranking FIBA",
+      "url": "https://eldia.com.do/baloncesto-dominicano-se-afianza-en-ranking-mundkal",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:07.153888+00:00"
+      "fetched_at": "2026-10-09T21:16:21.900736+00:00"
     },
     {
       "id": "n_02ff33bf7a922b52",
@@ -596,7 +749,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-04, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305318+00:00"
+      "fetched_at": "2026-10-09T21:16:37.343453+00:00"
     },
     {
       "id": "n_691fcc83448f56f3",
@@ -608,7 +761,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-30, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305447+00:00"
+      "fetched_at": "2026-10-09T21:16:37.343594+00:00"
     },
     {
       "id": "n_d895450a09c45a1a",
@@ -620,7 +773,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-06, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305512+00:00"
+      "fetched_at": "2026-10-09T21:16:37.343675+00:00"
     },
     {
       "id": "n_03c8b8cb1f686df3",
@@ -632,7 +785,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-07, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305631+00:00"
+      "fetched_at": "2026-10-09T21:16:37.343775+00:00"
     },
     {
       "id": "n_00eecc4acea7de13",
@@ -644,7 +797,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-30, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305688+00:00"
+      "fetched_at": "2026-10-09T21:16:37.343854+00:00"
     },
     {
       "id": "n_6095f9c5154c8cbb",
@@ -656,7 +809,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-17, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305748+00:00"
+      "fetched_at": "2026-10-09T21:16:37.343925+00:00"
     },
     {
       "id": "n_afe4f33e98cf2f81",
@@ -668,7 +821,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-05, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305809+00:00"
+      "fetched_at": "2026-10-09T21:16:37.343997+00:00"
     },
     {
       "id": "n_5f0a0d700275d215",
@@ -680,7 +833,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-21, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305881+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344093+00:00"
     },
     {
       "id": "n_4292404c1e6ce714",
@@ -692,7 +845,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-05, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305933+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344163+00:00"
     },
     {
       "id": "n_a61a086618bc3767",
@@ -704,7 +857,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-07, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.305978+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344231+00:00"
     },
     {
       "id": "n_f545aab9980bee13",
@@ -716,7 +869,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-30, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306013+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344313+00:00"
     },
     {
       "id": "n_8aa83c84c7d83828",
@@ -728,7 +881,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-10, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306043+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344388+00:00"
     },
     {
       "id": "n_376204c0766c67a4",
@@ -740,7 +893,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-06, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306078+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344482+00:00"
     },
     {
       "id": "n_0804f5f60cf38f00",
@@ -752,7 +905,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-20, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306113+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344536+00:00"
     },
     {
       "id": "n_bc8531a50bd2aeed",
@@ -764,19 +917,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-05-27, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306143+00:00"
-    },
-    {
-      "id": "n_9ce46288fe6c4edc",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Precio del dólar hoy en República Dominicana: tasa de compra y venta este sábado 3 de octubre - Acento",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWIxbkhncThpalpVX2xiQkxBUFpucXhyRTVNUXMxSE5VbHVGTlNTem5ialFPZHVaMG9sbUYxNXhiYmpWTjM3ckUzeUNTY2RWWXpzRUU0d3ZfYURTcGRQbDY2QmNiLXpkVTQtN0RaTTlpVHlqMFRHZUlzdjJMUDBUTi1QZk5SUFRuWWZBOXZxT3hGaGF2QlY3Ry1vVjdfeW9vMlVPOS1HdFBkbUhFRk8tSnlsQWYxOTZSd0plWVFwcHR6QjNsUU5XbUhLWEsyVmgxb3fSAdIBQVVfeXFMTnViMW5IZ3E4aWpaVV9sYkJMQVBabnF4ckU1TVFzMUhOVWx1Rk5TU3puYmpRT2R1WjBvbG1GMTV4YmJqVk4zN3JFM3lDU2NkVll6c0VFNHd2X2FEU3BkUGw2NkJjYi16ZFU0LTdEWk05aVR5ajBUR2VJc3YyTFAwVE4tUGZOUlBUbllmQTl2cU94RmhhdkJWN0ctb1Y3X3lvbzJVTzktR3RQZG1IRUZPLUp5bEFmMTk2UndKZVlRcHB0ekIzbFFOV21IS1hLMlZoMW93?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-03, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306177+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344579+00:00"
     },
     {
       "id": "n_207379c998d520a8",
@@ -788,7 +929,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-05-02, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306207+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344621+00:00"
     },
     {
       "id": "n_2cdd87ecfddba050",
@@ -800,7 +941,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-04, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306242+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344668+00:00"
+    },
+    {
+      "id": "n_9ce46288fe6c4edc",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Precio del dólar hoy en República Dominicana: tasa de compra y venta este sábado 3 de octubre - Acento",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWIxbkhncThpalpVX2xiQkxBUFpucXhyRTVNUXMxSE5VbHVGTlNTem5ialFPZHVaMG9sbUYxNXhiYmpWTjM3ckUzeUNTY2RWWXpzRUU0d3ZfYURTcGRQbDY2QmNiLXpkVTQtN0RaTTlpVHlqMFRHZUlzdjJMUDBUTi1QZk5SUFRuWWZBOXZxT3hGaGF2QlY3Ry1vVjdfeW9vMlVPOS1HdFBkbUhFRk8tSnlsQWYxOTZSd0plWVFwcHR6QjNsUU5XbUhLWEsyVmgxb3fSAdIBQVVfeXFMTnViMW5IZ3E4aWpaVV9sYkJMQVBabnF4ckU1TVFzMUhOVWx1Rk5TU3puYmpRT2R1WjBvbG1GMTV4YmJqVk4zN3JFM3lDU2NkVll6c0VFNHd2X2FEU3BkUGw2NkJjYi16ZFU0LTdEWk05aVR5ajBUR2VJc3YyTFAwVE4tUGZOUlBUbllmQTl2cU94RmhhdkJWN0ctb1Y3X3lvbzJVTzktR3RQZG1IRUZPLUp5bEFmMTk2UndKZVlRcHB0ekIzbFFOV21IS1hLMlZoMW93?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-03, ventana 2026-10-08 a 2026-10-09",
+      "fetched_at": "2026-10-09T21:16:37.344715+00:00"
     },
     {
       "id": "n_fd5bb9cb7c09fe12",
@@ -812,7 +965,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-09, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306278+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344763+00:00"
     },
     {
       "id": "n_b108ede27d878c8b",
@@ -824,7 +977,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-02, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:27.306312+00:00"
+      "fetched_at": "2026-10-09T21:16:37.344808+00:00"
     },
     {
       "id": "n_a39c890f1483fbe8",
@@ -836,19 +989,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-10-09T18:52:39.159365+00:00"
-    },
-    {
-      "id": "n_88b570445029ba16",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar hoy en República Dominicana: tasa de compra y venta este viernes 9 de octubre - Acento",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamtlMVlILWhMeU9PWHFqd2N2b09UTDdxZWwxenFwcGNxT3pkZTV3WWhabTUwbHV6YkdLTXV5dGF4aGlncVRTRF9mSEduV24waFAtd2NTSnpmdU9UM2xjU0ZrZmJuZnhNZm1mOHRGajlNTGJQQWg1RVh3TUltU01XRlNFT1ViZWhDNjhGUzh1U0Q5RDVKNTlqRERrMmhzempGb3JTTy0xSXJaVjhxdzVHZDg0MDFOUnJLNmV6YkFlZUhuSFo5ZTBDTWt5bWk4aG1RQlJr0gHTAUFVX3lxTE1qa2UxWUgtaEx5T09YcWp3Y3ZvT1RMN3FlbDF6cXBwY3FPemRlNXdZaFptNTBsdXpiR0tNdXl0YXhoaWdxVFNEX2ZIR25XbjBoUC13Y1NKemZ1T1QzbGNTRmtmYm5meE1mbWY4dEZqOU1MYlBBaDVFWHdNSW1TTVdGU0VPVWJlaEM2OEZTOHVTRDlENUo1OWpERGsyaHN6akZvclNPLTFJclpWOHF3NUdkODQwMU5Scks2ZXpiQWVlSG5IWjllMENNa3ltaThobVFCUms?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:39.926268+00:00"
+      "fetched_at": "2026-10-09T21:16:49.496727+00:00"
     },
     {
       "id": "n_9e5ef0fa248616c7",
@@ -860,67 +1001,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:40.270982+00:00"
+      "fetched_at": "2026-10-09T21:16:50.386706+00:00"
     },
     {
-      "id": "n_d5335bbe37da5768",
+      "id": "n_88b570445029ba16",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar hoy en República Dominicana: tasa de compra y venta este jueves 8 de octubre - Acento",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWmFhRFY3TzdaYlRqRU52U241cDJhRmdOdWhTeVhhNVZWcWhwOXlFT3ppa0hIc1VFR3AzbDNxQjUzNjdoTHJOWUtycVY2RFJTZ0dpUldkM05LalBvTzNsbFZsTVgtLVJYemszSEFYanZ3czlVNUo3bkdsMVFzc1ZUdmd6SEZ5d0NBbXpuTXRUWXhPa3VZUm1WV09rM3V2RVNSZjlzOHNQUTl6aXFjZXhFWWNQcnBZVW9mOVJSVi1TN1JVWU15Q2lMY2dBSElDRXZYblHSAdIBQVVfeXFMUFphYURWN083WmJUakVOdlNuNXAyYUZnTnVoU3lYYTVWVnFocDl5RU96aWtISHNVRUdwM2wzcUI1MzY3aExyTllLcnFWNkRSU2dHaVJXZDNOS2pQb08zbGxWbE1YLS1SWHprM0hBWGp2d3M5VTVKN25HbDFRc3NWVHZnekhGeXdDQW16bk10VFl4T2t1WVJtVldPazN1dkVTUmY5czhzUFE5emlxY2V4RVljUHJwWVVvZjlSUlYtUzdSVVlNeUNpTGNnQUhJQ0V2WG5R?oc=5",
+      "title": "Precio del dólar hoy en República Dominicana: tasa de compra y venta este viernes 9 de octubre - Acento",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamtlMVlILWhMeU9PWHFqd2N2b09UTDdxZWwxenFwcGNxT3pkZTV3WWhabTUwbHV6YkdLTXV5dGF4aGlncVRTRF9mSEduV24waFAtd2NTSnpmdU9UM2xjU0ZrZmJuZnhNZm1mOHRGajlNTGJQQWg1RVh3TUltU01XRlNFT1ViZWhDNjhGUzh1U0Q5RDVKNTlqRERrMmhzempGb3JTTy0xSXJaVjhxdzVHZDg0MDFOUnJLNmV6YkFlZUhuSFo5ZTBDTWt5bWk4aG1RQlJr0gHTAUFVX3lxTE1qa2UxWUgtaEx5T09YcWp3Y3ZvT1RMN3FlbDF6cXBwY3FPemRlNXdZaFptNTBsdXpiR0tNdXl0YXhoaWdxVFNEX2ZIR25XbjBoUC13Y1NKemZ1T1QzbGNTRmtmYm5meE1mbWY4dEZqOU1MYlBBaDVFWHdNSW1TTVdGU0VPVWJlaEM2OEZTOHVTRDlENUo1OWpERGsyaHN6akZvclNPLTFJclpWOHF3NUdkODQwMU5Scks2ZXpiQWVlSG5IWjllMENNa3ltaThobVFCUms?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:41.938002+00:00"
-    },
-    {
-      "id": "n_d926dca065506911",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar hoy en RD viernes 9 de octubre - El Caribe",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVllGb0U3VEJSOElLQWN5Zzh5LWJfYjBaS3ZjTkVRcVpDNV83M1lxLWVneFFNdWoyallhWVlpeU1BeGlEMFpsMk5jVlEzR3F0WENiRWdNczJSbVNHSm1EWG5sMmNDUVpjcmxkNldsSy1Mc09XQTZoa3MxdXJSTk1zUF8wLV81UUxfOHg1bjF2QXVwZl9IOFBrcw?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-09T18:52:42.860276+00:00"
-    },
-    {
-      "id": "n_6d3c4a34cfa4da04",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos lanza programa de voluntariado para sus colaboradores - Acento",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZzA3bi1iRUt1NFBzdWRIckc1Um1LM1NhV0lTZU5odGtMQ3lURGVjMkJFOUs3Ymo4LUZRMVpUN20zZFBNS2owOVlnNFFEaGptY1dNajF6YlhwekJEZEZ1ZTVGZ0cyQTJYUFgyajVuckV1VUI1b3BxTkpBZ1FIVkV5cmFrMDBvd2xvZ2t6c1pJbENuMVJ2ejVOTVc1dWRWdFdwdFZkVXA1dmhMd09jT1ZtTjZTeGRzNHZYWnpFbnpGZDhnQdIBwgFBVV95cUxNZzA3bi1iRUt1NFBzdWRIckc1Um1LM1NhV0lTZU5odGtMQ3lURGVjMkJFOUs3Ymo4LUZRMVpUN20zZFBNS2owOVlnNFFEaGptY1dNajF6YlhwekJEZEZ1ZTVGZ0cyQTJYUFgyajVuckV1VUI1b3BxTkpBZ1FIVkV5cmFrMDBvd2xvZ2t6c1pJbENuMVJ2ejVOTVc1dWRWdFdwdFZkVXA1dmhMd09jT1ZtTjZTeGRzNHZYWnpFbnpGZDhnQQ?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-06, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:45.063327+00:00"
-    },
-    {
-      "id": "n_acdfdaaab153c1cf",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "El presidente Bernardo Arévalo reorganiza la cúpula económica con nombramientos en la banca central y la Superintendencia de Bancos - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVS1DeEIzMFRxVmw1cFBDSjl0UjZjZjdUQ0NXaVpURDVpV2pORjN6THBMZ2JYNzk2eGlEUlRxNUlneTBqNTBEY0JPR25SQUxTV05OMlJVOUhXRURaX08tN1d6MlhpZEtjWm5rYnBnY1kzWkFpRUxTUWkxNFNyaVc2eF82R1VsTU9JcDJRT29iVFV4TVlQazgzZTJ6OVRlT3NQaWNhelhNOFdxMkRWQUNZVXU0NXNQRDdER2I2aTNja2VsUTkydjR6MWtoZnoyTGxOWWZLd2txX2dBX1R3NFQtSHFEVG9iTVVIY052YVFKMWowaEZyM3YxekxELW5IV0IwOGp5QkFXZkfSAaMCQVVfeXFMT0xMcWoxRkJuZ1pYRDVzSXhRYkRsVmYwSUU3S194ZDlXUGFXMS1GbldOU3Y4RlkxMWpGTGQ3cmkzQktieWM4R2UtMEs2bjJoNHZPc2dQX0NOVHF3VWRDTmwwM19GQ1hIMjU5NDVLajlHN2JySUZmUnpNamVjbTljZy11Yy1ldk9vOUxGZ2d1SFBqMUFXLW9Bczg4M3dHMXN4ZzFqaHluODNhbUxRQTM1UG1QS0xwbUNDYUlMVjJYVUpYNEU0RDdfZEZHZmFZQzVyQjRmWG5WUjRJckkxTVlnRkk4M1hyWUppYUNTMGFmd1lhNWFMeVNUaXU0aTRxTHhyampacWJZMTZrTzRzdTd4ZG1vU3djekVuUjdQMWY5NXRrVFpR?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-29, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:45.063445+00:00"
-    },
-    {
-      "id": "n_26003c1a9c8f8b5e",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos (SB) lanza programa de voluntariado para canalizar el compromiso social de sus colaboradores - primicias.net",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRlV4MTFDNFQ1bE15ZVEyaG9LNkt5b1IyWTBiZGJ4MTVTUkQ1UzM4OHlHd25hZnNKclZVUGxQTWZFWXZyR2ZsbEJBMlpmRTdTcFJ6WDV1THBFTWFEcERUa2lJY2VVNERib3R0Q1FMT3cxWkhUbVFxYXVxVm45U2FQUTZMZDNFaDFmMUl5cjlub2hseVFlNmNKTlcwQWtXSGpGUmtsdV9Pc2hmS0JoSmJjQmg0WmkyN0RZdnNvekx0ZXpKS3poZDB3MWM4Um5FVWIxLUpUR3NENDhBUXpN?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-05, ventana 2026-10-08 a 2026-10-09",
-      "fetched_at": "2026-10-09T18:52:45.063505+00:00"
+      "fetched_at": "2026-10-09T21:16:50.680516+00:00"
     }
   ]
 }
