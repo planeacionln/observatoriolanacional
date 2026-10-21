@@ -1,42 +1,44 @@
 {
-  "generado_en": "2026-10-06T18:10:19.336213+00:00",
+  "generado_en": "2026-10-21T16:57:41.754080+00:00",
   "modelo": "gemini-2.5-flash-lite",
   "secciones": {
     "macro": {
       "periodo": "2026-10",
-      "titulo": "Déficit fiscal y subsidio eléctrico marcan el panorama económico",
-      "resumen": "El Gobierno central acumuló un déficit de RD$191,241.6 millones hasta septiembre, afectado por el pago de intereses de deuda. Paralelamente, se prevé una asignación de RD$116,394.7 millones para el subsidio eléctrico en 2027, buscando cubrir déficits operativos e inversiones.",
+      "titulo": "Panorama macroeconómico dominicano",
+      "resumen": "La actividad económica, medida por el IMAE, mostró una aceleración en los meses recientes, alcanzando un 6.40% en junio de 2026. La inflación interanual, por su parte, se situó en 4.98% en enero de 2026, revirtiendo la tendencia a la baja observada previamente.",
       "puntos": [
-        "Gobierno central registra déficit fiscal de RD$191,241.6 millones hasta septiembre.",
-        "Se destinarán RD$116,394.7 millones al subsidio eléctrico en 2027.",
-        "Nuevo Código Penal introduce riesgos legales para las empresas por fallas de control."
+        "El IMAE registró un crecimiento de 4.60% en julio de 2026, evidenciando una expansión continua de la actividad económica.",
+        "Las remesas mostraron un comportamiento volátil, con un pico de US$1,149.20 millones en marzo de 2026 y un registro de US$1,097.10 millones en julio de 2026.",
+        "El tipo de cambio del dólar se mantuvo relativamente estable, cotizando alrededor de RD$59.20 en septiembre de 2026.",
+        "Los precios del petróleo WTI cerraron julio de 2026 en US$85.17 por barril, mostrando fluctuaciones."
       ],
       "vigilar": [
-        "Implicaciones del nuevo Código Penal en la gestión de riesgos empresariales.",
-        "Tendencias en el uso de stablecoins para pagos empresariales.",
-        "Patrones de recepción de remesas en la zona fronteriza."
+        "Posibles efectos del proyecto de ley sobre pensiones en el sistema financiero.",
+        "La evolución de los precios del petróleo y su impacto en la inflación y la balanza de pagos.",
+        "La dinámica de las remesas y su contribución a la economía nacional."
       ],
-      "generado_en": "2026-10-06T18:11:06.620455+00:00",
+      "generado_en": "2026-10-21T16:58:07.956234+00:00",
       "fuentes": [
+        "bcrd",
         "titulares"
       ]
     },
     "sib": {
-      "periodo": "2026-08",
-      "titulo": "Sistema financiero muestra estabilidad en cartera y rentabilidad",
-      "resumen": "El sistema financiero dominicano, en su conjunto, exhibe una cartera de crédito con morosidad contenida y una rentabilidad neta (ROE) que se mantiene robusta. Las Asociaciones de Ahorros y Préstamos (AAyP) presentan indicadores de calidad de cartera y eficiencia operativa que, si bien son distintos a los de la banca múltiple, muestran una tendencia de mejora en rentabilidad.",
+      "periodo": "2026-09",
+      "titulo": "Sistema Financiero: Calidad de Cartera y Rentabilidad Estables",
+      "resumen": "El sistema financiero dominicano mantiene indicadores de salud general estables, con una morosidad en descenso para los bancos múltiples y una leve alza en las asociaciones. La rentabilidad, medida por ROE y ROA, se mantiene robusta en ambos segmentos.",
       "puntos": [
-        "La morosidad general del sistema se ubicó en 2.11% al cierre de agosto de 2026, con una leve alza respecto al mes anterior.",
-        "El ROE promedio de las AAyP alcanzó 8.91% en agosto de 2026, reflejando una mejora sostenida en el último año.",
-        "Los activos totales de las AAyP sumaron RD$438.9 mil millones, evidenciando crecimiento en el período.",
-        "La eficiencia operativa (CTI) de las AAyP mejoró, situándose en 64.40% en agosto de 2026."
+        "La morosidad del sistema se ubicó en 2.07% para las Asociaciones de Ahorros y Préstamos (AAyP) en septiembre de 2026, mostrando una ligera variación respecto al mes anterior.",
+        "El ROE de las AAyP alcanzó el 8.97% y el ROA el 1.59% en el mismo período, reflejando una rentabilidad positiva.",
+        "La eficiencia (Cost-to-income) de las AAyP mejoró a 64.30% en septiembre de 2026, indicando una gestión de costos favorable.",
+        "Los activos totales de las AAyP sumaron RD$443.3 mil millones en septiembre de 2026, evidenciando crecimiento en el sector."
       ],
       "vigilar": [
-        "La morosidad de las AAyP cerró en 2.11%, un ligero repunte tras una tendencia a la baja.",
-        "La eficiencia (CTI) de La Nacional se ubicó en 74.80%, por encima del promedio del sector AAyP.",
-        "La Superintendencia de Bancos (SIB) publicará nuevas estadísticas que podrían reflejar cambios en las tendencias observadas."
+        "La morosidad de las AAyP mostró fluctuaciones en los últimos meses, cerrando en 2.07% en septiembre de 2026.",
+        "La eficiencia de La Nacional se ubicó en 74.60% en septiembre de 2026, por encima del promedio de las AAyP.",
+        "Se observa una tendencia decreciente en la morosidad de los Bancos Múltiples, que cerró en 1.60% en septiembre de 2026."
       ],
-      "generado_en": "2026-10-06T18:11:55.724807+00:00",
+      "generado_en": "2026-10-21T17:06:39.503201+00:00",
       "fuentes": [
         "sib_snapshot"
       ]
