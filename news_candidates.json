@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-22T17:59:03.247217+00:00",
+  "generated_at": "2026-10-22T20:25:39.523518+00:00",
   "dia_editorial": "2026-10-22",
   "zona_horaria": "UTC-4 (Santo Domingo)",
   "ventana_frescura": "2026-10-21 a 2026-10-22",
   "gemini_model": "gemini-2.5-flash-lite",
   "min_relevance": 6,
-  "count": 10,
+  "count": 11,
   "count_by_day": {
-    "2026-10-22": 9,
+    "2026-10-22": 10,
     "2026-10-21": 1
   },
-  "new_this_run": 10,
+  "new_this_run": 2,
   "already_published": 0,
   "out_of_window": 0,
   "ttl_days": 1,
   "max_age_days": 1,
   "errors": 0,
   "sources": 19,
-  "elapsed_s": 563.3,
+  "elapsed_s": 667.9,
   "candidates": [
     {
-      "id": "n_ba3920472b4466cf",
-      "source_key": "busqueda_web",
-      "source_name": "Búsqueda web",
-      "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
-      "title": "Contraloría retoma su participación en juntas directivas tras aclaración de la Superintendencia de Bancos",
+      "id": "n_f5696a1506ef217e",
+      "source_key": "news_gnews_banca",
+      "source_name": "Google News · Banca y Superintendencia",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUxiblg2NDBhUlpWcktUeW9KUk5kQW9ENTlhT2xUQUZqR3RiWVZMeFBGUEUxWXpxS3gyTkwweVNDOHNqRmJNSl94NVdsejdFdVpRbFRRU0REeHVncTg3MEo2VHdFWGZ6S01vcVJnY1lkTlJMZFgzNmR3S3E3a3l0ZkdFNjJYYUxFRE9tem1LTlNESTFaTVpNU0dXZUdjbHBkbGIyd244QU85Zk4zQ1RrYzhIbWVVSEFzbFI1Rkc1MlB1eGN0QTZxMkxwT0JlZzFzalFVb0FHaWpySkk?oc=5",
+      "title": "Contraloría retoma su participación en juntas directivas tras aclaración de la Superintendencia de Bancos - Destino Panamá",
       "summary": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
       "body": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
       "category": "Economia",
@@ -33,12 +33,43 @@
         "regulador"
       ],
       "rescatado_por_regla": false,
-      "cuerpo_recuperado": false,
+      "cuerpo_recuperado": true,
       "sin_ia": true,
       "published_at": "2026-10-21T15:57:04+00:00",
       "fecha_inferida_de_url": false,
       "dia_editorial": "2026-10-21",
-      "fetched_at": "2026-10-22T17:58:59.569671+00:00",
+      "fetched_at": "2026-10-22T20:25:34.522912+00:00",
+      "dia_lectura": "2026-10-22",
+      "status": "pending",
+      "tambien_en": [
+        {
+          "source_name": "Búsqueda web",
+          "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
+          "title": "Contraloría retoma su participación en juntas directivas tras aclaración de la Superintendencia de Bancos"
+        }
+      ]
+    },
+    {
+      "id": "n_e3de31e0f0d176b0",
+      "source_key": "news_eldia",
+      "source_name": "El Día · Económicas",
+      "url": "https://eldia.com.do/pro-consumidor-alerta-sobre-supuesta-entidad-financiera-que-ofrece-prestamos-sin-autorizacion",
+      "title": "Pro Consumidor alerta sobre supuesta entidad financiera que ofrece préstamos sin autorización",
+      "summary": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "body": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "category": "Financiero",
+      "relevance": 9,
+      "señales": [
+        "banca",
+        "hecho"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": true,
+      "sin_ia": true,
+      "published_at": "2026-10-22T18:02:52+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-22",
+      "fetched_at": "2026-10-22T20:24:57.745885+00:00",
       "dia_lectura": "2026-10-22",
       "status": "pending"
     },
@@ -252,16 +283,31 @@
   "discarded_count": 60,
   "discarded": [
     {
+      "id": "n_05b712ed5f73f1e3",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "El petróleo de Texas sube un 3.5 %, hasta 101.41 dólares, su precio más alto en un mes",
+      "url": "https://www.diariolibre.com/economia/energia/2026/10/16/precio-petroleo-intermedio-texas-sube-tras-ataques-en-ormuz/3691651",
+      "source_name": "Diario Libre · Economía",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria",
+        "hecho"
+      ],
+      "detalle": "publicada 2026-10-16, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:16:19.433478+00:00"
+    },
+    {
       "id": "n_a37ea097802ddeea",
       "motivo": "relevancia_baja",
       "motivo_texto": "El modelo le puso poca relevancia financiera",
       "title": "De jefe militar de Maduro a cónsul en RD: la trayectoria de Wilmer Barrientos",
       "url": "https://www.diariolibre.com/actualidad/nacional/2026/10/22/de-jefe-militar-maduro-a-consul-en-rd-trayectoria-wilmer-barrientos/3697062",
-      "source_name": "Diario Libre · Economía",
+      "source_name": "Diario Libre · Finanzas",
       "relevance": 5,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-10-22T17:50:36.393465+00:00"
+      "fetched_at": "2026-10-22T20:17:15.227097+00:00"
     },
     {
       "id": "n_51faed19b34b557e",
@@ -269,11 +315,11 @@
       "motivo_texto": "El modelo le puso poca relevancia financiera",
       "title": "El COE advierte sobre aguaceros muy fuertes y posibles granizadas mientras eleva alerta en el país",
       "url": "https://www.diariolibre.com/planeta/clima/2026/10/22/el-coe-advierte-sobre-aguaceros-muy-fuertes-y-posibles-granizadas/3697178",
-      "source_name": "Diario Libre · Economía",
+      "source_name": "Diario Libre · Finanzas",
       "relevance": 5,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-10-22T17:50:42.610345+00:00"
+      "fetched_at": "2026-10-22T20:17:21.153026+00:00"
     },
     {
       "id": "n_0094f7f9d80ace0c",
@@ -281,23 +327,11 @@
       "motivo_texto": "El modelo le puso poca relevancia financiera",
       "title": "Ocupan 555 paquetes de presunta cocaína en Baní; investigan posible vínculo con alijo de Pedernales",
       "url": "https://www.diariolibre.com/actualidad/nacional/2026/10/22/ocupan-555-paquetes-de-presunta-cocaina-en-bani/3697071",
-      "source_name": "Diario Libre · Economía",
+      "source_name": "Diario Libre · Finanzas",
       "relevance": 5,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-10-22T17:50:54.397619+00:00"
-    },
-    {
-      "id": "n_c178da37fee33638",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Fuerzas haitianas e internacionales atacaron bastiones de pandillas antes del anuncio de Bukele",
-      "url": "https://www.diariolibre.com/mundo/haiti/2026/10/22/fuerzas-haitianas-e-internacionales-atacan-bastiones-de-pandillas/3696946",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 5,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-10-22T17:51:00.591813+00:00"
+      "fetched_at": "2026-10-22T20:21:57.725615+00:00"
     },
     {
       "id": "n_7e727725d55e25d1",
@@ -313,63 +347,39 @@
     },
     {
       "id": "n_686300be7d61f596",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Bajo vigilancia policial y reclamos de justicia, velan a mellizos abatidos en Mendoza",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Velan bajo fuerte vigilancia policial a mellizos abatidos en Mendoza",
       "url": "https://www.diariolibre.com/actualidad/sucesos/2026/10/22/velan-bajo-fuerte-vigilancia-policial-a-mellizos-abatidos-en-mendoza/3697143",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
+      "source_name": "Diario Libre · Finanzas",
+      "relevance": null,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-10-22T17:50:48.565813+00:00"
+      "fetched_at": "2026-10-22T20:23:08.489072+00:00"
     },
     {
-      "id": "n_117d8191f4febc55",
+      "id": "n_a69df2760e53e4d3",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "SIE inicia proceso de conformación de la Comisión de Integridad Gubernamental y Cumplimiento Normativo",
-      "url": "https://eldinero.com.do/385904/sie-inicia-proceso-de-conformacion-de-la-comision-de-integridad-gubernamental-y-cumplimiento-normativo",
-      "source_name": "El Dinero · RSS",
+      "title": "Policía de Ecuador detiene a la excandidata presidencial del correísmo",
+      "url": "https://www.diariolibre.com/mundo/america-latina/2026/10/22/policia-de-ecuador-detiene-a-la-excandidata-presidencial-del-correismo/3697195",
+      "source_name": "Diario Libre · Finanzas",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:05.092736+00:00"
+      "detalle": "",
+      "fetched_at": "2026-10-22T20:23:32.448168+00:00"
     },
     {
-      "id": "n_3230200ab512d0e4",
+      "id": "n_c178da37fee33638",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Wall Street abre en rojo y Meta cae un 6.7% por el gasto en IA",
-      "url": "https://eldinero.com.do/385907/wall-street-abre-en-rojo-y-meta-cae-un-6-7-por-el-gasto-en-ia",
-      "source_name": "El Dinero · RSS",
+      "title": "Fuerzas haitianas e internacionales atacan bastiones de pandillas",
+      "url": "https://www.diariolibre.com/mundo/haiti/2026/10/22/fuerzas-haitianas-e-internacionales-atacan-bastiones-de-pandillas/3696946",
+      "source_name": "Diario Libre · Finanzas",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:08.397760+00:00"
-    },
-    {
-      "id": "n_2691d7df4384fd62",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "El crudo de Texas sube un 2.54%, hasta US$99.61 el barril",
-      "url": "https://eldinero.com.do/385902/el-crudo-de-texas-sube-un-2-54-hasta-us99-61-el-barril",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:14.753993+00:00"
-    },
-    {
-      "id": "n_1737ee6cb3995940",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Pérdidas eléctricas en República Dominicana presionan la competitividad",
-      "url": "https://eldinero.com.do/385867/perdidas-electricas-en-republica-dominicana-presionan-la-competitividad",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:16.021235+00:00"
+      "detalle": "",
+      "fetched_at": "2026-10-22T20:23:38.934690+00:00"
     },
     {
       "id": "n_641a0a861843f839",
@@ -381,7 +391,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-10, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:57:23.168515+00:00"
+      "fetched_at": "2026-10-22T20:24:09.890173+00:00"
     },
     {
       "id": "n_5740ee23c444b319",
@@ -393,7 +403,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-14, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:57:23.168584+00:00"
+      "fetched_at": "2026-10-22T20:24:09.890234+00:00"
     },
     {
       "id": "n_245fb096fd33e726",
@@ -405,7 +415,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-13, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:57:23.168633+00:00"
+      "fetched_at": "2026-10-22T20:24:09.890293+00:00"
     },
     {
       "id": "n_652cde61b5eddbb5",
@@ -417,19 +427,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:32.242367+00:00"
-    },
-    {
-      "id": "n_64b94754d5a6cf4c",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "¿Fiscalización o espectáculo? Rosa NG cuestiona el trato a las tiendas chinas en RD",
-      "url": "https://hoy.com.do/economia/fiscalizacion-espectaculo-rosa-ng-cuestiona-trato-tiendas-chinas-rd_1106405.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:33.741769+00:00"
+      "fetched_at": "2026-10-22T20:24:15.959778+00:00"
     },
     {
       "id": "n_df4bd067964e4878",
@@ -441,7 +439,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:34.296768+00:00"
+      "fetched_at": "2026-10-22T20:24:17.720014+00:00"
+    },
+    {
+      "id": "n_64b94754d5a6cf4c",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "¿Fiscalización o espectáculo? Rosa NG cuestiona el trato a las tiendas chinas en RD",
+      "url": "https://hoy.com.do/economia/fiscalizacion-espectaculo-rosa-ng-cuestiona-trato-tiendas-chinas-rd_1106405.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-22T20:24:20.546947+00:00"
     },
     {
       "id": "n_3ba74c55b22a23b0",
@@ -453,19 +463,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:42.625773+00:00"
-    },
-    {
-      "id": "n_e1b28ab8b6e14d67",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Responsabilidad penal de las empresas: qué establecen los artículos 8, 9, 10 y 11 del Código Penal",
-      "url": "https://hoy.com.do/el-pais/responsabilidad-penal-empresas-establecen-articulos-8-9-10-11-codigo-penal_1106403.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:43.027980+00:00"
+      "fetched_at": "2026-10-22T20:24:24.401071+00:00"
     },
     {
       "id": "n_a896f87e45028896",
@@ -477,79 +475,91 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:46.216915+00:00"
+      "fetched_at": "2026-10-22T20:24:25.467903+00:00"
     },
     {
-      "id": "n_403a156053e6062b",
+      "id": "n_855c1705f4b31472",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Gobierno garantiza seguridad fronteriza ante crisis de Haití y advierte que adoptará medidas adicionales",
-      "url": "https://eldia.com.do/gobierno-garantiza-seguridad-fronteriza-ante-crisis-de-haiti-y-advierte-que-adoptara-medidas-adicionales",
+      "title": "Terremoto de magnitud 7 sacude el Tíbet en China",
+      "url": "https://hoy.com.do/el-mundo/china/terremoto-magnitud-7-sacude-tibet-china_1106418.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-22T20:24:29.251709+00:00"
+    },
+    {
+      "id": "n_202ab8b2205350fb",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Roberto Ángel Salcedo agota agenda cultural en París durante la Semana Dominicana en Francia",
+      "url": "https://eldia.com.do/roberto-angel-salcedo-agota-agenda-cultural-en-paris-durante-la-semana-dominicana-en-francia",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:52.462536+00:00"
+      "fetched_at": "2026-10-22T20:24:43.260746+00:00"
     },
     {
-      "id": "n_0e1106988026b6bf",
+      "id": "n_259292f831961473",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Secuestro de soldados salvadoreños en Haití reaviva críticas a seguridad fronteriza dominicana",
-      "url": "https://eldia.com.do/secuestro-de-soldados-salvadorenos-en-haiti-reaviva-criticas-a-seguridad-fronteriza-dominicana",
+      "title": "Fallece la estrella de la música country, John Anderson",
+      "url": "https://eldia.com.do/borrador-automatico-7la-familia-de-anderson-anuncio-su-muerte-el-miercoles-en-sus-cuentas-de-redes-sociales",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:52.589305+00:00"
+      "fetched_at": "2026-10-22T20:24:46.847946+00:00"
     },
     {
-      "id": "n_ca308c6993fef42c",
+      "id": "n_27c96765e32d9409",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "22 de octubre: Día Internacional de la Tartamudez",
-      "url": "https://eldia.com.do/22-de-octubre-dia-internacional-de-la-tartamudez",
+      "title": "Ante advertencia aguaceros COE informó están coordinados más de 2 mil albergues",
+      "url": "https://eldia.com.do/ante-advertencia-aguaceros-coe-informo-estan-coordinados-mas-de-2-mil-albergues",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:52.606276+00:00"
+      "fetched_at": "2026-10-22T20:24:50.067360+00:00"
     },
     {
-      "id": "n_b127d06714ae318d",
+      "id": "n_6a5bd2babaa0c202",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "¿La condición de un niño neurodivergente lo hace merecedor de una terapia de por vida?",
-      "url": "https://eldia.com.do/la-condicion-de-un-nino-neurodivergente-lo-hace-merecedor-de-una-terapia-de-por-vida",
+      "title": "Lluvias dejan 150 viviendas afectadas en Santiago",
+      "url": "https://eldia.com.do/lluvias-dejan-150-viviendas-afectadas-en-santiago",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:52.912913+00:00"
+      "fetched_at": "2026-10-22T20:24:53.599634+00:00"
     },
     {
-      "id": "n_28124b166dd2fe67",
+      "id": "n_f78980f091703d1e",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Suman 1,623 los paquetes de cocaína ocupados por la DNCD en las últimas 48 horas",
-      "url": "https://eldia.com.do/suman-1623-los-paquetes-de-cocaina-ocupados-por-la-dncd-en-las-ultimas-48-horas",
+      "title": "Becky G defiende a los latinos en EE.UU.: “Es algo personal”",
+      "url": "https://eldia.com.do/borrador-automatico-7la-artista-argumento-que-el-arte-y-la-defensa-de-derechos-pueden-coexistir-y-que-es-ahi-donde-un-monton-del-cambio-sucede",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:57:53.138415+00:00"
+      "fetched_at": "2026-10-22T20:24:56.481606+00:00"
     },
     {
-      "id": "n_4265d1bbfbf6f378",
+      "id": "n_176007b2f503eb33",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Gobierno reconoce a Enmanuel Ramírez y Angely Adón como Estudiantes de la Semana",
-      "url": "https://eldia.com.do/gobierno-reconoce-a-enmanuel-ramirez-y-angely-adon-como-estudiantes-de-la-semana",
-      "source_name": "El Día · Económicas",
+      "title": "Pasajeros de JetBlue denuncian odisea y múltiples retrasos en vuelo desde el AILA hacia Nueva York",
+      "url": "https://eldia.com.do/pasajeros-de-jetblue-denuncian-odisea-y-multiples-retrasos-en-vuelo-desde-el-aila-hacia-nueva-york",
+      "source_name": "El Día · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:58:02.250898+00:00"
+      "fetched_at": "2026-10-22T20:25:11.066317+00:00"
     },
     {
       "id": "n_c653b5a092280008",
@@ -561,7 +571,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-11, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.190757+00:00"
+      "fetched_at": "2026-10-22T20:25:15.624413+00:00"
     },
     {
       "id": "n_691fcc83448f56f3",
@@ -573,7 +583,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-30, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.190847+00:00"
+      "fetched_at": "2026-10-22T20:25:15.624545+00:00"
     },
     {
       "id": "n_bd163b6530ad97e1",
@@ -585,7 +595,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-19, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.190907+00:00"
+      "fetched_at": "2026-10-22T20:25:15.624602+00:00"
     },
     {
       "id": "n_b85aa3d1d1a2cb60",
@@ -597,31 +607,31 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-20, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.190946+00:00"
+      "fetched_at": "2026-10-22T20:25:15.624642+00:00"
     },
     {
-      "id": "n_6987bc63f41cf5e2",
+      "id": "n_0d964af84b65dc1b",
       "motivo": "vieja",
       "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Tasa del dólar este martes 20 de octubre - El Dia.com.do",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RN3RTVnBGZVEzOWpqbjVZaXU3X3JJTURDZnFxNzdnM18wSWN2MEEtUVhOT2xzWDVHSEZCNng0Q1FCOURTSnZCSXJLNVdWLUNWeFBPb21nWUEza2xBc2R0c3R6SlNSUXU1aUlOeFhqUQ?oc=5",
+      "title": "El Banco Central de la República Dominicana mueve los tipos por primera vez en un año y los sube al 5,50% - Notimérica",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRURXYnFaV0Z0SWVxT0pMXzQxVVFSVkg2cUZNTTNkNk92WEgtYnZWalBXTnVGZ3NWZE5rMVZEV2tpMWR5cWk5MGZRanJTNm5RNks0RjB0RDBOTDkzUWFBcXRteTRmSDVVSjZMUFRzeFVuUWpuakduWlhvXzQtOG5fRzlQbG50anlHTVlGWUQ5d2h5aVJqSGRNbEs1d1F2eUJvb0kxRUhVY2JzUlA5ZE9XczZmS3hBcjNFZUJzV19RRFU3cnRrQWQ1b2ZKVE1EdXpR?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
-      "detalle": "el feed la fecha 2026-10-20, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191012+00:00"
+      "detalle": "el feed la fecha 2026-10-01, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.624698+00:00"
     },
     {
-      "id": "n_3300dfd8822129bb",
+      "id": "n_11914081dad29cd8",
       "motivo": "vieja",
       "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Dólar hoy: tasa de cambio para la compra y venta en República Dominicana este 16 de octubre de 2026 - Hoy Digital",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1dqenF3Z0VSSmRGZ2pLWUFsMERfTkg2bVNXYloxZExpQkt0X0RVZEJjbWVsUkJWbUVHc0hjRlBLWUJvd1FiaTdoYzRWZEZYT1JVMnZ5Vm9KQ0Q0cEE1eXppYTRmQVNmT2FnQ2VqR0RtNWw4d1ZyNU9ta2s0N2dvTVdtbXdxOGI0Y1ZNdkx6YzRPYmF3QWtxc0dDTy1XRnZJSVZGa2toeXUtQkk1U29Fd3pn0gG3AUFVX3lxTE5YdTdMREtGQzF5MFItVlVQLXdXLWNtSkM1N1J2amQ3MFBlaVlwV2I5eHM1a3dzWURYdmtjWWxqclM1eWwwYWhLQ3V6R0ZWbklaZFY1WmYxeWppRXVQT1RoVFZfYUhTdE9KWGlfcFlzY1VCSjlkNlo1eGFtXzRSb284OFQteVdrczgzWnEycFdJeWtZVXlXOVFNU1d5YTQzMFpndnp5N3I2ZjNHeWc3WkZMMGxENi0zbw?oc=5",
+      "title": "El dólar estadounidense tiene como tasa de referencia para este miércoles 7 de octubre una cotización de RD$60.8522 para la compra y RD$61.4111 para la venta, de acuerdo con el Banco Central de la República Dominicana (BCRD).⁣ ⁣ Las tasas corres - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWN1NNLWpUUmh2T3o4dkNwZ2VUVmJBT0tiWV9tRUVUQ2R4U2V5cFZmZW5ZY0dTTF94LWtmS1dUMTZ6YmVxNXZSdHhKclhkVGpNTjNsb21n?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
-      "detalle": "el feed la fecha 2026-10-16, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191053+00:00"
+      "detalle": "el feed la fecha 2026-10-07, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.624737+00:00"
     },
     {
       "id": "n_5c9b56c12a2c5295",
@@ -633,7 +643,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-14, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191095+00:00"
+      "fetched_at": "2026-10-22T20:25:15.624782+00:00"
     },
     {
       "id": "n_ecee5cd14c99062b",
@@ -645,7 +655,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-20, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191132+00:00"
+      "fetched_at": "2026-10-22T20:25:15.624822+00:00"
     },
     {
       "id": "n_9de54c457560541e",
@@ -657,7 +667,67 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-19, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191183+00:00"
+      "fetched_at": "2026-10-22T20:25:15.624873+00:00"
+    },
+    {
+      "id": "n_02ff33bf7a922b52",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "El Banco Central de la República Dominicana (BCRD) informó las tasas del dólar estadounidense en cumplimiento con lo establecido en el Literal b, Artículo 61 del Reglamento Cambiario de la Ley Monetaria y Financiera No.183-02 del 21 de noviembre de - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUGNWc3JuZ2hmR3NkblN0V0Qwd3lkQ29lLUlJb2pVVFFYbGs2WG50OUtxRDhseVlQTm5DRjhlRDBiQ3YxZmdWU01FYXdQT0pmb2RFVXpR?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-04, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.624912+00:00"
+    },
+    {
+      "id": "n_f0c6cbce849dcdfe",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Las remesas hacia República Dominicana alcanzan US$9,489.8 millones entre enero y septiembre de 2026 - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQWZkS3k2cXVtQnU5ZHZaanY2clFMbkVsR1pvLTRENkxuVFVSZWZTSjYzeTFfVzg5TGlNMzNxZE15OS1uZlBQOWVwUUdHUkpPajdRVEIyVTZCTnE5STlpZVZ5eWZnVm1FZU5VR3BoNDllMzBHVmJZV2ZNeHBydnVJUTRraXdWZzlpR0hUZXI2dGNmOWs2dndmUlkydFlEQmNYRF90ZGlLN2M1UUU4R3pyXzU0ajVHTHEwc1FESkMtemNrcU5jY2JpTXVNY2xoVVRFb0dublNKUUdzeVI3VE1NZ283MzZtS2ZQcUHSAYQCQVVfeXFMTl9jOXMxQl9LaUNWRkZ2X01XSjZTdFFrQUF3WjlRd0plb2s0bTJkV0Z1eU5HaE9PVFVEUWVBWmM3R0NBUUNTZ3V0dG1lVTkwckF2OEhwb3pqUkxEM1JoR0tBNThmWHBmVnNDU3ljRDg5UDVuaUlYU2YzVHE2VG5PdGUzN1ZDNk5sQ1pxWXZLd2h6cUtfZ0xhcnBhRmtBallKN0F6alRPZjNaM3dQYnRYWW1zZ2tBY05heGt6enMwMTVVSGhtMDZmeGhtdVNwQ0xrb3Nudk5iYzQtcGFhRmxoWUJoU0U1bHU3ME9LQXBheFhtd0V6SDZfSDllb21mTE1PTTk3YVc?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-11, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.624958+00:00"
+    },
+    {
+      "id": "n_5194fee7c377e157",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Precio del dólar hoy en República Dominicana: compra y venta este viernes 16 de octubre de 2026 - Revista Mercado",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZnVWZnVIekVYSTNoSUx4VlUxRUFYeVBsNnVuN1lGamd6NmZQSjhlNWF1QlhJQ25LRDFMY2pPUzBDNEtsR0dIdnFGenVlOFMtZy1uMkc5QU5scUcwNTlYMzJQWFlsR0EwSV9nMG9OZ3JhaUVvZzhoanRkdEVGc1VkZnZ4T2NUMGRrZFYtTmNULTBCR291VDNmeUkwY2VzVHlMRjREcXNnN0hvbm1rZDVSVmNUemlHbmg4bndyT09MZlhYUWludmgwYy1kdGJxTFJxUkgwbmpuTlhjU1dDUjY3Z1hYYnhBdzZGRkJZ?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-16, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.624998+00:00"
+    },
+    {
+      "id": "n_c8b5dcd92417a25f",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "El organismo explicó que los valores corresponden al promedio ponderado de las transacciones del mercado spot realizadas en la jornada, excluyendo operaciones de derivados financieros. Asimismo, recordó que, conforme a la Undécima Resolución de la - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aZmN2X2xJY1dsMlZWbWtBOUlHNlU5N05CaFY2eGNOOHJ6bUJkNmZQSkRIQkNRQnFCd2FYRkw5c0NMSVE0WDQzblA2SkFyMmJNcGc?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-09-25, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.625035+00:00"
+    },
+    {
+      "id": "n_d4ca4fa96843c21f",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Precio del dólar hoy en República Dominicana este lunes 12 de octubre del 2026 - Revista Mercado",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMFEtV01jajk1QVpTcm90cmstd2dQdHFKcmRwa04wdUlBSnhuaG5ZWng4Y2Y1dGFnSFNKQTVlMC1OMHlZa1RKZ0dvLTF2aGpQaWZwTjJtZE1HZFlMNTlIWXZvRW5EdmU1c0FQUjYtdll1TENMSjdnbmNVZThVTGdsTko0NVQ5c1pIOFB0V0U4SEx1RlFEaG1xb2JCb09zX2FHcEd2bFhDNnFGZ3dyX2xseWt0NGVIWlEtTGRqOVBfd2hmQVlodm9LWnpEUVVDal9qblRKTDl3?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-12, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.625074+00:00"
     },
     {
       "id": "n_3fe26e2e3f1a9896",
@@ -669,19 +739,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-19, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191223+00:00"
-    },
-    {
-      "id": "n_2d67b79b08892eb3",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Así está la tasa del dólar para la compra y la venta - Hoy Digital",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05R3BQVDJ6bl9qeUpJUnVUUU0wOFZaMzJpV3V2UFJjNGZBYXVqMDYxTDJhOTFPc1Y3S2pvYW1YUXJjTkw1eGJWTmUzNDBiZW14M0EzUlQ1aDhybWdkSGF6WXpydVJXRDlGWDQ1ZmpiZHVFSWg4QTRV0gF8QVVfeXFMUDVmWGF0MVB5UkZxZ2hybjZqTHBFNWlWRmFQUXgycllLcnNzY2plRmVLRU5Hb1czNmhwRjVUSTN3TW1QYzFXTWU2eEZ2Ynd1ZnVaQW15ZEFlRnBVSl85akRmQm1sdDFsLWp0MjdvUUprWkYyYUxqM2ppWjllYg?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-16, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191261+00:00"
+      "fetched_at": "2026-10-22T20:25:15.625117+00:00"
     },
     {
       "id": "n_d27393350479d71b",
@@ -693,7 +751,31 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-20, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191297+00:00"
+      "fetched_at": "2026-10-22T20:25:15.625155+00:00"
+    },
+    {
+      "id": "n_6987bc63f41cf5e2",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Tasa del dólar este martes 20 de octubre - El Dia.com.do",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RN3RTVnBGZVEzOWpqbjVZaXU3X3JJTURDZnFxNzdnM18wSWN2MEEtUVhOT2xzWDVHSEZCNng0Q1FCOURTSnZCSXJLNVdWLUNWeFBPb21nWUEza2xBc2R0c3R6SlNSUXU1aUlOeFhqUQ?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-20, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.625193+00:00"
+    },
+    {
+      "id": "n_3300dfd8822129bb",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Dólar hoy: tasa de cambio para la compra y venta en República Dominicana este 16 de octubre de 2026 - Hoy Digital",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1dqenF3Z0VSSmRGZ2pLWUFsMERfTkg2bVNXYloxZExpQkt0X0RVZEJjbWVsUkJWbUVHc0hjRlBLWUJvd1FiaTdoYzRWZEZYT1JVMnZ5Vm9KQ0Q0cEE1eXppYTRmQVNmT2FnQ2VqR0RtNWw4d1ZyNU9ta2s0N2dvTVdtbXdxOGI0Y1ZNdkx6YzRPYmF3QWtxc0dDTy1XRnZJSVZGa2toeXUtQkk1U29Fd3pn0gG3AUFVX3lxTE5YdTdMREtGQzF5MFItVlVQLXdXLWNtSkM1N1J2amQ3MFBlaVlwV2I5eHM1a3dzWURYdmtjWWxqclM1eWwwYWhLQ3V6R0ZWbklaZFY1WmYxeWppRXVQT1RoVFZfYUhTdE9KWGlfcFlzY1VCSjlkNlo1eGFtXzRSb284OFQteVdrczgzWnEycFdJeWtZVXlXOVFNU1d5YTQzMFpndnp5N3I2ZjNHeWc3WkZMMGxENi0zbw?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-16, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:15.625233+00:00"
     },
     {
       "id": "n_f545aab9980bee13",
@@ -705,91 +787,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-30, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191334+00:00"
-    },
-    {
-      "id": "n_c438d477e5f54814",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Conozca la tasa de cambio del dólar en los principales bancos de RD - Periódico elDinero",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1NSejJZcUlOMXpfa1lZaG1mQ2x3NFZ3bTVDS182ckFCM0hjcXVWQVN2TGdrQlpwMDBkQ2ZkVldDaHFEMnRsTk9ZUDVIZWFUNTBTMXJaU0tYUWhDRVpPSllhb0g2aTdueUxIQ2FKSTk1N1V6Vmo1NHliTHZ1TmJtTHdhbl9qbTRaQWs0Z2hTU2pDX2Fab0J3MlFDQlNscVhVTW9V?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-19, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191370+00:00"
-    },
-    {
-      "id": "n_1789496cae1bea19",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Precio del dólar hoy en RD lunes 19 de octubre - El Caribe",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlFfV1ROTDRoUFpNMFJ3b2picklrM01od0dRZFk5TUNYcW14NEtJbkdoUGkxRExGemZQaHhsMEFvVTB0TkhTVmZRYmZBSE1wRmVkemJvUzU3SW1NUmZaNWNvOGJReGNCVnEwdXlCMUJVUHNHQVQwOXI3bUxCaTBtTFhidEc0REN4dG8ydw?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-19, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191404+00:00"
-    },
-    {
-      "id": "n_c9455f404c310109",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Precio del dólar hoy en RD domingo 18 de octubre - El Caribe",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON3l3OUtESkJSWUtZYzdtUjhxQkZwNEQ2Qk5hNC0wYWM1LVRTRUVvLVNyVjVELWRDUWFwNDlwQVphaV9JMDJEdThwRzZRejFnd3M3bGZLQVNTOHRVUFdjS3RfTkEtU3F3X0o1ZVBGSGY3cDVqR2FraDhQcW1wMm1mUFZSY3lSR2F1aVRfNg?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-18, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191440+00:00"
-    },
-    {
-      "id": "n_fd5bb9cb7c09fe12",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Las remesas hacia República Dominicana suben 6,4% hasta USD 7.316,4 millones entre enero y julio, según el Banco Central - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWExLcEszbTRXZzY0SXVHWmUyVHlrcE03c2ZRREt4RFNKR1R6ZXZoRldnNFEwSTZNeXN4SFN1eTlEendNNmctX0czQmZsVkM3bVhlS0J6MEl1cUxuaGppeWtJTUhsLWlaMHVWekZWYmM1WV9UZTFxT2dYZjZaMkRTSWM5VXA2clZXQTZnaFU4dmoyMFM5NTFrUXVtWlhDX3BsaUJBRFplYnIwZEZmMGFJRVJNZHEzTXg4cXNBRGJyZWQ3RlROWE4ydnAyMEVFenZvWjVrNXBHU1VxeUtHaFJsWDNURnF4UnY1T1RFWlVSY21BdjhMUjVheGQ1eTdFT3UwQ2fSAZwCQVVfeXFMTXNuQTRVSVJPS1l4VHF3WGxwZHpLajI1aFphdmFCMFFOakdCYWFtNFdBZDZmMzVLZ1dMb3pJTFhjZnFSRmlkWS1zcmtveGUzMFpiN3BFVkEyR2tmaGFSZXUxaUFPak9qa29MRTJZam04QXFNWlJLbGVoYWNmcWFJVURaaGYxY1RKdmU1bHo3Z01LQm1iRExXNjZQMUYtOU03QUpVbnAwQjJZVjZXMEFSY1FOOWFYNjZqMy1BRFhrT0o5QVpQbWxfWWdpeE13ekU1UzIxZkRDODRYVXVZNjNJTGdNQW5rWUxQYmZ4ZlRDS0tkMVF5UkMyYWtZaFhaNUwwendBMTF3bHg3T3R2cHBUbG5JNkZKRG4tcVlEN0E?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-08-09, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191481+00:00"
-    },
-    {
-      "id": "n_1bf2ac89c963f793",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La inflación interanual de República Dominicana baja a 5.13% en agosto, según el Banco Central - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU01vLTNxM2NWNEJ5QzA3T1BNenlkbnBmQ0cxUnlSMTFKOEt2bHBkQmhTX3VMUDR1WWVuYV9tVGhZZjR2ODhpcVRlbXdUbE4xaW45eDdmZnZVMWd1a1dFOC1wZGhGTG1TTVFQWFE5NWduY0hFT3BuNzBOVEYwOGhxR0RBVUdkNE5qVUNwRWlGOGxFR3hsRjJEYXp2WGF3bVl2RkVnc3Npa0w2NDJ0cmg4U3NZME5qbnhIeEk0UkpfRVhRTFlzQlZGbVpVNEZpZldKUFZpbDFUa3ZYSkZVS3V6TkZB0gH8AUFVX3lxTE90RjJyalBYR0hjLVlDVHJDUHd2cmp6NEQxVTdXRlA1ZnFyV0pLOTdQa1FYU090ZzJIdkp1M3FtQWF1aVFjSWJJNV9iaF9ZYzcyel9GQ1dNUzQxUGNmSk9rRGgwRzdKNV85X1Eza04wLXhJVTYtVGE5UUlmZ01ZOXpReW1LeDlyNll1Z1hMaU5WNlFSdHU0OFFBTHdkNzBTTHhOMmFTVkMxbjBQaHk0eG5MUmdDeGdVVl91bUlHV1h3TFl6TnZndVZvcnRCdXpKNUpFekxBWjJyM1ZOS21qNlMyS0hjTlljcTY3eWZlUC15N0o3SjVieWpjUkY0Mw?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-06, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191535+00:00"
-    },
-    {
-      "id": "n_a08174573b25e97f",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Precio del dólar en República Dominicana hoy, jueves 15 de octubre: a cuánto cerró el USD a DOP, compra y venta - El Comercio Perú",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQREljNUxMUTF0TXg5QlNad0lXOWx1SXdCTWU1czVqR1JPM1YzRHd5RXFJakYtZDBJZ1otaVA0bG9zYzNjaU9BdUs2SzZ3d2VyMi1qZmZieWZsUEFfT054Ykh0MmFydmRyT0pmZkZhS2E0YVZRbE1OVENjRjFQb0lVWnlnVGZaeUZNT1JlLWhBMjlITEN2b1Mydl8xNy1iMldPYzlBdDNUWnR0TG4wTVRhQVZpTEZiQWtDcmJLekk3cHUtZTNnTmZnUUhpdy0tX2hnNEYyRHFCaHI5R215UlRyaUgya3g2WDZFZHFYR2pzZTVJVlpiUmVMNzBB0gGOAkFVX3lxTE9OQXMxMUpFNXNIZHhSZFV2TEs1Wi1OajBWRVZKSlhFbnpDS1NCTFp4Z0tfVURnNHR4cWNQS3FNUVZCYjZqQmh2cklocjViRmFjVHp2N19SQ2dUeFJHTmNCUzBmZlh4YkhxU1REQjlYQ0lZWlBtXzZoWXpnMF9CeFJNWjhKRlNNVVV5bk0tMEZUU2MxSkI3QU13Y2NmcU1TeXd3UGRTX1M1T1JVTXlDUzFELURIdXRiMnlvdk9hU3RlVkw3dS0ySm95Q3gxOGwySHlmWlpqRlRlVVc2N0hYZ192ZGUtelZIQU9GallxUE13Rk4xNGt1NmhKTXBIcFZVZHJ2RXZ4NnNsTE5UUjFXZw?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-15, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:19.191575+00:00"
-    },
-    {
-      "id": "n_00cd14df8f440cb9",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar hoy en RD jueves 22 de octubre - El Caribe",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0pZODNtbk9sT1pvNUVFOHR6MEM5Y0tZcUQ1bFNWTmw5SFFwdTNsbTh5eVdaMHh2WG9rOXFyM3c3QjFESWczZDBWcmJhRkVQME9yRkRzQnhrRHJxSHoyNXJsOElheGVtekx5aUFWVW15Um5iWmZaeExlRDlveGt0aGwxbVZ2U09FbUlBZw?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:58:29.133286+00:00"
+      "fetched_at": "2026-10-22T20:25:15.625286+00:00"
     },
     {
       "id": "n_232d8900f7bda2e4",
@@ -801,7 +799,43 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:58:30.043875+00:00"
+      "fetched_at": "2026-10-22T20:25:28.717027+00:00"
+    },
+    {
+      "id": "n_5e7e7eb3a670a6e5",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Tasas de interés altas podrían prolongarse en República Dominicana hasta 2027 - Acento",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXhRNUxCaTFQUms4RjRLOGdkMlBneDRDSWlzcE1mdXZTM05Qd3RFM1F3S1FTVzF3U0xYVjZoT09uUmNxYTVuRHZFdWFFdkV0Y3cxQWlhbTQ1NW95RWlTSXN5alo1N0loVlRKbVcydklTRWRpYzJUbWhJVmdKWUthNVpOLXF2cnhRdnBicGEwT0dNRmRKR2V1bXFqU0JQN2R6X3JoZktiTnNWbXJucHlvMFZnNk9HOWdnLTlYSEZB0gG-AUFVX3lxTE9VeFE1TEJpMVBSazhGNEs4Z2QyUGd4NENJaXNwTWZ1dlMzTlB3dEUzUXdLUVNXMXdTTFhWNmhPT25SY3FhNW5EdkV1YUV2RXRjdzFBaWFtNDU1b3lFaVNJc3lqWjU3SWhWVEptVzJ2SVNFZGljMlRtaElWZ0pZS2E1Wk4tcXZyeFF2cGJwYTBPR01GZEpHZXVtcWpTQlA3ZHpfcmhmS2JOc1Ztcm5weW8wVmc2T0c5Z2ctOVhIRkE?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-10-22T20:25:30.213455+00:00"
+    },
+    {
+      "id": "n_2f8d5b78df61325d",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Dólar baja hasta 15 centavos en República Dominicana: así se cotiza este jueves 22 de octubre - Noticias SIN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1VQZXBCU1V2aENKdTdMUmx3MXhxYUxSem5nMTVEblN6LXFySUg2dmI2T3NhVjBBTW5RZnBmd1ljWWZzX3ctVHp0VTVFczJuNmpwaUE3QlZTU0JBN05XYWVWMmd1cldCamlDejExckQ5bU01U1FTZUlpcU5WRzE1NXlYNmRGSzU4enVHNFVxbzVJelhMYzZ1TG5RTXJhNTA1aE96RTkyZ1c2UkxkQ0xvb3pmV0ZlOTRmZlAw0gG7AUFVX3lxTE5TVVBlcEJTVXZoQ0p1N0xSbHcxeHFhTFJ6bmcxNURuU3otcXJJSDZ2YjZPc2FWMEFNblFmcGZ3WWNZZnNfdy1UenRVNUVzMm42anBpQTdCVlNTQkE3TldhZVYyZ3VyV0JqaUN6MTFyRDltTTVTUVNlSWlxTlZHMTU1eVg2ZEZLNTh6dUc0VXFvNUl6WExjNnVMblFNcmE1MDVoT3pFOTJnVzZSTGRDTG9vemZXRmU5NGZmUDA?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-22T20:25:30.234813+00:00"
+    },
+    {
+      "id": "n_00cd14df8f440cb9",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Precio del dólar hoy en RD jueves 22 de octubre - El Caribe",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0pZODNtbk9sT1pvNUVFOHR6MEM5Y0tZcUQ1bFNWTmw5SFFwdTNsbTh5eVdaMHh2WG9rOXFyM3c3QjFESWczZDBWcmJhRkVQME9yRkRzQnhrRHJxSHoyNXJsOElheGVtekx5aUFWVW15Um5iWmZaeExlRDlveGt0aGwxbVZ2U09FbUlBZw?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-22T20:25:30.482228+00:00"
     },
     {
       "id": "n_d243ad4dfb0e8d18",
@@ -813,19 +847,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:58:42.425589+00:00"
-    },
-    {
-      "id": "n_167f01118f248804",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar hoy en RD miércoles 21 de octubre - El Caribe",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXZzRTQ1U1hwaXR0ai1hTm9zaUs3SW5ETENiN29PYmZKc1l2dGhvUXVFUmhIM1IyS0hpY2ZvWWVKdzZjc05zWUt1aU5OeHQ3MjdXR0JsbWREQjlrWlhSQzQ3b0hMaXVUWm9xV1lHdUgzX3ZWb0FkSmQzU2tlaHVaZTVIYUNvNFhMMzNfQw?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-22T17:58:47.319065+00:00"
+      "fetched_at": "2026-10-22T20:25:31.261596+00:00"
     },
     {
       "id": "n_b497c697a5dca660",
@@ -837,7 +859,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-19, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.553988+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549360+00:00"
     },
     {
       "id": "n_283cc53ffb307230",
@@ -849,7 +871,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-08, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554039+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549408+00:00"
     },
     {
       "id": "n_1d98a7603171232f",
@@ -861,7 +883,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-14, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554084+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549452+00:00"
     },
     {
       "id": "n_acdfdaaab153c1cf",
@@ -873,7 +895,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-29, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554134+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549499+00:00"
     },
     {
       "id": "n_0166c1d6fe46e4b4",
@@ -885,7 +907,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-10, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554180+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549543+00:00"
     },
     {
       "id": "n_4ab41a6d3d9f7209",
@@ -897,7 +919,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-16, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554222+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549584+00:00"
     },
     {
       "id": "n_34ff27a59bd8be6b",
@@ -909,7 +931,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-07, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554267+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549626+00:00"
     },
     {
       "id": "n_43b37e4f76730471",
@@ -921,7 +943,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-29, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554308+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549666+00:00"
     },
     {
       "id": "n_1ee5534d78f6527e",
@@ -933,7 +955,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-06, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554348+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549706+00:00"
     },
     {
       "id": "n_e7d9e86ac75dd4fc",
@@ -945,7 +967,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-09, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554392+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549750+00:00"
     },
     {
       "id": "n_9dcfd71d00e571f7",
@@ -957,7 +979,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-01, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554432+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549790+00:00"
     },
     {
       "id": "n_0da271880b561166",
@@ -969,7 +991,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-03, ventana 2026-10-21 a 2026-10-22",
-      "fetched_at": "2026-10-22T17:58:49.554490+00:00"
+      "fetched_at": "2026-10-22T20:25:33.549834+00:00"
+    },
+    {
+      "id": "n_26003c1a9c8f8b5e",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Superintendencia de Bancos (SB) lanza programa de voluntariado para canalizar el compromiso social de sus colaboradores - primicias.net",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRlV4MTFDNFQ1bE15ZVEyaG9LNkt5b1IyWTBiZGJ4MTVTUkQ1UzM4OHlHd25hZnNKclZVUGxQTWZFWXZyR2ZsbEJBMlpmRTdTcFJ6WDV1THBFTWFEcERUa2lJY2VVNERib3R0Q1FMT3cxWkhUbVFxYXVxVm45U2FQUTZMZDNFaDFmMUl5cjlub2hseVFlNmNKTlcwQWtXSGpGUmtsdV9Pc2hmS0JoSmJjQmg0WmkyN0RZdnNvekx0ZXpKS3poZDB3MWM4Um5FVWIxLUpUR3NENDhBUXpN?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-05, ventana 2026-10-21 a 2026-10-22",
+      "fetched_at": "2026-10-22T20:25:33.549875+00:00"
     }
   ]
 }
