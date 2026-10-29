@@ -1,24 +1,159 @@
 {
-  "generated_at": "2026-10-29T18:58:19.911912+00:00",
+  "generated_at": "2026-10-29T21:28:58.861871+00:00",
   "dia_editorial": "2026-10-29",
   "zona_horaria": "UTC-4 (Santo Domingo)",
   "ventana_frescura": "2026-10-28 a 2026-10-29",
   "gemini_model": "gemini-2.5-flash-lite",
   "min_relevance": 6,
-  "count": 11,
+  "count": 17,
   "count_by_day": {
-    "2026-10-29": 10,
+    "2026-10-29": 16,
     "2026-10-28": 1
   },
-  "new_this_run": 11,
+  "new_this_run": 6,
   "already_published": 0,
   "out_of_window": 0,
   "ttl_days": 1,
   "max_age_days": 1,
   "errors": 0,
   "sources": 19,
-  "elapsed_s": 725.7,
+  "elapsed_s": 539.1,
   "candidates": [
+    {
+      "id": "n_ba3920472b4466cf",
+      "source_key": "busqueda_web",
+      "source_name": "Búsqueda web",
+      "url": "https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM_P_4Rb7ei03j-0nRs0c4F=w16",
+      "title": "Banco Popular analiza el futuro de las pymes en la era de la IA",
+      "summary": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "body": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd",
+        "banca"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-10-29T06:01:42+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-29",
+      "fetched_at": "2026-10-29T21:28:54.625849+00:00",
+      "dia_lectura": "2026-10-29",
+      "status": "pending"
+    },
+    {
+      "id": "n_9c40c5524154a545",
+      "source_key": "news_extra_msynflyf",
+      "source_name": "Fuente guardada",
+      "url": "https://www.fxstreet.es/news/el-yen-japones-lucha-por-encontrar-una-direccion-ante-la-inminente-decision-del-boj-sobre-las-tasas-de-interes-202610291820",
+      "title": "El Yen japonés lucha por encontrar una dirección ante la decisión del BoJ sobre las tasas de interés",
+      "summary": "URL Source: https://www.fxstreet.es/news/el-yen-japones-lucha-por-encontrar-una-direccion-ante-la-inminente-decision-del-boj-sobre-las-tasas-de-interes-202610291820",
+      "body": "URL Source: https://www.fxstreet.es/news/el-yen-japones-lucha-por-encontrar-una-direccion-ante-la-inminente-decision-del-boj-sobre-las-tasas-de-interes-202610291820 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-10-29T18:20:13+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-29",
+      "fetched_at": "2026-10-29T21:27:28.029936+00:00",
+      "dia_lectura": "2026-10-29",
+      "status": "pending"
+    },
+    {
+      "id": "n_3a397d26aaa59644",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/386711/reforma-a-la-ley-de-app-busca-agilizar-proyectos-y-atraer-inversion-privada",
+      "title": "Reforma a la Ley de APP busca agilizar proyectos y atraer inversión privada",
+      "summary": "Una reforma a la Ley de Alianzas Público-Privadas (APP) en República Dominicana busca reducir los plazos de ejecución de proyectos y fortalecer la planificación estatal. El objetivo es crear un entorno más propicio para atraer inversión privada en infraestructura y servicios públicos.",
+      "body": "La propuesta de reforma a la Ley de APP en República Dominicana tiene como meta principal agilizar el desarrollo de proyectos de infraestructura y servicios públicos. Se busca fortalecer la capacidad del Estado para estructurar iniciativas y mejorar las condiciones para la inversión privada, reduciendo los tiempos de evaluación y adjudicación de proyectos de 24-36 meses a 10-18 meses.",
+      "category": "Financiero",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-10-29T19:52:57+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-29",
+      "fetched_at": "2026-10-29T21:20:27.374861+00:00",
+      "dia_lectura": "2026-10-29",
+      "status": "pending"
+    },
+    {
+      "id": "n_3ccc1eccb3529768",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/386695/el-petroleo-de-texas-cae-0-75-ante-expectativas-de-dialogo-en-oriente-medio",
+      "title": "El petróleo de Texas cae 0.75% ante expectativas de diálogo en Oriente Medio",
+      "summary": "El precio del petróleo de Texas experimentó una leve caída, influenciado por las esperanzas de un acercamiento diplomático en Oriente Medio. Esta fluctuación en los precios del crudo, aunque global, puede tener repercusiones indirectas en la economía dominicana a través de los costos de importación y la inflación.",
+      "body": "El petróleo de Texas cerró con una bajada del 0.75%, situándose en US$102 por barril, ante la expectativa de avances diplomáticos en Oriente Medio. La noticia se produce tras reportes sobre contactos entre Estados Unidos e Irán para reanudar negociaciones de paz, aunque las tensiones en la región persisten y las reservas de crudo en EE.UU. han disminuido.",
+      "category": "Global",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-10-29T19:38:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-29",
+      "fetched_at": "2026-10-29T21:20:21.289625+00:00",
+      "dia_lectura": "2026-10-29",
+      "status": "pending"
+    },
+    {
+      "id": "n_0b537029f6c4b2b0",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/386719/adha-destaca-financiamientos-del-gobierno-por-mas-de-rd25000-millones-a-mas-de-19000-productores-en-2025",
+      "title": "ADHA destaca financiamientos del Gobierno por más de RD$25,000 millones a más de 19,000 productores en 2025",
+      "summary": "La Asociación Dominicana de Hacendados y Agricultores (ADHA) resalta los más de RD$25,000 millones financiados por el gobierno a 19,000 productores en 2025. Se destaca también la reactivación del subsidio a fertilizantes en 2026, con una inversión de RD$2,000 millones, buscando fortalecer la producción y seguridad alimentaria.",
+      "body": "El presidente de la ADHA, Jonathan Rivera, informó que el gobierno destinó más de RD$25,000 millones en financiamiento para 19,000 productores agrícolas en 2025. Adicionalmente, se reactivará el subsidio a fertilizantes en 2026 con una inversión de RD$2,000 millones, buscando mitigar costos y fortalecer la producción nacional.",
+      "category": "Economia",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-10-29T20:16:39+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-29",
+      "fetched_at": "2026-10-29T21:20:15.387219+00:00",
+      "dia_lectura": "2026-10-29",
+      "status": "pending"
+    },
+    {
+      "id": "n_dd4019d11b87a01c",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/386714/fondos-de-inversion-concentran-mas-del-44-de-las-cuentas-del-mercado-de-valores-dominicano",
+      "title": "Fondos de inversión concentran más del 44% de las cuentas del mercado de valores dominicano",
+      "summary": "Los fondos de inversión dominan el mercado de valores con el 44.1% de las cuentas, totalizando 86,064 al cierre de septiembre de 2026. Estos instrumentos gestionan activos por RD$493,023 millones, representando el 5.8% del PIB nacional.",
+      "body": "Los fondos de inversión se consolidan como el principal vehículo en el mercado de valores dominicano, abarcando el 44.1% de las cuentas totales con 86,064 al cierre de septiembre de 2026. La Asociación Dominicana de Sociedades Administradoras de Fondos de Inversión (Adosafi) reporta que estos fondos administran un patrimonio de RD$493,023 millones, equivalente al 5.8% del PIB.",
+      "category": "Financiero",
+      "relevance": 8,
+      "señales": [
+        "macro"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-10-29T20:00:56+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-10-29",
+      "fetched_at": "2026-10-29T21:20:09.225324+00:00",
+      "dia_lectura": "2026-10-29",
+      "status": "pending"
+    },
     {
       "id": "n_e0325149fa760d60",
       "source_key": "news_gnews_banca",
@@ -275,16 +410,16 @@
   "discarded_count": 60,
   "discarded": [
     {
-      "id": "n_31e7c4d219fc59c6",
+      "id": "n_2c38d995cb37b994",
       "motivo": "relevancia_baja",
       "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Precios estables y abastecimiento para Navidad, la promesa de ProConsumidor sobre el pollo",
-      "url": "https://eldinero.com.do/386687/precios-estables-y-abastecimiento-para-navidad-la-promesa-de-proconsumidor-sobre-el-pollo",
+      "title": "Delcy Rodríguez destituye a Félix Plasencia y nombra como nuevo canciller a Oliver Blanco",
+      "url": "https://eldinero.com.do/386725/delcy-rodriguez-destituye-a-felix-plasencia-y-nombra-como-nuevo-canciller-a-oliver-blanco",
       "source_name": "El Dinero · Finanzas",
       "relevance": 5,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-10-29T18:46:17.051480+00:00"
+      "fetched_at": "2026-10-29T21:20:03.411256+00:00"
     },
     {
       "id": "n_1647b56e021f6230",
@@ -297,18 +432,6 @@
       "señales": [],
       "detalle": "",
       "fetched_at": "2026-10-29T18:46:22.882094+00:00"
-    },
-    {
-      "id": "n_2dabb5c408115241",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Venezuela prevé cuatro aumentos salariales para 2027",
-      "url": "https://eldinero.com.do/386683/venezuela-preve-cuatro-aumentos-salariales-para-2027",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": 5,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-10-29T18:46:46.989274+00:00"
     },
     {
       "id": "n_1e97b576746ec39a",
@@ -359,28 +482,124 @@
       "fetched_at": "2026-10-29T18:47:17.568068+00:00"
     },
     {
-      "id": "n_d536c0d798ef5f9d",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Hombre muere en hospital de Cotuí horas después de ser detenido por la DNCD en operativo",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/10/29/operativo-dncd-en-cotui-muerte-de-william-de-los-santos/3704725",
-      "source_name": "Diario Libre · Finanzas",
-      "relevance": 0,
+      "id": "n_1fa012e17ff39c9b",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Construcción y servicios financieros lideran crecimiento económico dominicano",
+      "url": "https://eldinero.com.do/386704/construccion-y-servicios-financieros-lideran-crecimiento-economico-dominicano",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-10-29T18:47:53.136480+00:00"
+      "fetched_at": "2026-10-29T21:26:32.650220+00:00"
     },
     {
-      "id": "n_34e508488f85d955",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Menor herido por su padrastro mientras defendía a su madre permanece en cuidados intensivos",
-      "url": "https://www.diariolibre.com/actualidad/nacional/2026/10/29/operan-por-segunda-vez-a-adolescente-atacado-por-su-padrastro/3704589",
-      "source_name": "Diario Libre · Finanzas",
-      "relevance": 0,
+      "id": "n_892da69ce13b3985",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Hermanos Espaillat apelan decisión en caso Jet Set",
+      "url": "https://www.diariolibre.com/actualidad/justicia/2026/10/29/hermanos-espaillat-apelan-decision-en-caso-jet-set/3704976",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
       "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-10-29T18:47:59.176292+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:26:35.123377+00:00"
+    },
+    {
+      "id": "n_3099a300d05908b0",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Muere Patrick Stewart, el actor que inmortalizó a Jean-Luc Picard",
+      "url": "https://www.diariolibre.com/revista/cine/2026/10/29/muere-patrick-stewart-el-actor-que-inmortalizo-a-jean-luc-picard/3705003",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:26:35.563901+00:00"
+    },
+    {
+      "id": "n_c9ab6c4a3b4acd8e",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Despliegue anunciado por Bukele se acerca al fuerza antipandillas",
+      "url": "https://www.diariolibre.com/mundo/haiti/2026/10/29/despliegue-anunciado-por-bukele-se-acerca-al-fuerza-antipandillas/3704898",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:26:40.839302+00:00"
+    },
+    {
+      "id": "n_84f0eb650ae13fbe",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Las drogas sintéticas y criptolavado amenazan la región",
+      "url": "https://www.diariolibre.com/actualidad/justicia/2026/10/29/las-drogas-sinteticas-y-criptolavado-amenazan-la-region/3704997",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:26:41.511330+00:00"
+    },
+    {
+      "id": "n_bc1612a6a59c2dbd",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El grito desesperado del niño apuñalado por su padrastro",
+      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/10/29/el-grito-desesperado-del-nino-apunalado-por-su-padrastro/3704918",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:26:41.594042+00:00"
+    },
+    {
+      "id": "n_2110b001a28d8699",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Transportistas reaccionan ante aumento del marbete",
+      "url": "https://www.diariolibre.com/economia/consumo/2026/10/29/transportistas-reaccionan-ante-aumento-del-marbete/3704773",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:26:48.898789+00:00"
+    },
+    {
+      "id": "n_df294a7d1d65f0fd",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Baht tailandés: Los riesgos del petróleo apuntan a una debilidad frente al Dólar estadounidense - MUFG",
+      "url": "https://www.fxstreet.es/news/baht-tailandes-los-riesgos-del-petroleo-apuntan-a-una-debilidad-frente-al-dolar-estadounidense-mufg-202610291935",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:27:24.124419+00:00"
+    },
+    {
+      "id": "n_845ee9daaaf3afab",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Peso filipino: la intervención verbal oficial frena la depreciación – OCBC",
+      "url": "https://www.fxstreet.es/news/peso-filipino-la-intervencion-verbal-oficial-frena-la-depreciacion-ocbc-202610292012",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:27:24.581070+00:00"
+    },
+    {
+      "id": "n_3e6d0ad05b381c56",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Resumen del BCE: En pausa ante unas condiciones financieras más restrictivas y el aumento de los costes de la energía",
+      "url": "https://www.fxstreet.es/news/resumen-del-bce-en-pausa-ante-unas-condiciones-financieras-mas-restrictivas-y-el-aumento-de-los-costes-de-la-energia-202610291935",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:27:25.176820+00:00"
     },
     {
       "id": "n_881a310899176fa4",
@@ -391,56 +610,32 @@
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-10-29T18:56:05.777242+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:27:26.989757+00:00"
     },
     {
-      "id": "n_9c40c5524154a545",
+      "id": "n_09d6b7b0916c03de",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "El Yen japonés lucha por encontrar una dirección ante la inminente decisión del BoJ sobre las tasas de interés",
-      "url": "https://www.fxstreet.es/news/el-yen-japones-lucha-por-encontrar-una-direccion-ante-la-inminente-decision-del-boj-sobre-las-tasas-de-interes-202610291820",
-      "source_name": "Fuente guardada",
-      "relevance": null,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-10-29T18:56:11.924158+00:00"
-    },
-    {
-      "id": "n_36b7e13e751d20d2",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Banco de Canadá: trayectoria de subidas preventivas – Standard Chartered",
-      "url": "https://www.fxstreet.es/news/banco-de-canada-trayectoria-de-subidas-preventivas-standard-chartered-202610291734",
+      "title": "Dólar de Singapur: Se mantiene en un rango frente al Dólar estadounidense mientras el impulso se desvanece - UOB",
+      "url": "https://www.fxstreet.es/news/dolar-de-singapur-se-mantiene-en-un-rango-frente-al-dolar-estadounidense-mientras-el-impulso-se-desvanece-uob-202610291851",
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:56:16.289871+00:00"
+      "fetched_at": "2026-10-29T21:27:28.357112+00:00"
     },
     {
-      "id": "n_5d37f04ff755dcbf",
+      "id": "n_8da7018f0db60088",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Plata Análisis del Precio: Bajistas del XAG/USD apuntan a 50.00$ mientras el RSI entra en territorio de sobreventa",
-      "url": "https://www.fxstreet.es/news/plata-analisis-del-precio-bajistas-del-xag-usd-apuntan-a-5000-mientras-el-rsi-entra-en-territorio-de-sobreventa-202610291729",
-      "source_name": "Fuente guardada",
+      "title": "Shell duplica el beneficio hasta septiembre y lanza una recompra de acciones de hasta 5,000 millones",
+      "url": "https://eldinero.com.do/386701/shell-duplica-el-beneficio-hasta-septiembre-y-lanza-una-recompra-de-acciones-de-hasta-5000-millones",
+      "source_name": "El Dinero · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:56:17.896095+00:00"
-    },
-    {
-      "id": "n_d2170ca7f3f46b26",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Rupia indonesia: Los riesgos del MSCI aumentan la presión contra el Dólar estadounidense - OCBC",
-      "url": "https://www.fxstreet.es/news/rupia-indonesia-los-riesgos-del-msci-aumentan-la-presion-contra-el-dolar-estadounidense-ocbc-202610291812",
-      "source_name": "Fuente guardada",
-      "relevance": null,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-10-29T18:56:17.950167+00:00"
+      "fetched_at": "2026-10-29T21:27:34.700467+00:00"
     },
     {
       "id": "n_27afca67c1d53ea1",
@@ -452,43 +647,31 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:56:36.952423+00:00"
+      "fetched_at": "2026-10-29T21:27:35.068794+00:00"
     },
     {
-      "id": "n_9ec371057e242482",
+      "id": "n_2dabb5c408115241",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "CDP Sánchez Ramírez celebra segunda edición de la Gala de Periodismo",
-      "url": "https://eldinero.com.do/386648/cdp-sanchez-ramirez-celebra-segunda-edicion-de-la-gala-de-periodismo",
+      "title": "Venezuela prevé cuatro aumentos salariales para 2027",
+      "url": "https://eldinero.com.do/386683/venezuela-preve-cuatro-aumentos-salariales-para-2027",
       "source_name": "El Dinero · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:56:38.107757+00:00"
+      "fetched_at": "2026-10-29T21:27:35.095497+00:00"
     },
     {
-      "id": "n_644f91f9e3f526c4",
+      "id": "n_31e7c4d219fc59c6",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Cormidom recibe al Consejo Directivo de Camipe para mostrar sus prácticas de minería responsable",
-      "url": "https://eldinero.com.do/386665/cormidom-recibe-al-consejo-directivo-de-camipe-para-mostrar-sus-practicas-de-mineria-responsable",
+      "title": "Precios estables y abastecimiento para Navidad, la promesa de ProConsumidor sobre el pollo",
+      "url": "https://eldinero.com.do/386687/precios-estables-y-abastecimiento-para-navidad-la-promesa-de-proconsumidor-sobre-el-pollo",
       "source_name": "El Dinero · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:56:40.614326+00:00"
-    },
-    {
-      "id": "n_d6a61e5a605e947c",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Fenapepro dice no le ha dado \"la espalda\" a Wander Franco y revela conversaciones sobre su \"situación\"",
-      "url": "https://hoy.com.do/deportes/beisbol/fenapepro-dice-le-dado-espalda-wander-franco-revela-conversaciones-sobre-situacion_1101131.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-09-03, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:56:42.495230+00:00"
+      "fetched_at": "2026-10-29T21:27:35.720447+00:00"
     },
     {
       "id": "n_ce74aa6d0cbbc220",
@@ -500,139 +683,151 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-04-12, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:56:42.495295+00:00"
+      "fetched_at": "2026-10-29T21:27:37.588488+00:00"
     },
     {
-      "id": "n_2350bf1cdc1bb5c3",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "El Banco Central sube el precio del dinero en un cuarto de punto",
-      "url": "https://hoy.com.do/opinion/banco-central-sube-precio-dinero-cuarto-punto_1104509.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-05, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:56:42.495340+00:00"
-    },
-    {
-      "id": "n_1cd2af8602f63f1b",
+      "id": "n_710c06801257ce10",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Choque de trenes en España: ¿qué falló para que ocurriera la tragedia?",
-      "url": "https://hoy.com.do/el-mundo/espana/choque-trenes-espana-fallo-ocurriera-tragedia_1107113.html",
+      "title": "«Me va a matar mi mamá»: Rosaura narra cómo su hijo de 13 años fue herido por su padrastro",
+      "url": "https://hoy.com.do/el-pais/me-matar-mi-mama-rosaura-narra-hijo-13-anos-herido-padrastro_1107169.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:56:56.383352+00:00"
+      "fetched_at": "2026-10-29T21:27:47.056717+00:00"
     },
     {
-      "id": "n_21e8ecacd8a52c42",
+      "id": "n_87cf76295fed24dc",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Los cuatro choques mortales de tren en España este año, en resumen",
-      "url": "https://hoy.com.do/el-mundo/cuatro-choques-mortales-tren-espana-ano-resumen_1107036.html",
+      "title": "Tiene 13 años y lucha por vivir: su familia pide sangre tras ataque atribuido a su padrastro",
+      "url": "https://hoy.com.do/el-pais/13-anos-lucha-vivir-familia-pide-sangre-ataque-atribuido-padrastro_1106997.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:56:56.704776+00:00"
+      "fetched_at": "2026-10-29T21:27:52.656114+00:00"
     },
     {
-      "id": "n_f78f4f78784a4d36",
+      "id": "n_c519845e16b9a8e0",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Wander Franco es condenado a tres años de prisión suspendida",
-      "url": "https://hoy.com.do/el-pais/wander-franco-condenado-tres-anos-prision-suspendida_1107118.html",
+      "title": "El Consejo Noruego de Refugiados denuncia el asesinato de dos de sus trabajadores en Haití",
+      "url": "https://hoy.com.do/el-mundo/haiti/consejo-noruego-refugiados-denuncia-asesinato-dos-trabajadores-haiti_1107147.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:56:57.993507+00:00"
+      "fetched_at": "2026-10-29T21:27:53.125150+00:00"
     },
     {
-      "id": "n_8efdce5ca9fb888c",
+      "id": "n_3ba110b4111217d6",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "En República Dominicana ocurren unos 60 accidentes cerebrovasculares al día: ¿Cómo identificarlos?",
-      "url": "https://hoy.com.do/vivir/salud/republica-dominicana-ocurren-60-accidentes-cerebrovasculares-dia-identificarlos_1107132.html",
+      "title": "¿Qué conversaron Nayib Bukele y Alix Didier Fils-Aimé sobre los militares desaparecidos?",
+      "url": "https://hoy.com.do/el-mundo/conversaron-nayib-bukele-alix-didier-fils-aime-sobre-militares-desaparecidos_1107153.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:57:13.419243+00:00"
+      "fetched_at": "2026-10-29T21:27:55.409079+00:00"
     },
     {
-      "id": "n_9c32bb483820defc",
+      "id": "n_8c72d09d4cca7580",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "¿Nicki Minaj a la Casa Blanca? Funcionario de Trump propone a la rapera como portavoz",
-      "url": "https://eldia.com.do/nicki-minaj-a-la-casa-blanca-funcionario-de-trump-propone-a-la-rapera-como-portavoz",
+      "title": "Tormenta Noel: los estragos que dejó en República Dominicana en 2007",
+      "url": "https://hoy.com.do/el-pais/tormenta-noel-estragos-dejo-republica-dominicana-2007_1107133.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:27:58.816232+00:00"
+    },
+    {
+      "id": "n_9437a05fc2bb26e7",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Lluvias dejan 51 comunidades incomunicadas y más de 2,600 personas afectadas",
+      "url": "https://hoy.com.do/el-pais/lluvias-dejan-51-comunidades-incomunicadas-2-600-personas-afectadas_1107158.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:27:59.261578+00:00"
+    },
+    {
+      "id": "n_9e8922b505bd85ea",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Morel Diplán tomará posesión como obispo castrense en la Catedral de Santo Domingo",
+      "url": "https://eldia.com.do/morel-diplan-tomara-posesion-como-obispo-castrense-en-la-catedral-de-santo-domingo",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:57:26.228707+00:00"
+      "fetched_at": "2026-10-29T21:28:05.694537+00:00"
     },
     {
-      "id": "n_6dc110b1b60749e1",
+      "id": "n_52cb2cbc07d1cc4c",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "FP cuestiona aumento del marbete en medio de alzas de los combustibles",
-      "url": "https://eldia.com.do/fp-cuestiona-aumento-del-marbete-en-medio-de-alzas-de-los-combustibles",
+      "title": "RD logra primera clasificación en la historia a Copa del Mundo de Béisbol U18",
+      "url": "https://eldia.com.do/rd-logra-primera-clasificacion-en-la-historia-a-copa-del-mundo-de-beisbol-u18",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:57:27.672362+00:00"
+      "fetched_at": "2026-10-29T21:28:12.868705+00:00"
     },
     {
-      "id": "n_bdf2de9445f874d0",
+      "id": "n_c20d407a81a390c3",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "COE mantiene tres provincias en alerta verde por incidencia de vaguada",
-      "url": "https://eldia.com.do/coe-mantiene-tres-provincias-en-alerta-verde-por-incidencia-de-vaguada",
+      "title": "Colegio Dominicano de Notarios decide su futuro este sábado en las urnas",
+      "url": "https://eldia.com.do/colegio-dominicano-de-notarios-decide-su-futuro-este-sabado-en-las-urnas",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:57:27.861737+00:00"
+      "fetched_at": "2026-10-29T21:28:13.389819+00:00"
     },
     {
-      "id": "n_b3dcef7f3e8430b2",
+      "id": "n_580583a76b2ad63b",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "República Dominicana seleccionada entre los destinos de viaje en solitario en América y el Caribe para 2026",
-      "url": "https://eldia.com.do/rd-seleccionada-entre-los-destinos-de-viaje-en-solitario",
+      "title": "Ministerio de Educación recordó plan de evaluación curricular que impulsa para fortalecer aprendizaje",
+      "url": "https://eldia.com.do/educacion-recordo-plan-de-evaluacion-curricular-que-impulsa-para-fortalecer-aprendizaje",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:57:34.242033+00:00"
+      "fetched_at": "2026-10-29T21:28:13.416731+00:00"
     },
     {
-      "id": "n_cb23cf1bfc1bf4af",
+      "id": "n_b692ad12a8abf053",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Avería en sistema de conectividad afecta temporalmente servicios del MINERD",
-      "url": "https://eldia.com.do/averia-en-sistema-de-conectividad-afecta-temporalmente-servicios-del-minerd",
+      "title": "\"Me va a matar a mi mamá\", madre de adolescente herido en Villa Mella narra cómo su hijo le salvó la vida",
+      "url": "https://eldia.com.do/me-va-a-matar-a-mi-mama-madre-de-adolescente-herido-en-villa-mella-narra-como-su-hijo-le-salvo-la-vida",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:57:34.473288+00:00"
+      "fetched_at": "2026-10-29T21:28:19.910907+00:00"
     },
     {
-      "id": "n_d2dccb501c94e8aa",
+      "id": "n_8f8a72519f5fc942",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Merengue típico se impone por encima de la música urbana con una nueva generación de exponentes",
-      "url": "https://eldia.com.do/merengue-tipico-se-impone-por-encima-de-la-musica-urbana-con-una-nueva-generacion-de-exponentes",
+      "title": "Kimi Antonelli, líder de la F1, tiene una enfermedad viral antes del Gran Premio de Ciudad de México",
+      "url": "https://eldia.com.do/kimi-antonelli-lider-de-la-f1-afectado-por-virus",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:57:35.266114+00:00"
+      "fetched_at": "2026-10-29T21:28:20.170781+00:00"
     },
     {
       "id": "n_c653b5a092280008",
@@ -644,7 +839,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-11, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:57:56.020922+00:00"
+      "fetched_at": "2026-10-29T21:28:35.880262+00:00"
     },
     {
       "id": "n_28074207f9b62b51",
@@ -656,7 +851,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-26, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:57:56.020992+00:00"
+      "fetched_at": "2026-10-29T21:28:35.880441+00:00"
     },
     {
       "id": "n_2af31812f3a02da0",
@@ -668,7 +863,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-25, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:57:56.021068+00:00"
+      "fetched_at": "2026-10-29T21:28:35.880593+00:00"
     },
     {
       "id": "n_65d0bb011cecbcf8",
@@ -680,31 +875,31 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-24, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:57:56.021126+00:00"
+      "fetched_at": "2026-10-29T21:28:35.880802+00:00"
     },
     {
-      "id": "n_86f0812cd92ab727",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Precio del dólar hoy en RD: conoce a cómo se compra y vende este viernes 27 de octubre - Noticias SIN",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzZ1clBHUWZIQ0ptd3NIdUlrMWxrd1FZUC1ZaWpxNV9wNk40X1JSOG1CM1NLQWx5bnFiV216b19IcktvUnVLbDBGVks5dV9GbVV1VTc4TXF2dW1vMXBhcUZKdXNXcWZUWllBUE1TMXhLdGRhWDFxaHBXRjZ4anF3V2FiV0k5NXh2SXZ4eGg4dWp2N2k3dVV0SGxiazVDUmtWTUVTZDVSUEVhYk8tWGVmeXBNbW80d9IBvgFBVV95cUxPWFdZUHBoZmYzTDdXcE45dUJTaTMtYU92WFJvNVcxazFMUXJSaml6TTZVZjltaUkzOHJfVFBwaVZXZk00MVMwanlONWVsSDYzVkFJd3Q5MzRYOXVGa28xc0c3SUdHb0RNSktGbGxlbkJBd2VPSkhvbUxIRWdBOTM0WVE1dVRORXMtaFBpOUl4UnVRUktEakxUajg3ME1kaVpYbFNSWHNDbnJaS3hJLXRjQWZQVHgyQi1YeWlEbl9B?oc=5",
+      "id": "n_26147bfceee0a2f0",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Precio del dólar hoy en República Dominicana: compra y venta este jueves 29 de octubre de 2026 - Revista Mercado",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN0NqN2dra0tCQnRnamZ5NV80cTRDTE5RNFI4RlFER3FSQXVKR3pMX0Juc3lKZHR5N2FrWUZNUDgwaHloMDlpa2xGcmg1Z1Z4a214U2c0dzM0dTN0aEt2dlBFcjJ1WG1ST1IyZm16Sk9zcHBRUXVzek9PWEV6Z1pQZ1VlbEs2SWxFRFBpeWtRdkFqX0pjTVdfcDRONVFEZC1FWWMwZU5aUWZwc09SMHlteUtiVmxQVE15a2R1eXRtOFNGdkxvNVFKV1VhNVFJek9Bc1ZkOS1oSjA2YlV5aVhxODQ4WGM5djFqU3c?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
-      "detalle": "el feed la fecha 2026-10-27, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:57:56.021168+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-10-29T21:28:45.946246+00:00"
     },
     {
       "id": "n_a8edfc5db9fa8882",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar en República Dominicana hoy, jueves 29 de octubre 2026 — cuánto cuesta el USD a DOP, cotización de divisa, tasa de compra y venta - El Comercio Perú",
+      "title": "Precio del dólar en República Dominicana hoy, jueves 29 de octubre 2026 — cuánto cuesta el USD a DOP, cotización de divisa, tasa de compra y venta - El Comercio",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOZm5uYVNJRWk4c1lSTmRWbDZYQnZVY2FURU1PVmVjWDV2ZGE0RnJSbVdvSDFyWjB4SnUwT2htZC1kNkxrdVpfTzVlNXRNd0JJd0dSN2hOZXlGQ1hqMXNObUZCSEc2QU51SFJ2MWVmbFFQN0N3Y0x4SUlGbjU4WE90YXl0ZGg0WkU1S29OWEN6UGxyN21yYlJkNjZvNGI1TDZrZHFZZ1E4ZHFrQ2p1WXp2RGgxLS1wWmQtWnVYcnhjdy1jazBCa0gxQ21abENLRE9fcjdpZTcwWWZpS2JXdWMyMDA3SU1oQU1MS1JfdERjcnE2YmlIelNlbzlMNUM1SV9LbUxhVHAyb3ZiemFHTmhNSXZFQThmcThIdVRYNmJXUXZOdlRGZEU4?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:58:07.346280+00:00"
+      "fetched_at": "2026-10-29T21:28:46.226318+00:00"
     },
     {
       "id": "n_05d7621f112cba5d",
@@ -716,7 +911,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:58:07.384006+00:00"
+      "fetched_at": "2026-10-29T21:28:47.532269+00:00"
     },
     {
       "id": "n_2891ca213428bb65",
@@ -728,7 +923,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:58:08.353373+00:00"
+      "fetched_at": "2026-10-29T21:28:48.771027+00:00"
     },
     {
       "id": "n_65c1e03526737b21",
@@ -740,7 +935,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:58:10.404219+00:00"
+      "fetched_at": "2026-10-29T21:28:49.228779+00:00"
     },
     {
       "id": "n_bb61368b3960d2e6",
@@ -752,7 +947,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-10-29T18:58:11.149435+00:00"
+      "fetched_at": "2026-10-29T21:28:50.027691+00:00"
     },
     {
       "id": "n_283cc53ffb307230",
@@ -764,7 +959,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-08, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160326+00:00"
+      "fetched_at": "2026-10-29T21:28:52.116528+00:00"
     },
     {
       "id": "n_1d98a7603171232f",
@@ -776,7 +971,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-14, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160390+00:00"
+      "fetched_at": "2026-10-29T21:28:52.116680+00:00"
     },
     {
       "id": "n_063489c4c006b4ea",
@@ -788,7 +983,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-05-15, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160445+00:00"
+      "fetched_at": "2026-10-29T21:28:52.116913+00:00"
     },
     {
       "id": "n_37b15d9ea29f31ad",
@@ -800,7 +995,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-01, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160485+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117025+00:00"
     },
     {
       "id": "n_b1985dcb65a7bfe1",
@@ -812,7 +1007,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-03-25, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160526+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117136+00:00"
     },
     {
       "id": "n_e47d6db92bb439e1",
@@ -824,7 +1019,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-06, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160566+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117243+00:00"
     },
     {
       "id": "n_3ef2d7d5253477b3",
@@ -836,7 +1031,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-08, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160606+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117348+00:00"
     },
     {
       "id": "n_ce675cd044785893",
@@ -848,7 +1043,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-02, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160644+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117451+00:00"
     },
     {
       "id": "n_9dcfd71d00e571f7",
@@ -860,7 +1055,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-01, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160682+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117552+00:00"
     },
     {
       "id": "n_a0aa586c064a5c72",
@@ -872,7 +1067,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-27, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160734+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117676+00:00"
     },
     {
       "id": "n_36379ff0e122be8d",
@@ -884,7 +1079,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-20, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160775+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117789+00:00"
     },
     {
       "id": "n_2f77bfd95d666d3e",
@@ -896,7 +1091,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-14, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160829+00:00"
+      "fetched_at": "2026-10-29T21:28:52.117908+00:00"
     },
     {
       "id": "n_74a7b84f475c7571",
@@ -908,7 +1103,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-10, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160875+00:00"
+      "fetched_at": "2026-10-29T21:28:52.118016+00:00"
     },
     {
       "id": "n_8247242539f96e12",
@@ -920,7 +1115,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-24, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160920+00:00"
+      "fetched_at": "2026-10-29T21:28:52.118115+00:00"
     },
     {
       "id": "n_be8f46330b052031",
@@ -932,67 +1127,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-03-30, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.160964+00:00"
-    },
-    {
-      "id": "n_456a6ce6a2ee754a",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La Superintendencia de Bancos ofrecerá cuatro charlas en la Semana Económica y Financiera - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVRZYmd2OW11eTg4RnJKTzlMMEZfdUNOOGlXMXhHOVk1ZTUwWFpfdmVJTnVCbXd5S3pxT0VOZ2tDdGFXTUNIdjlGOGpLSkZXaUY4dkNTTUdPbDNYVVprOExVelM4ZWZnQ19BNmNpVnZzRVBCOUJYQml0Mm1aUXN1MU11ZHBGVG15TXh6UDk1RXdUd0pJUGhOLXpzZmYyNlEtRmtXME5ReURQS2NnMXRNNEZhRzd2aHB4Rjg4TEhldDU3YlU?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-03-12, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.161008+00:00"
-    },
-    {
-      "id": "n_1f8bd16eddbc378d",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Magistrados de la CSJ asisten a presentación anual de la Superintendencia de Bancos de Panamá - Órgano Judicial",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYXBBUjE1VkxpOE5NUDhwaGdYMnJwV2Rucy1LaGphZHBfdTNrbkdndHh3eXQ0cldnc01Md1A1d0FtUkd3YmVWQVVWZVlub0pnRVVuM1BBb2tSdWRHcFFQaWpiUDVRWlVUS0lvczJYRDdLcVZRMEdSSVM4dGJJemRCQ2kyWEZmLV9hQmRDQnJ0ZFpVakhncHVmODU5aUQ1VFI1czlSbEExOFJfcGVNNE5rdmkxRTFNR2xiZ1Yybl9qc1RpaHU3YmNZdWxJcmFtOHNTMklEeA?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-02-25, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.161054+00:00"
-    },
-    {
-      "id": "n_6c6050a6056505bf",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La Superintendencia de Bancos realiza congreso sobre la vigilancia y actualización constante para evitar robo de datos - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclBQdnJEX0tkUHF5aC0wclc4bVJ4VlJidnVVaG9STkMxQzVKaHlFYm5QVmJPeWhJSTJqSDRXSmsyWVJEY3VHYkhnTEZCMkNwd3RldUdpaXNUNjc0VnBjOWpzT01FdjFRVDMyNlBHSkdCVE90Wnd1UmNFcXRaUnFLQWlqcE5RS1hKM0JXZ0EzNkFNcWFFcThlM3g0enlUNDNVQVhvWTlOVldvb003TGItYnhNYXdPTG4xbFFuLUNzWQ?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-11-20, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.161098+00:00"
-    },
-    {
-      "id": "n_892abfffb33aa03e",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La Superintendencia de Bancos realiza el conversatorio “Ciberseguridad: desafíos para el sistema financiero dominicano” - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGJuY2M2OUt4c2gyckI1RE1aRHprMHhtRXJGMk9KaWVoYklpb2xBSllxckdXTDR5N2ktX0lTcU5kaVJ4ZXpZbDBNOFp1dGlYSVFLd0FyODhDT2g4VV9KNUwzeUxyTlQ0OGZJb0xGVllGYTlEM3VVdzVfaXFZZFRpc3l1cTVJX1ctckRvV2paRVM1S1NtajVsR1NtbF9nY0FULTk2NmQyTzVTTjlQUnhCYndJVE1la2NkZklBNTZQQQ?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-11-11, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.161141+00:00"
-    },
-    {
-      "id": "n_f415b99ea22623bf",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "UNODC y Superintendencia de Bancos fortalecen la normativa contra el lavado de activos - United Nations Office on Drugs and Crime",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1o4SlZNYnFvalhfMy0zMVlDdXZEd3pxRWZfUS0tdlJLcWZma0pCeG5CN29SS0NTYmk1R2x2TnRiMXZTUWhuVTVZQ2lhMVQ2QnFJZU9ER3BNd20wMmpCYl9tTWRlZTQxYXRqcWJReXoyMzBnejljc05SdFFEVW1BaXJsTVRWbTNMREl0X3czOHFhV090V3RyeUlqZkFjcVNBUUc4WDdTc0Z2QWJZT2FROExfZW9URmFkYXJRdmFjUGVZa09LZWVvT0g0X3M3eUVwVDBIbTNn?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-08-08, ventana 2026-10-28 a 2026-10-29",
-      "fetched_at": "2026-10-29T18:58:13.161185+00:00"
+      "fetched_at": "2026-10-29T21:28:52.118212+00:00"
     }
   ]
 }
