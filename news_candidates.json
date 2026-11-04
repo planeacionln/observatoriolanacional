@@ -1,23 +1,138 @@
 {
-  "generated_at": "2026-11-04T20:26:16.013627+00:00",
+  "generated_at": "2026-11-04T22:13:07.356936+00:00",
   "dia_editorial": "2026-11-04",
   "zona_horaria": "UTC-4 (Santo Domingo)",
   "ventana_frescura": "2026-11-03 a 2026-11-04",
   "gemini_model": "gemini-2.5-flash-lite",
   "min_relevance": 6,
-  "count": 10,
+  "count": 15,
   "count_by_day": {
-    "2026-11-04": 10
+    "2026-11-04": 14,
+    "2026-11-03": 1
   },
-  "new_this_run": 11,
+  "new_this_run": 5,
   "already_published": 0,
   "out_of_window": 0,
   "ttl_days": 1,
   "max_age_days": 1,
   "errors": 0,
   "sources": 19,
-  "elapsed_s": 724.4,
+  "elapsed_s": 536.4,
   "candidates": [
+    {
+      "id": "n_0a370d8113df3703",
+      "source_key": "news_gnews_banca",
+      "source_name": "Google News · Banca y Superintendencia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGxwQ0lSVFY2QXZyR3B6V0w0RHZkQ2FjVF9zSENMTWRKSHRQUkhqVC03ajFsRUpMMVN2M3ViblN3SUhUMmdjYmFGY3oyY0FLbFUxazFMRG95MC1udlZBREFrMExURmxKb2toN1JMVXVsVVBHV0ZET0NvaXFhVVJqV3A1Y0M2M2hoUUREbjZ6eFNnTEpLTlNySHBxVWRGdmtGa09zX2Rn?oc=5",
+      "title": "Nombran a intendentes de la Superintendencia de Bancos - Emisoras Unidas",
+      "summary": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "body": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "regulador"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": true,
+      "sin_ia": true,
+      "published_at": "2026-11-03T20:36:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-03",
+      "fetched_at": "2026-11-04T22:13:00.033072+00:00",
+      "dia_lectura": "2026-11-04",
+      "status": "pending"
+    },
+    {
+      "id": "n_425d87ea16ec5ddc",
+      "source_key": "news_extra_msynflyf",
+      "source_name": "Fuente guardada",
+      "url": "https://www.fxstreet.es/news/libra-esterlina-la-recuperacion-apunta-a-la-zona-superior-de-136-frente-al-dolar-estadounidense-scotiabank-202611041936",
+      "title": "Libra esterlina: La recuperación apunta a la zona superior de 1.36 frente al Dólar estadounidense – Scotiabank",
+      "summary": "URL Source: https://www.fxstreet.es/news/libra-esterlina-la-recuperacion-apunta-a-la-zona-superior-de-136-frente-al-dolar-estadounidense-scotiabank-202611041936",
+      "body": "URL Source: https://www.fxstreet.es/news/libra-esterlina-la-recuperacion-apunta-a-la-zona-superior-de-136-frente-al-dolar-estadounidense-scotiabank-202611041936 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd",
+        "banca"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-11-04T19:36:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-04",
+      "fetched_at": "2026-11-04T22:11:37.404512+00:00",
+      "dia_lectura": "2026-11-04",
+      "status": "pending"
+    },
+    {
+      "id": "n_af1e2c1dcaf68b34",
+      "source_key": "news_extra_msynflyf",
+      "source_name": "Fuente guardada",
+      "url": "https://www.fxstreet.es/news/won-surcoreano-contexto-de-inflacion-y-endurecimiento-del-bok-mufg-202611041948",
+      "title": "Won surcoreano: contexto de inflación y endurecimiento del BoK – MUFG",
+      "summary": "URL Source: https://www.fxstreet.es/news/won-surcoreano-contexto-de-inflacion-y-endurecimiento-del-bok-mufg-202611041948",
+      "body": "URL Source: https://www.fxstreet.es/news/won-surcoreano-contexto-de-inflacion-y-endurecimiento-del-bok-mufg-202611041948 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-11-04T19:48:11+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-04",
+      "fetched_at": "2026-11-04T22:11:35.841388+00:00",
+      "dia_lectura": "2026-11-04",
+      "status": "pending"
+    },
+    {
+      "id": "n_1dfd9f2cef24b6c2",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/387350/abinader-anuncia-primer-picazo-de-la-autopista-del-ambar-en-15-dias",
+      "title": "Abinader anuncia primer picazo de la autopista del Ámbar en 15 días",
+      "summary": "El presidente Luis Abinader anunció el inicio de la autopista del Ámbar en 15 días, con una inversión inicial de RD$5,780 millones. Esta obra busca transformar la conexión y el desarrollo económico de la región Norte, facilitando el transporte y atrayendo inversiones.",
+      "body": "El presidente Luis Abinader ha anunciado que el primer picazo para la autopista del Ámbar se realizará en 15 días, con una partida presupuestaria inicial de RD$5,780 millones. El proyecto, que busca conectar Puerto Plata y Santiago, promete reducir significativamente los tiempos de viaje y potenciar el desarrollo económico de la región Norte.",
+      "category": "Economia",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-04T20:01:09+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-04",
+      "fetched_at": "2026-11-04T22:06:07.908220+00:00",
+      "dia_lectura": "2026-11-04",
+      "status": "pending"
+    },
+    {
+      "id": "n_f3cc7ce441baf666",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/387359/gobierno-preve-deficit-fiscal-cierre-2026-en-torno-al-4-del-pib",
+      "title": "Gobierno dominicano prevé que el déficit fiscal cierre 2026 en torno al 4% del PIB",
+      "summary": "El Gobierno dominicano proyecta un déficit fiscal del 4% del PIB para 2026, superando la estimación inicial debido al alza de combustibles. A pesar de esto, se considera manejable y no se espera un impacto significativo en la deuda pública.",
+      "body": "El Gobierno dominicano anticipa que el déficit del sector público no financiero alcanzará aproximadamente el 4% del PIB al cierre de 2026, superando la previsión inicial de 3.2%. Esta revisión se atribuye principalmente al encarecimiento internacional de los combustibles y las presiones sobre el gasto público, aunque el Ministro de Hacienda y Economía asegura que el aumento es manejable y no afectará drásticamente la deuda pública.",
+      "category": "Economia",
+      "relevance": 8,
+      "señales": [
+        "macro"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-04T20:25:46+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-04",
+      "fetched_at": "2026-11-04T22:04:13.897861+00:00",
+      "dia_lectura": "2026-11-04",
+      "status": "pending"
+    },
     {
       "id": "n_654b845fc24cba83",
       "source_key": "news_gnews_banca",
@@ -256,31 +371,31 @@
       "status": "pending"
     }
   ],
-  "discarded_count": 59,
+  "discarded_count": 60,
   "discarded": [
     {
-      "id": "n_bbdc94e4960d2a49",
+      "id": "n_2ab7757741ef020c",
       "motivo": "relevancia_baja",
       "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Registran temblor de magnitud 4.5 al noreste de Miches",
-      "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/04/sismo-en-miches-de-magnitud-45-reportado-por-uasd/3710725",
-      "source_name": "Diario Libre · Economía",
+      "title": "Vender cocos puede generar RD$75,000 al mes, pero ¿cuánto gana realmente un coquero?",
+      "url": "https://eldinero.com.do/387354/vender-cocos-puede-generar-rd75000-al-mes-pero-cuanto-gana-realmente-un-coquero",
+      "source_name": "El Dinero · Finanzas",
       "relevance": 5,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-11-04T20:15:03.838996+00:00"
+      "fetched_at": "2026-11-04T22:04:26.118881+00:00"
     },
     {
-      "id": "n_4f737a4763564916",
+      "id": "n_3f0f4647928d71a0",
       "motivo": "relevancia_baja",
       "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "Una nueva recusación contra jueces frena el juicio de fondo contra Jean Alain Rodríguez",
-      "url": "https://www.diariolibre.com/actualidad/justicia/2026/11/04/juicio-de-jean-alain-rodriguez-enfrenta-nueva-recusacion-de-jueces/3710733",
-      "source_name": "Diario Libre · Economía",
+      "title": "Policía de Haití dice haber hallado vehículo que transportaba a salvadoreños desaparecidos",
+      "url": "https://eldinero.com.do/387356/policia-de-haiti-dice-haber-hallado-vehiculo-que-transportaba-a-salvadorenos-desaparecidos",
+      "source_name": "El Dinero · Finanzas",
       "relevance": 5,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-11-04T20:15:22.557955+00:00"
+      "fetched_at": "2026-11-04T22:04:31.739317+00:00"
     },
     {
       "id": "n_41dcfe727f319ac8",
@@ -307,40 +422,160 @@
       "fetched_at": "2026-11-04T20:16:38.342949+00:00"
     },
     {
-      "id": "n_0c0ef1c853f5caa2",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "El humorista Miguel Céspedes comparte su dolor por la pérdida de su padre",
-      "url": "https://www.diariolibre.com/revista/cultura/2026/11/04/miguel-cespedes-anuncia-fallecimiento-de-su-padre/3710731",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
+      "id": "n_fb21a6c631182bef",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El petróleo de Texas cae 8.3% tras admitir Trump impacto de guerra con Irán en los comicios",
+      "url": "https://eldinero.com.do/387361/el-petroleo-de-texas-cae-8-3-tras-admitir-trump-impacto-de-guerra-con-iran-en-los-comicios",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
       "señales": [],
       "detalle": "",
-      "fetched_at": "2026-11-04T20:15:33.772863+00:00"
+      "fetched_at": "2026-11-04T22:10:19.363717+00:00"
     },
     {
-      "id": "n_1dfd9f2cef24b6c2",
+      "id": "n_d124c797c3c9ae92",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Abinader anuncia primer picazo de la autopista del Ámbar en 15 días",
-      "url": "https://eldinero.com.do/387350/abinader-anuncia-primer-picazo-de-la-autopista-del-ambar-en-15-dias",
+      "title": "Gianna Franjul destaca logros del Sistema Dominicano para la Calidad",
+      "url": "https://eldinero.com.do/387344/gianna-franjul-destaca-logros-del-sistema-dominicano-para-la-calidad",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-11-04T22:10:43.332336+00:00"
+    },
+    {
+      "id": "n_dc3da7eb90d0f17e",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "María Elvira Salazar sobre resultados elecciones en Estados Unidos",
+      "url": "https://www.diariolibre.com/usa/actualidad/2026/11/04/maria-elvira-salazar-sobre-resultados-elecciones-en-estados-unidos/3710835",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:10:45.694395+00:00"
+    },
+    {
+      "id": "n_57c76efa148972bc",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Recusan juezas del tribunal que conoce caso que lidera Donald Guerrero",
+      "url": "https://www.diariolibre.com/actualidad/justicia/2026/11/04/recusan-juezas-del-tribunal-que-conoce-caso-que-lidera-donald-guerrero/3710906",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:10:45.782399+00:00"
+    },
+    {
+      "id": "n_4f737a4763564916",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Juicio de Jean Alain Rodríguez enfrenta nueva recusación de jueces",
+      "url": "https://www.diariolibre.com/actualidad/justicia/2026/11/04/juicio-de-jean-alain-rodriguez-enfrenta-nueva-recusacion-de-jueces/3710733",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:10:52.448774+00:00"
+    },
+    {
+      "id": "n_bbdc94e4960d2a49",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Sismo en Miches de magnitud 4.5 reportado por UASD",
+      "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/04/sismo-en-miches-de-magnitud-45-reportado-por-uasd/3710725",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:10:54.585989+00:00"
+    },
+    {
+      "id": "n_463c93169ae737d8",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Votantes latinos optan por demócratas elecciones medio mandato",
+      "url": "https://www.diariolibre.com/usa/actualidad/2026/11/04/votantes-latinos-optan-por-democratas-elecciones-medio-mandato/3710400",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:10:55.709421+00:00"
+    },
+    {
+      "id": "n_0c0ef1c853f5caa2",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Miguel Céspedes anuncia fallecimiento de su padre",
+      "url": "https://www.diariolibre.com/revista/cultura/2026/11/04/miguel-cespedes-anuncia-fallecimiento-de-su-padre/3710731",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:11:01.246480+00:00"
+    },
+    {
+      "id": "n_731ed44af4736b92",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Yuan chino: El PBoC frena los avances del Yuan – MUFG",
+      "url": "https://www.fxstreet.es/news/yuan-chino-el-pboc-frena-los-avances-del-yuan-mufg-202611042112",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:11:32.512264+00:00"
+    },
+    {
+      "id": "n_5828e2d8aeed9f4f",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "BCE: Los bancos pueden soportar tipos más altos; Francia debe sanear sus finanzas – Moulin",
+      "url": "https://www.fxstreet.es/news/bce-los-bancos-pueden-soportar-tipos-mas-altos-francia-debe-sanear-sus-finanzas-moulin-202611041955",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:11:33.270654+00:00"
+    },
+    {
+      "id": "n_cc4bc835d735bceb",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "USD/CHF Previsión del Precio: El mínimo de dos meses amenaza la estructura alcista",
+      "url": "https://www.fxstreet.es/news/usd-chf-prevision-del-precio-el-minimo-de-dos-meses-amenaza-la-estructura-alcista-202611041930",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:11:38.550386+00:00"
+    },
+    {
+      "id": "n_3bfe4d8be584996a",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Dólar de Singapur: Mantiene un rango estrecho mientras el PMI respalda el crecimiento – Commerzbank",
+      "url": "https://www.fxstreet.es/news/dolar-de-singapur-mantiene-un-rango-estrecho-mientras-el-pmi-respalda-el-crecimiento-commerzbank-202611042032",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:11:45.253768+00:00"
+    },
+    {
+      "id": "n_bf82f3c1c6610c60",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Abinader reivindica en Madrid diversidad de economía dominicana: “Somos más que turismo”",
+      "url": "https://eldinero.com.do/387347/abinader-reivindica-en-madrid-diversidad-de-economia-dominicana-somos-mas-que-turismo",
       "source_name": "El Dinero · RSS",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:24:53.069996+00:00"
-    },
-    {
-      "id": "n_3f0f4647928d71a0",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Policía de Haití dice haber hallado vehículo que transportaba a salvadoreños desaparecidos",
-      "url": "https://eldinero.com.do/387356/policia-de-haiti-dice-haber-hallado-vehiculo-que-transportaba-a-salvadorenos-desaparecidos",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:24:54.203138+00:00"
+      "fetched_at": "2026-11-04T22:11:51.302720+00:00"
     },
     {
       "id": "n_a093b63590f4089c",
@@ -352,43 +587,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:24:54.602146+00:00"
-    },
-    {
-      "id": "n_5e84021fafb0f828",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Presidente de la Aneih advierte sobre presión de costos por alza de combustibles y fletes internacionales",
-      "url": "https://eldinero.com.do/387334/presidente-de-la-aneih-advierte-sobre-presion-de-costos-por-alza-de-combustibles-y-fletes-internacionales",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:24:55.257078+00:00"
-    },
-    {
-      "id": "n_2ab7757741ef020c",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Vender cocos puede generar RD$75,000 al mes, pero ¿cuánto gana realmente un coquero?",
-      "url": "https://eldinero.com.do/387354/vender-cocos-puede-generar-rd75000-al-mes-pero-cuanto-gana-realmente-un-coquero",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:02.589805+00:00"
-    },
-    {
-      "id": "n_d124c797c3c9ae92",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Gianna Franjul destaca logros del Sistema Dominicano para la Calidad",
-      "url": "https://eldinero.com.do/387344/gianna-franjul-destaca-logros-del-sistema-dominicano-para-la-calidad",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:07.444243+00:00"
+      "fetched_at": "2026-11-04T22:11:51.313286+00:00"
     },
     {
       "id": "n_f12d6590f59408eb",
@@ -400,7 +599,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-28, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:25:09.179458+00:00"
+      "fetched_at": "2026-11-04T22:11:53.028655+00:00"
     },
     {
       "id": "n_2f8dcd8080dc9b04",
@@ -412,7 +611,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-01, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:25:09.179513+00:00"
+      "fetched_at": "2026-11-04T22:11:53.028779+00:00"
     },
     {
       "id": "n_d9e50f2ed67b74e0",
@@ -424,7 +623,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-30, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:25:09.179562+00:00"
+      "fetched_at": "2026-11-04T22:11:53.028930+00:00"
+    },
+    {
+      "id": "n_1047e23899cf5622",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Policía de Haití dice haber hallado vehículo que transportaba a salvadoreños desaparecidos",
+      "url": "https://hoy.com.do/el-mundo/el-caribe/policia-haiti-dice-haber-hallado-vehiculo-transportaba-salvadorenos-desaparecidos_1107705.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:12:00.091588+00:00"
     },
     {
       "id": "n_8a83eb1aded1ca8a",
@@ -436,19 +647,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:15.682120+00:00"
-    },
-    {
-      "id": "n_5c67e00a714a6f7c",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Caso de adolescente en estado crítico: Hospital Hugo Mendoza responde a denuncias de su madre",
-      "url": "https://hoy.com.do/el-pais/caso-adolescente-critico-hospital-hugo-mendoza-responde-denuncias-madre_1107685.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:17.811548+00:00"
+      "fetched_at": "2026-11-04T22:12:01.218054+00:00"
     },
     {
       "id": "n_7548f4e0e1900cb5",
@@ -460,19 +659,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:17.858816+00:00"
-    },
-    {
-      "id": "n_49def3631073fed6",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "El feriado del Día de la Constitución se mueve: ¿cuándo se trabaja y cuándo se descansa?",
-      "url": "https://hoy.com.do/el-pais/feriado-dia-constitucion-mueve-trabaja-descansa_1107681.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:22.996710+00:00"
+      "fetched_at": "2026-11-04T22:12:01.422986+00:00"
     },
     {
       "id": "n_f8fa44654f706e07",
@@ -484,7 +671,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:25.321743+00:00"
+      "fetched_at": "2026-11-04T22:12:08.025482+00:00"
+    },
+    {
+      "id": "n_49def3631073fed6",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El feriado del Día de la Constitución se mueve: ¿cuándo se trabaja y cuándo se descansa?",
+      "url": "https://hoy.com.do/el-pais/feriado-dia-constitucion-mueve-trabaja-descansa_1107681.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:12:11.479190+00:00"
     },
     {
       "id": "n_eab1f3be3268f7b7",
@@ -496,79 +695,79 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:25.573201+00:00"
+      "fetched_at": "2026-11-04T22:12:11.764494+00:00"
     },
     {
-      "id": "n_1883e4a401ebb9e8",
+      "id": "n_7ced105a7bccd641",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Policía captura a tres prófugos reclamados por Francia, Países Bajos y Chile; recibe extraditado desde Argentina",
-      "url": "https://eldia.com.do/policia-captura-a-tres-profugos-reclamados-por-francia-paises-bajos-y-chile-recibe-extraditado-desde-argentina",
+      "title": "Una planta dominicana está bajo investigación por su potencial contra el cáncer de próstata",
+      "url": "https://eldia.com.do/una-planta-dominicana-esta-bajo-investigacion-por-su-potencial-contra-el-cancer-de-prostata",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:31.746098+00:00"
+      "fetched_at": "2026-11-04T22:12:15.938385+00:00"
     },
     {
-      "id": "n_5f72615d70d8a971",
+      "id": "n_724c32087df67999",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "El líder supremo de Irán descarta que las elecciones de EE.UU. cambien su política hacia Teherán",
-      "url": "https://eldia.com.do/el-lider-supremo-de-iran-descarta-que-las-elecciones-de-ee-uu-cambien-su-politica-hacia-teheran",
+      "title": "Abogado de imputado Juan Tomás Polanco del caso Calamar recusa a dos de las tres juezas que conocen el juicio",
+      "url": "https://eldia.com.do/abogado-de-imputado-juan-tomas-polanco-del-caso-calamar-recusa-a-dos-de-las-tres-juezas-que-conocen-el-juicio",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:31.924022+00:00"
+      "fetched_at": "2026-11-04T22:12:16.039624+00:00"
     },
     {
-      "id": "n_c77eff7617d23104",
+      "id": "n_81043ae8432f5618",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "La industria de los K-dramas advierte de un riesgo de colapso pese a su éxito mundial",
-      "url": "https://eldia.com.do/la-industria-de-los-k-dramas-advierte-de-un-riesgo-de-colapso-pese-a-su-exito-mundial",
+      "title": "Fiscal llama \"tramposos\" a Emmanuel Clase y Luis Ortiz",
+      "url": "https://eldia.com.do/fiscal-llama-tramposos-a-emmanuel-clase-y-luis-ortiz",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:32.698278+00:00"
+      "fetched_at": "2026-11-04T22:12:16.248576+00:00"
     },
     {
-      "id": "n_aa20693e90833117",
+      "id": "n_3b42346975fcd38e",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Cuatro de cada diez personas desconocen que tienen diabetes",
-      "url": "https://eldia.com.do/cuatro-de-cada-diez-personas-desconocen-que-tienen-diabetes",
+      "title": "Robótica y ciberseguridad entre las nuevas carreras que incorporará la UASD",
+      "url": "https://eldia.com.do/robotica-y-ciberseguridad-entre-las-nuevas-carreras-que-incorporara-la-uasd",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:33.176593+00:00"
+      "fetched_at": "2026-11-04T22:12:16.691728+00:00"
     },
     {
-      "id": "n_233b7145bd3df235",
+      "id": "n_218a96b68e2ce0c9",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Abinader apuesta a Asamblea de ONU Turismo 2027 para atraer inversiones y posicionar a RD como destino mundial",
-      "url": "https://eldia.com.do/abinader-apuesta-a-asamblea-de-onu-turismo-2027-para-atraer-inversiones-y-posicionar-a-rd-como-destino-mundial",
+      "title": "Fallece monseñor Jesús María de Jesús Moya, obispo emérito de San Francisco de Macorís",
+      "url": "https://eldia.com.do/fallece-monsenor-jesus-maria-de-jesus-moya-obispo-emerito-de-san-francisco-de-macoris",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:33.486820+00:00"
+      "fetched_at": "2026-11-04T22:12:22.300831+00:00"
     },
     {
-      "id": "n_62991707b85e3aeb",
+      "id": "n_1c0c24826571a446",
       "motivo": "sin_detalle",
       "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Periodistas de Barahona conocen planes de formación del INFOTEP en la Escuela Guarocuya",
-      "url": "https://eldia.com.do/periodistas-de-barahona-conocen-planes-de-formacion-del-infotep-en-la-escuela-guarocuya",
+      "title": "Juezas ordenan nueva evaluación psicológica a Jean Andrés Pumarol y aplaza juicio",
+      "url": "https://eldia.com.do/juezas-ordenan-nueva-evaluacion-psicologica-a-jean-andres-pumarol-y-aplaza-juicio",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:25:37.563577+00:00"
+      "fetched_at": "2026-11-04T22:12:23.775345+00:00"
     },
     {
       "id": "n_9ca7735e41fd33da",
@@ -580,7 +779,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-30, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:25:50.436035+00:00"
+      "fetched_at": "2026-11-04T22:12:41.259497+00:00"
     },
     {
       "id": "n_575fc1181d0590bf",
@@ -592,7 +791,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-30, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:25:50.436107+00:00"
+      "fetched_at": "2026-11-04T22:12:41.259649+00:00"
     },
     {
       "id": "n_76f76ccfc7a9c258",
@@ -604,7 +803,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-02, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:25:50.436204+00:00"
+      "fetched_at": "2026-11-04T22:12:41.259852+00:00"
     },
     {
       "id": "n_c653b5a092280008",
@@ -616,7 +815,79 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-11, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:25:50.436240+00:00"
+      "fetched_at": "2026-11-04T22:12:41.259986+00:00"
+    },
+    {
+      "id": "n_9fd1ab8aac807a74",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Precio del dólar en República Dominicana hoy, lunes 2 de noviembre de 2026: cuánto cuesta el USD a DOP, cotización de divisa, tasa de compra y venta - El Comercio Perú",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPcUpUWXRNQmRWb1dlWEZXY0s3bjVjZG0zY0d6RkhqbUN3Y2YxUGZ3N05yWFA0U3F6MzJlNFMyQW1CaEdpVzNoV2tOM25iWGhhb09SLXZLMGhiQUlaNW13dV8ycnZzTjQ4eWtNbEVVWFhsbkFjRmdyS1VfYWkwUVYtdjJUVmtONlVYYWdONW1GN3FHN1NPZERvczFvY0lDOEFhRm5jaWRzRmc1TUxRc2s2cW5udVM1U1pkTTM1SW9OcW5SbEd2Z2NMQVdHb0Zfa2xPTGJvcDBkUU5Kb1h2MENXMl81QlZ5N0kzQUZ5UDRsdEZrdHdIV3BWdWtwRFZ6ZGdQOTRkVnNwZEh1eGJCNTY3ZDViYTZadkJMUHAyczhDLVNYejNuMVZZ?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-11-02, ventana 2026-11-03 a 2026-11-04",
+      "fetched_at": "2026-11-04T22:12:41.260098+00:00"
+    },
+    {
+      "id": "n_1c85a5319f1e6576",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Banco Central deja sin cambios tasa de interés en 5.50 % durante octubre de 2026 - Hoy Digital",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc05VTzJjU0tTdDdqT09zV2plLVVoNU1uRGd6cEliVndPNkh4TVp3aFBtU0VSOFkzQmJBQ0htXzEtZ0dMVmlLNlFyNHUtTnloQjhJbWZxc3EzMEdYNXZoMmNmWjlKTmhHY243dEp0eFllUEV5amh0a0VnSHdlQXB6dlZreVgtcXBwU2ZETUMzTnU3bU1aQVdpd0U2bkJJU03SAaQBQVVfeXFMTnM3c2h0U3FlMU9aekpBalhGdTZIZ2w5MDZWSm43REVoaWwwZGxXSU04ZHhrYzFrRm9OeFdpUUhzaW1WY29yVUktU0xKWnZIUjF1MWttUVJVRUJSQllvZk1LaWl1YnNmTHAzejEwTTdkNkxQSkpZVWxQZUpjTHZSR2JXc1pQcWYxNkhPNzJyWi1xdkRLWGJFdVNQLVMyYkhldXVNN0Y?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-30, ventana 2026-11-03 a 2026-11-04",
+      "fetched_at": "2026-11-04T22:12:41.260204+00:00"
+    },
+    {
+      "id": "n_2e418f6f73d5f564",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Precio del dólar hoy en República Dominicana: compra y venta este viernes 30 de octubre de 2026 - Revista Mercado",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzloWTZRZHMzTFZzdW5UWmswRUFJNTBXVXlXM0tWWHliWThhVU9UcERUX19hWkt2eWhwbThweExGTHd5UmRJY3hKTG5EX3hIdTJoeGFNdkQ2TXZ5bFJPejBZVU9EZFJzWnZoYmh5N2tyWGJESnpXZGR2YXRaOHgxQU9uX2RjX2NkMmVzbmhxcE1ZbGRhMi1yRFBfTE9Vc0U2elprajRmY2FyYWloYlYzWjRRRERQczlBbXI3bm1jNGdoUEdDdndpTVYxTXhoR1ZScUN6dlByNlp4dHVRcVJGZUx4V1dpME02UzNv?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-30, ventana 2026-11-03 a 2026-11-04",
+      "fetched_at": "2026-11-04T22:12:41.260306+00:00"
+    },
+    {
+      "id": "n_5c9b56c12a2c5295",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "La inflación interanual de República Dominicana se sitúa en 5.12% en septiembre, según el Banco Central de la República Dominicana - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZmoyVDZyQV9oMFF0RU41VF95bE5vejVJekRFLXhqZ0Vfa093Ry11LWtQR2cwS2VmbTNuSFB1NkFmM2drUnd3bDc5bVoyc1VFR2JJMzNfQVU0eGotQzVNb3FqbTlTSHF4THNpelpwT3RsS184UmFmTFg2b1hyc19DY09BTXdvbUxsWF9jTi1YUE5CU3dZYmNRTFNuS2kxX3J0bDVCT0Ezcnh0VUthOXJDQndUVDRvT0l1RUJMXzB6alExaHk3dy00TDVyYXpmNDhvRWNVeG9CUEhTTTE5VmNiRU1CVlV1NEg5Z1JZSHR5VV9nT2FqUVc2MjRHZFI2LXZjWFNDczVKYVZxblNWRFBiNDRn0gGsAkFVX3lxTE1OM2FxTnFmRzI1TENWZkEtaElad1EydUluZk51Z2I3U1FYZEtJUURUWHZoM2ltR3R1bmtfbWJZMUxESE1aVlgydWQ2M1lCZV84eE5wbDQtSktqalA5Tkh4M1JOenlQV0NuTFBQbWx1dzU4bVJDUGRtS1htOUJHdTBWcFppYUx2OUd1MXZ3Mm40M3FHVndxbkVOOTE5X21BcnV3MkFsZEFxS3l2Mm1waDBhenRjMDRucG1HbTNhRUFjX0dVLW9vQzBCZENRaHViM1hSQnpIcnNMeUJIR05QUUx5UkI1bEpub0RHZzRXV2NubWF3T3ZuNFo3VVB6SjBTN2djRWd1cEY5aXNWSENMNFg4X1pUdW9EX0o1STRtWXNncVIyY2Z3aE9mc3FjWQ?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-14, ventana 2026-11-03 a 2026-11-04",
+      "fetched_at": "2026-11-04T22:12:41.260416+00:00"
+    },
+    {
+      "id": "n_dda26a0c0c5afb86",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "¿A cómo está el dólar hoy en República Dominicana? Precio para este sábado 31 de octubre de 2026 - Acento",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbk5SSDk4VS0zdnI5MXZxYzlXVWZMT1lYQ3I4YzNLVloyRmFjZUVSVDU0OGdxZ19XME1EZGJvdDZDOHAxd0VUZDhma2VfOHg1MkxDZm9XdXNkRzRjaGVMNDZ4ZVVrWl9EZ24xUm50RnBmcktIYUo5M1B0LXV5YUpjU1FOSl9jTVpUdmRvVVBMZVI0TTc2ZHpXTnZ0RWRMQmhnZnllYnpEQ2kzUTU5ZFRfUGFVQ0lOUElrZlZWVjgtdEQyMjFMQmlrbmd3cFhSY1dGeUR2cNIB1AFBVV95cUxPbk5SSDk4VS0zdnI5MXZxYzlXVWZMT1lYQ3I4YzNLVloyRmFjZUVSVDU0OGdxZ19XME1EZGJvdDZDOHAxd0VUZDhma2VfOHg1MkxDZm9XdXNkRzRjaGVMNDZ4ZVVrWl9EZ24xUm50RnBmcktIYUo5M1B0LXV5YUpjU1FOSl9jTVpUdmRvVVBMZVI0TTc2ZHpXTnZ0RWRMQmhnZnllYnpEQ2kzUTU5ZFRfUGFVQ0lOUElrZlZWVjgtdEQyMjFMQmlrbmd3cFhSY1dGeUR2cA?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-31, ventana 2026-11-03 a 2026-11-04",
+      "fetched_at": "2026-11-04T22:12:41.260523+00:00"
+    },
+    {
+      "id": "n_1d00fe73f47ae2cc",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Precio del dólar hoy en RD miércoles 4 de noviembre - El Caribe",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFN1RHo4NjNoMkVVQ29aenpCZldoaDk3MlplU1M1a1NUakNIOXl3YUNyLVpfVnBYaEdjQmF5Qmw1VzhzN3d5SlZRWVhQQmxBVkhaRmh6VUhYUUZsalVSVkRVUHR1OXBuYzZnYXA4MDdOTHFINFgxeUpvYnhYcFhvOFJkS1ZwQWlVSEx6bXdR?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-04T22:12:54.030112+00:00"
     },
     {
       "id": "n_898612ec4a48eaff",
@@ -628,7 +899,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-04T20:26:03.630989+00:00"
+      "fetched_at": "2026-11-04T22:12:54.157156+00:00"
     },
     {
       "id": "n_533e69f783fa49b7",
@@ -640,7 +911,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:26:04.341265+00:00"
+      "fetched_at": "2026-11-04T22:12:54.443389+00:00"
     },
     {
       "id": "n_b97f211e5946f96f",
@@ -652,31 +923,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:26:04.390394+00:00"
-    },
-    {
-      "id": "n_1d00fe73f47ae2cc",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar hoy en RD miércoles 4 de noviembre - El Caribe",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFN1RHo4NjNoMkVVQ29aenpCZldoaDk3MlplU1M1a1NUakNIOXl3YUNyLVpfVnBYaEdjQmF5Qmw1VzhzN3d5SlZRWVhQQmxBVkhaRmh6VUhYUUZsalVSVkRVUHR1OXBuYzZnYXA4MDdOTHFINFgxeUpvYnhYcFhvOFJkS1ZwQWlVSEx6bXdR?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:26:05.396254+00:00"
-    },
-    {
-      "id": "n_87b0cadd0dbf162c",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar en República Dominicana hoy, martes 3 de noviembre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMjhEa0JlUks1aDFQN2djQlFyOTV0UTlINjVvSGktc3JNZlBnRWZYblF5bXUyRXg0U3dYQzdRZnBsSGpiUHVfcnVZZVFRZHUtZnRiaGtWR2pzc0dsaVdlRlUzR3JpWHM2RUtzUVdzTUZBWkNVT0VvLVZlMUV1SHpFWG4xQ0FURkxuX0lNZ21HMHhVOGV2N0U1TXBidHJSRGhfQkJZTVNzNXpuSjdYYU53c3ZlR0gzcDBzcF85elc2OVRjT3cwMkVXVzdPeHdWcEZROFpaWWcxU19uckxhd3A4eWR4ZkFHaEZxU25SYVBjN1lmRDYxOE1v?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:26:05.864514+00:00"
+      "fetched_at": "2026-11-04T22:12:54.780556+00:00"
     },
     {
       "id": "n_1fefc487f4b11da9",
@@ -688,7 +935,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-04T20:26:06.105100+00:00"
+      "fetched_at": "2026-11-04T22:12:56.011730+00:00"
+    },
+    {
+      "id": "n_716f739cdd622f7d",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Precio del dólar hoy en RD martes 3 de noviembre - El Caribe",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWF4UHJtNHliNms4MlVWVUpMM0ZyZkFmM1dxS3lEOUJpeUp2SVhXdXJfQWVQYTJ4ZWh2WXhVSGJpd3NvT0xPNVpNTVRWUlVZM2JNdmxPNHRKejZFejBDcDhXR19vR0cxeGFaODcyX0hkZjcwYWtsa1hVR1gxczVmOE9kSFVlQk82VUo0ei13?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-04T22:12:57.138838+00:00"
     },
     {
       "id": "n_1d98a7603171232f",
@@ -700,7 +959,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-14, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083056+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135024+00:00"
     },
     {
       "id": "n_283cc53ffb307230",
@@ -712,7 +971,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-08, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083117+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135225+00:00"
     },
     {
       "id": "n_0ae87ec05f17aac0",
@@ -724,7 +983,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-02, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083156+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135343+00:00"
     },
     {
       "id": "n_063489c4c006b4ea",
@@ -736,7 +995,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-05-15, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083195+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135444+00:00"
     },
     {
       "id": "n_b1985dcb65a7bfe1",
@@ -748,7 +1007,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-03-25, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083239+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135546+00:00"
     },
     {
       "id": "n_1f8bd16eddbc378d",
@@ -760,7 +1019,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-02-25, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083284+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135648+00:00"
     },
     {
       "id": "n_3ef2d7d5253477b3",
@@ -772,7 +1031,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-08, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083360+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135748+00:00"
     },
     {
       "id": "n_ce675cd044785893",
@@ -784,7 +1043,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-02, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083407+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135849+00:00"
     },
     {
       "id": "n_e47d6db92bb439e1",
@@ -796,7 +1055,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-06, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083450+00:00"
+      "fetched_at": "2026-11-04T22:12:59.135979+00:00"
     },
     {
       "id": "n_a0aa586c064a5c72",
@@ -808,7 +1067,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-27, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083494+00:00"
+      "fetched_at": "2026-11-04T22:12:59.136082+00:00"
     },
     {
       "id": "n_36379ff0e122be8d",
@@ -820,7 +1079,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-20, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083539+00:00"
+      "fetched_at": "2026-11-04T22:12:59.136185+00:00"
     },
     {
       "id": "n_2f77bfd95d666d3e",
@@ -832,139 +1091,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-14, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083584+00:00"
-    },
-    {
-      "id": "n_74a7b84f475c7571",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos emite lineamientos para el trato digno en cobro de deudas a usuarios/as del sector financiero - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMTIwRlVHWldacDJvd0Y0bWNCTGJvVU8wNlZ5OWpSS1NINmZOQkVlTS12ZTFTdHFiZldoS08weVVFS2Naclk0ZmczUXUwZnpMaGtIYkt1a0hkLTlLQkxYbnlKUk1YM2VNRFh0RGNHRWRMOHBwLTU0S21CeEIxT0l5STVwaEhPQ3JyOW9JVUg0Y2FKOU1udzZpeFVhUmR5RlBRVGFUUU5YalptQ2d6RzliZXhid05YSTBRVFVNTQ?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-08-10, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083628+00:00"
-    },
-    {
-      "id": "n_9dcfd71d00e571f7",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos (SB) promueve educación financiera en la XXVIII Feria Internacional del Libro Santo Domingo 2026 - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnBjUEk2UXlvZWxFa3ZocWtISUxJY3hqNklOVlR6RUdHMnV5WXBuWU5ncVYxeTVFdzVuTEg5YUJaUUtndXJFUGZCX0tvRFBaeV9BaGlRMkllMjZRM09OUGVodmZNWkRzMHdCaUpMdG5jQS14Q0ZacTdPOTg4anB2aE1GWEFRTG5KT2pyeWQ2XzdfZTRMNFhRSHc0Y2k5amo3eWJzNjJlRVZSdVlYMWJvWTVrd1Y?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-01, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083670+00:00"
-    },
-    {
-      "id": "n_be8f46330b052031",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos: Cartera de crédito de la banca creció 9.5 % en 2025 - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMGM1Y0tDcFJpUVA0UFdJZUFmQUxPeVVZQWh0REh3cThlZUN3MHliUEZrMXVrQ0hWQzlnVFJsbVdnbnl2cjgwZ3dTVjRQZ2FRMHdMZ0VPRW1LWGl5ZVRRMmIzakRQZFdNR0dnckxpMy01WlFYbV9GSjBuY18yMGlOWTF2QVA5ODV6bTB2NzdHS3Fjc3NSU0gxa0lpRXJTRUQ3OW9IYzQwdmlJa1VnUlp5OA?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-03-30, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083712+00:00"
-    },
-    {
-      "id": "n_8247242539f96e12",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos presenta herramienta para comparar tasas de interés de préstamos - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQW5ZZUFtUW11QnZrM2hFZlU1SmdXVGJKWFBDcWpWRndsVW1fWHdVdGRCcGFEaEs0YmliWlRNc0Fycms2Ukx1b0QtLV9tZld3ZnFNVEkybjljeEJaSWhDdjdEQm5EdWJFVGd0bGZjU1YyZVBuOGRNaWtYc0ZJV3hyQU0yT1VQM2I4aGRobHhNVWhnRHUwa2pPLWpTMlNXSE9tVlVrYzVCWVd4NnNEYWVnWEppMjBmN3Zx?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-08-24, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083753+00:00"
-    },
-    {
-      "id": "n_456a6ce6a2ee754a",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La Superintendencia de Bancos ofrecerá cuatro charlas en la Semana Económica y Financiera - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNVRZYmd2OW11eTg4RnJKTzlMMEZfdUNOOGlXMXhHOVk1ZTUwWFpfdmVJTnVCbXd5S3pxT0VOZ2tDdGFXTUNIdjlGOGpLSkZXaUY4dkNTTUdPbDNYVVprOExVelM4ZWZnQ19BNmNpVnZzRVBCOUJYQml0Mm1aUXN1MU11ZHBGVG15TXh6UDk1RXdUd0pJUGhOLXpzZmYyNlEtRmtXME5ReURQS2NnMXRNNEZhRzd2aHB4Rjg4TEhldDU3YlU?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-03-12, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083794+00:00"
-    },
-    {
-      "id": "n_6c6050a6056505bf",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La Superintendencia de Bancos realiza congreso sobre la vigilancia y actualización constante para evitar robo de datos - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclBQdnJEX0tkUHF5aC0wclc4bVJ4VlJidnVVaG9STkMxQzVKaHlFYm5QVmJPeWhJSTJqSDRXSmsyWVJEY3VHYkhnTEZCMkNwd3RldUdpaXNUNjc0VnBjOWpzT01FdjFRVDMyNlBHSkdCVE90Wnd1UmNFcXRaUnFLQWlqcE5RS1hKM0JXZ0EzNkFNcWFFcThlM3g0enlUNDNVQVhvWTlOVldvb003TGItYnhNYXdPTG4xbFFuLUNzWQ?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-11-20, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083834+00:00"
-    },
-    {
-      "id": "n_892abfffb33aa03e",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La Superintendencia de Bancos realiza el conversatorio “Ciberseguridad: desafíos para el sistema financiero dominicano” - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGJuY2M2OUt4c2gyckI1RE1aRHprMHhtRXJGMk9KaWVoYklpb2xBSllxckdXTDR5N2ktX0lTcU5kaVJ4ZXpZbDBNOFp1dGlYSVFLd0FyODhDT2g4VV9KNUwzeUxyTlQ0OGZJb0xGVllGYTlEM3VVdzVfaXFZZFRpc3l1cTVJX1ctckRvV2paRVM1S1NtajVsR1NtbF9nY0FULTk2NmQyTzVTTjlQUnhCYndJVE1la2NkZklBNTZQQQ?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-11-11, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083876+00:00"
-    },
-    {
-      "id": "n_f415b99ea22623bf",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "UNODC y Superintendencia de Bancos fortalecen la normativa contra el lavado de activos - United Nations Office on Drugs and Crime",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1o4SlZNYnFvalhfMy0zMVlDdXZEd3pxRWZfUS0tdlJLcWZma0pCeG5CN29SS0NTYmk1R2x2TnRiMXZTUWhuVTVZQ2lhMVQ2QnFJZU9ER3BNd20wMmpCYl9tTWRlZTQxYXRqcWJReXoyMzBnejljc05SdFFEVW1BaXJsTVRWbTNMREl0X3czOHFhV090V3RyeUlqZkFjcVNBUUc4WDdTc0Z2QWJZT2FROExfZW9URmFkYXJRdmFjUGVZa09LZWVvT0g0X3M3eUVwVDBIbTNn?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-08-08, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083918+00:00"
-    },
-    {
-      "id": "n_93f151cf0af15bc3",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos promueve buenas prácticas de atención en las entidades financieras - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT3lMWXkzYnQzR3hhOHg0bWcweHVrUndDbWd0cXNtaC1mMEdmcE5aWk01VkdOSnBfa3BNS0lnWWpwSXhKXzY4MEtuNnZVVzRibkM3Q2p3Y1hSMVJ2VG42LWJXSWw0SzB1RzVGYjRldXZ3WjBmMUppWmFzd0xuOGdwaHhrOWJRUVhQaGZFbW5ISjNKc1cyZmhIeHU5U2xxbmFhQ1VLWVZMX0g4YloyMkkta1RDNjJIamo2?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-09-01, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.083974+00:00"
-    },
-    {
-      "id": "n_43065e3835536ff4",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos socializa enfoque estratégico 2025 con líderes de la banca - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUphLThIb1YzdDQ4LVZlQ3lsVldLdGY1Z1plZDNCYy1YeFAwXzg3eEF2enUzel93Vnp4RnEtaTVwTzRzNVlGdUVuOGJLMzByVkFMbFE1cEd4X0REQ0xFWGZDa1Q4bHowZ3V2NVItdHBySTVuX2tSYlY4NFAzVl85WjgyZHQ3UjNDaW9rc2JiTjQyWWk2dEQwVDJiTG5NdHQ2RmU2M1plZVFDMlhrMDI1WXFYa0NoVlZWYmxyN1Zn?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-02-03, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.084020+00:00"
-    },
-    {
-      "id": "n_45776bf1a5f6dd1f",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Superintendencia de Bancos concluye proyecto piloto para implementar la taxonomía verde - Presidencia de la República Dominicana",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenlLWGZlNmIxd2psMHhUZjhHNERtYTc3WktKNGFjam85cUxZaG5ISzV3WGNCVGZwdDFrSjBWVlc4ejZia2dzYXNmbUxEZVZ2VFdZZ2x2X0MwUFNDVHpmMmhfQmV3RW9ydUpOZHBSWEl2OGh5ci1hQTlXQ3pPQXNaMmd4YzNxeDhPSHhZY3d3N3RYMzFxMV9ZMkhieEp5YmlmUHNkVnRwaXNNVThqamJvVXMtNGJnSVJIYjFwWWVIdC0?oc=5",
-      "source_name": "Google News · Banca y Superintendencia",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2025-02-19, ventana 2026-11-03 a 2026-11-04",
-      "fetched_at": "2026-11-04T20:26:08.084065+00:00"
+      "fetched_at": "2026-11-04T22:12:59.136285+00:00"
     }
   ]
 }
