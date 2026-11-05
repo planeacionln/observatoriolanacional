@@ -1,7 +1,7 @@
 {
   "fuente": "Superintendencia de Bancos de la Republica Dominicana (SIB) - API v2",
   "unidad": "RD$ (pesos dominicanos)",
-  "generado_en": "2026-09-20T16:26:46.908074+00:00",
+  "generado_en": "2026-11-05T22:29:27.924133+00:00",
   "nota_agregado": "La entidad 'TODOS' es el agregado que publica la SIB; se excluye del ranking y del sistema.",
   "nota_share": "share_pct = balance de la entidad / balance del sistema (suma de entidades) para el mismo producto, periodo y region.",
   "endpoint": "estadisticas/v2/captaciones/moneda",
@@ -12,9 +12,8 @@
     "2023-12",
     "2024-12",
     "2025-12",
-    "2026-06",
-    "2026-07",
-    "2026-08"
+    "2026-08",
+    "2026-09"
   ],
   "productos": {
     "total": "Captacion total del publico (todos los instrumentos)",
@@ -47,16 +46,12 @@
           "valor": 3181741454571.86
         },
         {
-          "periodo": "2026-06",
-          "valor": 3492663109581.6
-        },
-        {
-          "periodo": "2026-07",
-          "valor": 3476885822142.13
-        },
-        {
           "periodo": "2026-08",
           "valor": 3517507877440.76
+        },
+        {
+          "periodo": "2026-09",
+          "valor": 3584397021428.11
         }
       ],
       "ahorros": [
@@ -81,16 +76,12 @@
           "valor": 1151321400123.87
         },
         {
-          "periodo": "2026-06",
-          "valor": 1197857115930.35
-        },
-        {
-          "periodo": "2026-07",
-          "valor": 1178953002050.27
-        },
-        {
           "periodo": "2026-08",
           "valor": 1196604638025.05
+        },
+        {
+          "periodo": "2026-09",
+          "valor": 1194992329491.98
         }
       ],
       "corrientes": [
@@ -115,16 +106,12 @@
           "valor": 535118804805.99
         },
         {
-          "periodo": "2026-06",
-          "valor": 604734009764.3
-        },
-        {
-          "periodo": "2026-07",
-          "valor": 614963243808.87
-        },
-        {
           "periodo": "2026-08",
           "valor": 592390470282.2
+        },
+        {
+          "periodo": "2026-09",
+          "valor": 686390198131.14
         }
       ],
       "depositos": [
@@ -149,16 +136,12 @@
           "valor": 1495301249642.0
         },
         {
-          "periodo": "2026-06",
-          "valor": 1690071983886.95
-        },
-        {
-          "periodo": "2026-07",
-          "valor": 1682969576282.99
-        },
-        {
           "periodo": "2026-08",
           "valor": 1728512769133.51
+        },
+        {
+          "periodo": "2026-09",
+          "valor": 1703014493804.99
         }
       ]
     }
@@ -1679,612 +1662,6 @@
         "posicion": 43
       }
     ],
-    "2026-06": [
-      {
-        "entidad": "BANRESERVAS",
-        "tipo_entidad": "BM",
-        "valor": 1239165027745.94,
-        "share_pct": 35.4791,
-        "posicion": 1
-      },
-      {
-        "entidad": "POPULAR",
-        "tipo_entidad": "BM",
-        "valor": 754600230655.0,
-        "share_pct": 21.6053,
-        "posicion": 2
-      },
-      {
-        "entidad": "BHD",
-        "tipo_entidad": "BM",
-        "valor": 520276246929.0,
-        "share_pct": 14.8963,
-        "posicion": 3
-      },
-      {
-        "entidad": "SANTA CRUZ",
-        "tipo_entidad": "BM",
-        "valor": 149175691275.85,
-        "share_pct": 4.2711,
-        "posicion": 4
-      },
-      {
-        "entidad": "SCOTIABANK",
-        "tipo_entidad": "BM",
-        "valor": 137402533417.0,
-        "share_pct": 3.934,
-        "posicion": 5
-      },
-      {
-        "entidad": "APAP",
-        "tipo_entidad": "AAyP",
-        "valor": 134489453984.55,
-        "share_pct": 3.8506,
-        "posicion": 6
-      },
-      {
-        "entidad": "CIBAO",
-        "tipo_entidad": "AAyP",
-        "valor": 89698352308.0,
-        "share_pct": 2.5682,
-        "posicion": 7
-      },
-      {
-        "entidad": "PROMERICA",
-        "tipo_entidad": "BM",
-        "valor": 59922429698.92,
-        "share_pct": 1.7157,
-        "posicion": 8
-      },
-      {
-        "entidad": "CARIBE",
-        "tipo_entidad": "BM",
-        "valor": 49833626234.65,
-        "share_pct": 1.4268,
-        "posicion": 9
-      },
-      {
-        "entidad": "BANESCO",
-        "tipo_entidad": "BM",
-        "valor": 42617237386.63,
-        "share_pct": 1.2202,
-        "posicion": 10
-      },
-      {
-        "entidad": "LA NACIONAL",
-        "tipo_entidad": "AAyP",
-        "valor": 40168381955.0,
-        "share_pct": 1.1501,
-        "posicion": 11
-      },
-      {
-        "entidad": "BLH",
-        "tipo_entidad": "BM",
-        "valor": 28646424214.69,
-        "share_pct": 0.8202,
-        "posicion": 12
-      },
-      {
-        "entidad": "BDI",
-        "tipo_entidad": "BM",
-        "valor": 27617944163.68,
-        "share_pct": 0.7907,
-        "posicion": 13
-      },
-      {
-        "entidad": "VIMENCA",
-        "tipo_entidad": "BM",
-        "valor": 25573430809.45,
-        "share_pct": 0.7322,
-        "posicion": 14
-      },
-      {
-        "entidad": "CITIBANK",
-        "tipo_entidad": "BM",
-        "valor": 19527635043.78,
-        "share_pct": 0.5591,
-        "posicion": 15
-      },
-      {
-        "entidad": "LAFISE",
-        "tipo_entidad": "BM",
-        "valor": 18850095702.29,
-        "share_pct": 0.5397,
-        "posicion": 16
-      },
-      {
-        "entidad": "ADEMI",
-        "tipo_entidad": "BM",
-        "valor": 17024417699.98,
-        "share_pct": 0.4874,
-        "posicion": 17
-      },
-      {
-        "entidad": "BANFONDESA",
-        "tipo_entidad": "BAyC",
-        "valor": 14672634901.11,
-        "share_pct": 0.4201,
-        "posicion": 18
-      },
-      {
-        "entidad": "ALAVER",
-        "tipo_entidad": "AAyP",
-        "valor": 13875476579.9,
-        "share_pct": 0.3973,
-        "posicion": 19
-      },
-      {
-        "entidad": "MOTOR CREDITO",
-        "tipo_entidad": "BAyC",
-        "valor": 12828403041.82,
-        "share_pct": 0.3673,
-        "posicion": 20
-      },
-      {
-        "entidad": "QIK BANCO DIGITAL",
-        "tipo_entidad": "BM",
-        "valor": 12119498324.6,
-        "share_pct": 0.347,
-        "posicion": 21
-      },
-      {
-        "entidad": "JMMB",
-        "tipo_entidad": "BM",
-        "valor": 10902497208.11,
-        "share_pct": 0.3122,
-        "posicion": 22
-      },
-      {
-        "entidad": "DUARTE",
-        "tipo_entidad": "AAyP",
-        "valor": 10760817499.0,
-        "share_pct": 0.3081,
-        "posicion": 23
-      },
-      {
-        "entidad": "ADOPEM",
-        "tipo_entidad": "BAyC",
-        "valor": 9381685100.74,
-        "share_pct": 0.2686,
-        "posicion": 24
-      },
-      {
-        "entidad": "MOCANA",
-        "tipo_entidad": "AAyP",
-        "valor": 7551895014.0,
-        "share_pct": 0.2162,
-        "posicion": 25
-      },
-      {
-        "entidad": "BONAO",
-        "tipo_entidad": "AAyP",
-        "valor": 6787028073.0,
-        "share_pct": 0.1943,
-        "posicion": 26
-      },
-      {
-        "entidad": "UNION",
-        "tipo_entidad": "BAyC",
-        "valor": 6362042445.0,
-        "share_pct": 0.1822,
-        "posicion": 27
-      },
-      {
-        "entidad": "ROMANA",
-        "tipo_entidad": "AAyP",
-        "valor": 5321892683.97,
-        "share_pct": 0.1524,
-        "posicion": 28
-      },
-      {
-        "entidad": "PERAVIA",
-        "tipo_entidad": "AAyP",
-        "valor": 4838203011.0,
-        "share_pct": 0.1385,
-        "posicion": 29
-      },
-      {
-        "entidad": "CONFISA",
-        "tipo_entidad": "BAyC",
-        "valor": 3592106096.88,
-        "share_pct": 0.1028,
-        "posicion": 30
-      },
-      {
-        "entidad": "MAGUANA",
-        "tipo_entidad": "AAyP",
-        "valor": 3503639515.0,
-        "share_pct": 0.1003,
-        "posicion": 31
-      },
-      {
-        "entidad": "ATLANTICO",
-        "tipo_entidad": "BAyC",
-        "valor": 3473831668.0,
-        "share_pct": 0.0995,
-        "posicion": 32
-      },
-      {
-        "entidad": "FIHOGAR",
-        "tipo_entidad": "BAyC",
-        "valor": 3062616308.0,
-        "share_pct": 0.0877,
-        "posicion": 33
-      },
-      {
-        "entidad": "BANCOTUI",
-        "tipo_entidad": "BAyC",
-        "valor": 2089534775.0,
-        "share_pct": 0.0598,
-        "posicion": 34
-      },
-      {
-        "entidad": "BANCO BACC",
-        "tipo_entidad": "BAyC",
-        "valor": 1804648656.0,
-        "share_pct": 0.0517,
-        "posicion": 35
-      },
-      {
-        "entidad": "LEASCONFISA",
-        "tipo_entidad": "BAyC",
-        "valor": 1734670510.04,
-        "share_pct": 0.0497,
-        "posicion": 36
-      },
-      {
-        "entidad": "GRUFICORP",
-        "tipo_entidad": "BAyC",
-        "valor": 1285237161.2,
-        "share_pct": 0.0368,
-        "posicion": 37
-      },
-      {
-        "entidad": "OPTIMA",
-        "tipo_entidad": "BAyC",
-        "valor": 813211677.45,
-        "share_pct": 0.0233,
-        "posicion": 38
-      },
-      {
-        "entidad": "BONANZA",
-        "tipo_entidad": "BAyC",
-        "valor": 702009328.82,
-        "share_pct": 0.0201,
-        "posicion": 39
-      },
-      {
-        "entidad": "COFACI",
-        "tipo_entidad": "BAyC",
-        "valor": 610370778.55,
-        "share_pct": 0.0175,
-        "posicion": 40
-      },
-      {
-        "entidad": "ACTIVO",
-        "tipo_entidad": "BM",
-        "valor": 0.0,
-        "share_pct": 0.0,
-        "posicion": 41
-      },
-      {
-        "entidad": "BELLBANK",
-        "tipo_entidad": "BM",
-        "valor": 0.0,
-        "share_pct": 0.0,
-        "posicion": 42
-      },
-      {
-        "entidad": "EMPIRE",
-        "tipo_entidad": "BAyC",
-        "valor": 0.0,
-        "share_pct": 0.0,
-        "posicion": 43
-      }
-    ],
-    "2026-07": [
-      {
-        "entidad": "BANRESERVAS",
-        "tipo_entidad": "BM",
-        "valor": 1259077955379.99,
-        "share_pct": 36.2128,
-        "posicion": 1
-      },
-      {
-        "entidad": "POPULAR",
-        "tipo_entidad": "BM",
-        "valor": 731139218297.0,
-        "share_pct": 21.0286,
-        "posicion": 2
-      },
-      {
-        "entidad": "BHD",
-        "tipo_entidad": "BM",
-        "valor": 514261132687.0,
-        "share_pct": 14.7909,
-        "posicion": 3
-      },
-      {
-        "entidad": "SANTA CRUZ",
-        "tipo_entidad": "BM",
-        "valor": 148844649667.7,
-        "share_pct": 4.281,
-        "posicion": 4
-      },
-      {
-        "entidad": "SCOTIABANK",
-        "tipo_entidad": "BM",
-        "valor": 137872564197.0,
-        "share_pct": 3.9654,
-        "posicion": 5
-      },
-      {
-        "entidad": "APAP",
-        "tipo_entidad": "AAyP",
-        "valor": 134277947905.84,
-        "share_pct": 3.862,
-        "posicion": 6
-      },
-      {
-        "entidad": "CIBAO",
-        "tipo_entidad": "AAyP",
-        "valor": 89854489768.81,
-        "share_pct": 2.5843,
-        "posicion": 7
-      },
-      {
-        "entidad": "PROMERICA",
-        "tipo_entidad": "BM",
-        "valor": 59737131194.8,
-        "share_pct": 1.7181,
-        "posicion": 8
-      },
-      {
-        "entidad": "CARIBE",
-        "tipo_entidad": "BM",
-        "valor": 51312988074.12,
-        "share_pct": 1.4758,
-        "posicion": 9
-      },
-      {
-        "entidad": "LA NACIONAL",
-        "tipo_entidad": "AAyP",
-        "valor": 39963657422.44,
-        "share_pct": 1.1494,
-        "posicion": 10
-      },
-      {
-        "entidad": "BANESCO",
-        "tipo_entidad": "BM",
-        "valor": 37617879251.07,
-        "share_pct": 1.0819,
-        "posicion": 11
-      },
-      {
-        "entidad": "BDI",
-        "tipo_entidad": "BM",
-        "valor": 29293363474.31,
-        "share_pct": 0.8425,
-        "posicion": 12
-      },
-      {
-        "entidad": "BLH",
-        "tipo_entidad": "BM",
-        "valor": 28509826171.87,
-        "share_pct": 0.82,
-        "posicion": 13
-      },
-      {
-        "entidad": "VIMENCA",
-        "tipo_entidad": "BM",
-        "valor": 24017888237.64,
-        "share_pct": 0.6908,
-        "posicion": 14
-      },
-      {
-        "entidad": "LAFISE",
-        "tipo_entidad": "BM",
-        "valor": 19020231064.05,
-        "share_pct": 0.547,
-        "posicion": 15
-      },
-      {
-        "entidad": "ADEMI",
-        "tipo_entidad": "BM",
-        "valor": 17168113947.04,
-        "share_pct": 0.4938,
-        "posicion": 16
-      },
-      {
-        "entidad": "CITIBANK",
-        "tipo_entidad": "BM",
-        "valor": 16734120321.55,
-        "share_pct": 0.4813,
-        "posicion": 17
-      },
-      {
-        "entidad": "BANFONDESA",
-        "tipo_entidad": "BAyC",
-        "valor": 14724205625.02,
-        "share_pct": 0.4235,
-        "posicion": 18
-      },
-      {
-        "entidad": "ALAVER",
-        "tipo_entidad": "AAyP",
-        "valor": 13494035095.82,
-        "share_pct": 0.3881,
-        "posicion": 19
-      },
-      {
-        "entidad": "MOTOR CREDITO",
-        "tipo_entidad": "BAyC",
-        "valor": 13001703541.4,
-        "share_pct": 0.3739,
-        "posicion": 20
-      },
-      {
-        "entidad": "QIK BANCO DIGITAL",
-        "tipo_entidad": "BM",
-        "valor": 12220474220.82,
-        "share_pct": 0.3515,
-        "posicion": 21
-      },
-      {
-        "entidad": "JMMB",
-        "tipo_entidad": "BM",
-        "valor": 10566141029.91,
-        "share_pct": 0.3039,
-        "posicion": 22
-      },
-      {
-        "entidad": "DUARTE",
-        "tipo_entidad": "AAyP",
-        "valor": 10513154747.0,
-        "share_pct": 0.3024,
-        "posicion": 23
-      },
-      {
-        "entidad": "ADOPEM",
-        "tipo_entidad": "BAyC",
-        "valor": 9410023341.02,
-        "share_pct": 0.2706,
-        "posicion": 24
-      },
-      {
-        "entidad": "MOCANA",
-        "tipo_entidad": "AAyP",
-        "valor": 7578928193.0,
-        "share_pct": 0.218,
-        "posicion": 25
-      },
-      {
-        "entidad": "UNION",
-        "tipo_entidad": "BAyC",
-        "valor": 7008120586.0,
-        "share_pct": 0.2016,
-        "posicion": 26
-      },
-      {
-        "entidad": "BONAO",
-        "tipo_entidad": "AAyP",
-        "valor": 6839338467.0,
-        "share_pct": 0.1967,
-        "posicion": 27
-      },
-      {
-        "entidad": "ROMANA",
-        "tipo_entidad": "AAyP",
-        "valor": 5283684738.95,
-        "share_pct": 0.152,
-        "posicion": 28
-      },
-      {
-        "entidad": "PERAVIA",
-        "tipo_entidad": "AAyP",
-        "valor": 4774354648.0,
-        "share_pct": 0.1373,
-        "posicion": 29
-      },
-      {
-        "entidad": "CONFISA",
-        "tipo_entidad": "BAyC",
-        "valor": 3616699225.08,
-        "share_pct": 0.104,
-        "posicion": 30
-      },
-      {
-        "entidad": "MAGUANA",
-        "tipo_entidad": "AAyP",
-        "valor": 3507161596.05,
-        "share_pct": 0.1009,
-        "posicion": 31
-      },
-      {
-        "entidad": "ATLANTICO",
-        "tipo_entidad": "BAyC",
-        "valor": 3507108759.0,
-        "share_pct": 0.1009,
-        "posicion": 32
-      },
-      {
-        "entidad": "FIHOGAR",
-        "tipo_entidad": "BAyC",
-        "valor": 3067617576.0,
-        "share_pct": 0.0882,
-        "posicion": 33
-      },
-      {
-        "entidad": "BANCOTUI",
-        "tipo_entidad": "BAyC",
-        "valor": 2115106582.0,
-        "share_pct": 0.0608,
-        "posicion": 34
-      },
-      {
-        "entidad": "BANCO BACC",
-        "tipo_entidad": "BAyC",
-        "valor": 1801141548.0,
-        "share_pct": 0.0518,
-        "posicion": 35
-      },
-      {
-        "entidad": "LEASCONFISA",
-        "tipo_entidad": "BAyC",
-        "valor": 1727444040.39,
-        "share_pct": 0.0497,
-        "posicion": 36
-      },
-      {
-        "entidad": "GRUFICORP",
-        "tipo_entidad": "BAyC",
-        "valor": 1270361791.89,
-        "share_pct": 0.0365,
-        "posicion": 37
-      },
-      {
-        "entidad": "OPTIMA",
-        "tipo_entidad": "BAyC",
-        "valor": 805807225.43,
-        "share_pct": 0.0232,
-        "posicion": 38
-      },
-      {
-        "entidad": "BONANZA",
-        "tipo_entidad": "BAyC",
-        "valor": 728340497.29,
-        "share_pct": 0.0209,
-        "posicion": 39
-      },
-      {
-        "entidad": "COFACI",
-        "tipo_entidad": "BAyC",
-        "valor": 621712004.83,
-        "share_pct": 0.0179,
-        "posicion": 40
-      },
-      {
-        "entidad": "ACTIVO",
-        "tipo_entidad": "BM",
-        "valor": 0.0,
-        "share_pct": 0.0,
-        "posicion": 41
-      },
-      {
-        "entidad": "BELLBANK",
-        "tipo_entidad": "BM",
-        "valor": 0.0,
-        "share_pct": 0.0,
-        "posicion": 42
-      },
-      {
-        "entidad": "EMPIRE",
-        "tipo_entidad": "BAyC",
-        "valor": 0.0,
-        "share_pct": 0.0,
-        "posicion": 43
-      }
-    ],
     "2026-08": [
       {
         "entidad": "BANRESERVAS",
@@ -2587,6 +1964,309 @@
         "share_pct": 0.0,
         "posicion": 43
       }
+    ],
+    "2026-09": [
+      {
+        "entidad": "BANRESERVAS",
+        "tipo_entidad": "BM",
+        "valor": 1308908770209.99,
+        "share_pct": 36.5168,
+        "posicion": 1
+      },
+      {
+        "entidad": "POPULAR",
+        "tipo_entidad": "BM",
+        "valor": 744965484206.0,
+        "share_pct": 20.7836,
+        "posicion": 2
+      },
+      {
+        "entidad": "BHD",
+        "tipo_entidad": "BM",
+        "valor": 521330911296.0,
+        "share_pct": 14.5445,
+        "posicion": 3
+      },
+      {
+        "entidad": "SANTA CRUZ",
+        "tipo_entidad": "BM",
+        "valor": 149206321127.21,
+        "share_pct": 4.1627,
+        "posicion": 4
+      },
+      {
+        "entidad": "APAP",
+        "tipo_entidad": "AAyP",
+        "valor": 142428575520.06,
+        "share_pct": 3.9736,
+        "posicion": 5
+      },
+      {
+        "entidad": "SCOTIABANK",
+        "tipo_entidad": "BM",
+        "valor": 142134756615.0,
+        "share_pct": 3.9654,
+        "posicion": 6
+      },
+      {
+        "entidad": "CIBAO",
+        "tipo_entidad": "AAyP",
+        "valor": 91426018866.0,
+        "share_pct": 2.5507,
+        "posicion": 7
+      },
+      {
+        "entidad": "PROMERICA",
+        "tipo_entidad": "BM",
+        "valor": 64374680545.38,
+        "share_pct": 1.796,
+        "posicion": 8
+      },
+      {
+        "entidad": "CARIBE",
+        "tipo_entidad": "BM",
+        "valor": 49887905425.28,
+        "share_pct": 1.3918,
+        "posicion": 9
+      },
+      {
+        "entidad": "BANESCO",
+        "tipo_entidad": "BM",
+        "valor": 41448698396.38,
+        "share_pct": 1.1564,
+        "posicion": 10
+      },
+      {
+        "entidad": "LA NACIONAL",
+        "tipo_entidad": "AAyP",
+        "valor": 40684400528.0,
+        "share_pct": 1.135,
+        "posicion": 11
+      },
+      {
+        "entidad": "BDI",
+        "tipo_entidad": "BM",
+        "valor": 31682707026.0,
+        "share_pct": 0.8839,
+        "posicion": 12
+      },
+      {
+        "entidad": "BLH",
+        "tipo_entidad": "BM",
+        "valor": 29874170681.46,
+        "share_pct": 0.8335,
+        "posicion": 13
+      },
+      {
+        "entidad": "VIMENCA",
+        "tipo_entidad": "BM",
+        "valor": 24375915635.49,
+        "share_pct": 0.6801,
+        "posicion": 14
+      },
+      {
+        "entidad": "LAFISE",
+        "tipo_entidad": "BM",
+        "valor": 24337535194.22,
+        "share_pct": 0.679,
+        "posicion": 15
+      },
+      {
+        "entidad": "CITIBANK",
+        "tipo_entidad": "BM",
+        "valor": 18095924826.11,
+        "share_pct": 0.5049,
+        "posicion": 16
+      },
+      {
+        "entidad": "ADEMI",
+        "tipo_entidad": "BM",
+        "valor": 16984694009.07,
+        "share_pct": 0.4739,
+        "posicion": 17
+      },
+      {
+        "entidad": "BANFONDESA",
+        "tipo_entidad": "BAyC",
+        "valor": 15107064834.66,
+        "share_pct": 0.4215,
+        "posicion": 18
+      },
+      {
+        "entidad": "ALAVER",
+        "tipo_entidad": "AAyP",
+        "valor": 14723781655.2,
+        "share_pct": 0.4108,
+        "posicion": 19
+      },
+      {
+        "entidad": "MOTOR CREDITO",
+        "tipo_entidad": "BAyC",
+        "valor": 13471684188.64,
+        "share_pct": 0.3758,
+        "posicion": 20
+      },
+      {
+        "entidad": "QIK BANCO DIGITAL",
+        "tipo_entidad": "BM",
+        "valor": 13275733652.6,
+        "share_pct": 0.3704,
+        "posicion": 21
+      },
+      {
+        "entidad": "JMMB",
+        "tipo_entidad": "BM",
+        "valor": 10903162183.92,
+        "share_pct": 0.3042,
+        "posicion": 22
+      },
+      {
+        "entidad": "DUARTE",
+        "tipo_entidad": "AAyP",
+        "valor": 10796598749.0,
+        "share_pct": 0.3012,
+        "posicion": 23
+      },
+      {
+        "entidad": "ADOPEM",
+        "tipo_entidad": "BAyC",
+        "valor": 9496686258.04,
+        "share_pct": 0.2649,
+        "posicion": 24
+      },
+      {
+        "entidad": "MOCANA",
+        "tipo_entidad": "AAyP",
+        "valor": 7732937827.0,
+        "share_pct": 0.2157,
+        "posicion": 25
+      },
+      {
+        "entidad": "BONAO",
+        "tipo_entidad": "AAyP",
+        "valor": 7085062651.0,
+        "share_pct": 0.1977,
+        "posicion": 26
+      },
+      {
+        "entidad": "UNION",
+        "tipo_entidad": "BAyC",
+        "valor": 6024812079.0,
+        "share_pct": 0.1681,
+        "posicion": 27
+      },
+      {
+        "entidad": "ROMANA",
+        "tipo_entidad": "AAyP",
+        "valor": 5377435364.28,
+        "share_pct": 0.15,
+        "posicion": 28
+      },
+      {
+        "entidad": "PERAVIA",
+        "tipo_entidad": "AAyP",
+        "valor": 4737421887.0,
+        "share_pct": 0.1322,
+        "posicion": 29
+      },
+      {
+        "entidad": "CONFISA",
+        "tipo_entidad": "BAyC",
+        "valor": 3701788140.02,
+        "share_pct": 0.1033,
+        "posicion": 30
+      },
+      {
+        "entidad": "MAGUANA",
+        "tipo_entidad": "AAyP",
+        "valor": 3635579254.96,
+        "share_pct": 0.1014,
+        "posicion": 31
+      },
+      {
+        "entidad": "ATLANTICO",
+        "tipo_entidad": "BAyC",
+        "valor": 3633722382.0,
+        "share_pct": 0.1014,
+        "posicion": 32
+      },
+      {
+        "entidad": "FIHOGAR",
+        "tipo_entidad": "BAyC",
+        "valor": 3083573047.0,
+        "share_pct": 0.086,
+        "posicion": 33
+      },
+      {
+        "entidad": "BANCOTUI",
+        "tipo_entidad": "BAyC",
+        "valor": 2150441437.99,
+        "share_pct": 0.06,
+        "posicion": 34
+      },
+      {
+        "entidad": "BANCO BACC",
+        "tipo_entidad": "BAyC",
+        "valor": 1970676726.0,
+        "share_pct": 0.055,
+        "posicion": 35
+      },
+      {
+        "entidad": "LEASCONFISA",
+        "tipo_entidad": "BAyC",
+        "valor": 1744636675.34,
+        "share_pct": 0.0487,
+        "posicion": 36
+      },
+      {
+        "entidad": "GRUFICORP",
+        "tipo_entidad": "BAyC",
+        "valor": 1282026242.79,
+        "share_pct": 0.0358,
+        "posicion": 37
+      },
+      {
+        "entidad": "OPTIMA",
+        "tipo_entidad": "BAyC",
+        "valor": 841420590.02,
+        "share_pct": 0.0235,
+        "posicion": 38
+      },
+      {
+        "entidad": "BONANZA",
+        "tipo_entidad": "BAyC",
+        "valor": 824268090.75,
+        "share_pct": 0.023,
+        "posicion": 39
+      },
+      {
+        "entidad": "COFACI",
+        "tipo_entidad": "BAyC",
+        "valor": 649037403.25,
+        "share_pct": 0.0181,
+        "posicion": 40
+      },
+      {
+        "entidad": "ACTIVO",
+        "tipo_entidad": "BM",
+        "valor": 0.0,
+        "share_pct": 0.0,
+        "posicion": 41
+      },
+      {
+        "entidad": "BELLBANK",
+        "tipo_entidad": "BM",
+        "valor": 0.0,
+        "share_pct": 0.0,
+        "posicion": 42
+      },
+      {
+        "entidad": "EMPIRE",
+        "tipo_entidad": "BAyC",
+        "valor": 0.0,
+        "share_pct": 0.0,
+        "posicion": 43
+      }
     ]
   },
   "entidades": {
@@ -2620,17 +2300,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -2662,17 +2337,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -2704,17 +2374,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -2746,17 +2411,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -2793,19 +2453,14 @@
             "share_pct": 0.4884
           },
           {
-            "periodo": "2026-06",
-            "valor": 17024417699.98,
-            "share_pct": 0.4874
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 17168113947.04,
-            "share_pct": 0.4938
-          },
-          {
             "periodo": "2026-08",
             "valor": 17241610419.55,
             "share_pct": 0.4902
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 16984694009.07,
+            "share_pct": 0.4739
           }
         ],
         "ahorros": [
@@ -2835,19 +2490,14 @@
             "share_pct": 0.3867
           },
           {
-            "periodo": "2026-06",
-            "valor": 5204801577.12,
-            "share_pct": 0.4345
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5014593145.3,
-            "share_pct": 0.4253
-          },
-          {
             "periodo": "2026-08",
             "valor": 4807159537.18,
             "share_pct": 0.4017
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 4598873435.22,
+            "share_pct": 0.3848
           }
         ],
         "corrientes": [
@@ -2877,19 +2527,14 @@
             "share_pct": 0.1053
           },
           {
-            "periodo": "2026-06",
-            "valor": 457432085.97,
-            "share_pct": 0.0756
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 672668751.38,
-            "share_pct": 0.1094
-          },
-          {
             "periodo": "2026-08",
             "valor": 601242398.66,
             "share_pct": 0.1015
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 406042983.32,
+            "share_pct": 0.0592
           }
         ],
         "depositos": [
@@ -2919,19 +2564,14 @@
             "share_pct": 0.7038
           },
           {
-            "periodo": "2026-06",
-            "valor": 11362184036.89,
-            "share_pct": 0.6723
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 11480852050.36,
-            "share_pct": 0.6822
-          },
-          {
             "periodo": "2026-08",
             "valor": 11833208483.71,
             "share_pct": 0.6846
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 11979777590.53,
+            "share_pct": 0.7034
           }
         ]
       }
@@ -2966,19 +2606,14 @@
             "share_pct": 1.0966
           },
           {
-            "periodo": "2026-06",
-            "valor": 42617237386.63,
-            "share_pct": 1.2202
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 37617879251.07,
-            "share_pct": 1.0819
-          },
-          {
             "periodo": "2026-08",
             "valor": 40325942897.23,
             "share_pct": 1.1464
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 41448698396.38,
+            "share_pct": 1.1564
           }
         ],
         "ahorros": [
@@ -3008,19 +2643,14 @@
             "share_pct": 1.0365
           },
           {
-            "periodo": "2026-06",
-            "valor": 20951566018.32,
-            "share_pct": 1.7491
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 16437570367.43,
-            "share_pct": 1.3943
-          },
-          {
             "periodo": "2026-08",
             "valor": 16703023797.4,
             "share_pct": 1.3959
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 15947159878.77,
+            "share_pct": 1.3345
           }
         ],
         "corrientes": [
@@ -3050,19 +2680,14 @@
             "share_pct": 0.5977
           },
           {
-            "periodo": "2026-06",
-            "valor": 2352087887.49,
-            "share_pct": 0.3889
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2148303272.35,
-            "share_pct": 0.3493
-          },
-          {
             "periodo": "2026-08",
             "valor": 2336943130.59,
             "share_pct": 0.3945
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2981740158.66,
+            "share_pct": 0.4344
           }
         ],
         "depositos": [
@@ -3092,19 +2717,14 @@
             "share_pct": 1.3214
           },
           {
-            "periodo": "2026-06",
-            "valor": 19313583480.82,
-            "share_pct": 1.1428
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 19032005611.29,
-            "share_pct": 1.1309
-          },
-          {
             "periodo": "2026-08",
             "valor": 21285975969.24,
             "share_pct": 1.2315
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 22519798358.95,
+            "share_pct": 1.3223
           }
         ]
       }
@@ -3139,19 +2759,14 @@
             "share_pct": 32.8729
           },
           {
-            "periodo": "2026-06",
-            "valor": 1239165027745.94,
-            "share_pct": 35.4791
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1259077955379.99,
-            "share_pct": 36.2128
-          },
-          {
             "periodo": "2026-08",
             "valor": 1261096948974.99,
             "share_pct": 35.852
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1308908770209.99,
+            "share_pct": 36.5168
           }
         ],
         "ahorros": [
@@ -3181,19 +2796,14 @@
             "share_pct": 32.9651
           },
           {
-            "periodo": "2026-06",
-            "valor": 385366456906.44,
-            "share_pct": 32.1713
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 378632333640.69,
-            "share_pct": 32.116
-          },
-          {
             "periodo": "2026-08",
             "valor": 382786384146.56,
             "share_pct": 31.9894
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 382234029289.29,
+            "share_pct": 31.9863
           }
         ],
         "corrientes": [
@@ -3223,19 +2833,14 @@
             "share_pct": 36.4632
           },
           {
-            "periodo": "2026-06",
-            "valor": 280397249775.36,
-            "share_pct": 46.367
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 296771796870.93,
-            "share_pct": 48.2585
-          },
-          {
             "periodo": "2026-08",
             "valor": 259381968505.71,
             "share_pct": 43.7856
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 346036944309.02,
+            "share_pct": 50.414
           }
         ],
         "depositos": [
@@ -3265,19 +2870,14 @@
             "share_pct": 31.517
           },
           {
-            "periodo": "2026-06",
-            "valor": 573401321064.14,
-            "share_pct": 33.9276
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 583673824868.37,
-            "share_pct": 34.6812
-          },
-          {
             "periodo": "2026-08",
             "valor": 618928596322.72,
             "share_pct": 35.807
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 580637796611.68,
+            "share_pct": 34.0947
           }
         ]
       }
@@ -3312,19 +2912,14 @@
             "share_pct": 0.9479
           },
           {
-            "periodo": "2026-06",
-            "valor": 27617944163.68,
-            "share_pct": 0.7907
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 29293363474.31,
-            "share_pct": 0.8425
-          },
-          {
             "periodo": "2026-08",
             "valor": 30744479446.64,
             "share_pct": 0.874
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 31682707026.0,
+            "share_pct": 0.8839
           }
         ],
         "ahorros": [
@@ -3354,19 +2949,14 @@
             "share_pct": 0.7721
           },
           {
-            "periodo": "2026-06",
-            "valor": 8618164252.71,
-            "share_pct": 0.7195
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 8560455481.68,
-            "share_pct": 0.7261
-          },
-          {
             "periodo": "2026-08",
             "valor": 9062789616.67,
             "share_pct": 0.7574
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 9290429466.61,
+            "share_pct": 0.7774
           }
         ],
         "corrientes": [
@@ -3396,19 +2986,14 @@
             "share_pct": 0.3201
           },
           {
-            "periodo": "2026-06",
-            "valor": 1575844144.29,
-            "share_pct": 0.2606
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1804757846.29,
-            "share_pct": 0.2935
-          },
-          {
             "periodo": "2026-08",
             "valor": 1769823948.03,
             "share_pct": 0.2988
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2207349389.39,
+            "share_pct": 0.3216
           }
         ],
         "depositos": [
@@ -3438,19 +3023,14 @@
             "share_pct": 1.308
           },
           {
-            "periodo": "2026-06",
-            "valor": 17423935766.68,
-            "share_pct": 1.031
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 18928150146.34,
-            "share_pct": 1.1247
-          },
-          {
             "periodo": "2026-08",
             "valor": 19911865881.94,
             "share_pct": 1.152
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 20184928170.0,
+            "share_pct": 1.1852
           }
         ]
       }
@@ -3485,17 +3065,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -3527,17 +3102,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -3569,17 +3139,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -3611,17 +3176,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -3658,19 +3218,14 @@
             "share_pct": 15.8671
           },
           {
-            "periodo": "2026-06",
-            "valor": 520276246929.0,
-            "share_pct": 14.8963
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 514261132687.0,
-            "share_pct": 14.7909
-          },
-          {
             "periodo": "2026-08",
             "valor": 523596820353.0,
             "share_pct": 14.8854
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 521330911296.0,
+            "share_pct": 14.5445
           }
         ],
         "ahorros": [
@@ -3700,19 +3255,14 @@
             "share_pct": 16.3231
           },
           {
-            "periodo": "2026-06",
-            "valor": 197168956509.55,
-            "share_pct": 16.4601
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 199155143370.66,
-            "share_pct": 16.8925
-          },
-          {
             "periodo": "2026-08",
             "valor": 199937395304.4,
             "share_pct": 16.7087
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 200428431455.93,
+            "share_pct": 16.7724
           }
         ],
         "corrientes": [
@@ -3742,19 +3292,14 @@
             "share_pct": 16.8695
           },
           {
-            "periodo": "2026-06",
-            "valor": 80077785193.21,
-            "share_pct": 13.2418
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 80356616412.47,
-            "share_pct": 13.0669
-          },
-          {
             "periodo": "2026-08",
             "valor": 90056695932.48,
             "share_pct": 15.2023
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 84158301521.28,
+            "share_pct": 12.261
           }
         ],
         "depositos": [
@@ -3784,19 +3329,14 @@
             "share_pct": 15.1574
           },
           {
-            "periodo": "2026-06",
-            "valor": 243029505226.24,
-            "share_pct": 14.3798
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 234749372903.87,
-            "share_pct": 13.9485
-          },
-          {
             "periodo": "2026-08",
             "valor": 233602729116.12,
             "share_pct": 13.5147
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 236744178318.79,
+            "share_pct": 13.9015
           }
         ]
       }
@@ -3831,19 +3371,14 @@
             "share_pct": 0.9011
           },
           {
-            "periodo": "2026-06",
-            "valor": 28646424214.69,
-            "share_pct": 0.8202
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 28509826171.87,
-            "share_pct": 0.82
-          },
-          {
             "periodo": "2026-08",
             "valor": 29368121558.93,
             "share_pct": 0.8349
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 29874170681.46,
+            "share_pct": 0.8335
           }
         ],
         "ahorros": [
@@ -3873,19 +3408,14 @@
             "share_pct": 0.8913
           },
           {
-            "periodo": "2026-06",
-            "valor": 11728848400.45,
-            "share_pct": 0.9792
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 11502550445.91,
-            "share_pct": 0.9757
-          },
-          {
             "periodo": "2026-08",
             "valor": 11887878726.55,
             "share_pct": 0.9935
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 11896954782.56,
+            "share_pct": 0.9956
           }
         ],
         "corrientes": [
@@ -3915,19 +3445,14 @@
             "share_pct": 0.3992
           },
           {
-            "periodo": "2026-06",
-            "valor": 1646501309.53,
-            "share_pct": 0.2723
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1611645572.81,
-            "share_pct": 0.2621
-          },
-          {
             "periodo": "2026-08",
             "valor": 1698350593.13,
             "share_pct": 0.2867
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1705689991.19,
+            "share_pct": 0.2485
           }
         ],
         "depositos": [
@@ -3957,19 +3482,14 @@
             "share_pct": 1.0882
           },
           {
-            "periodo": "2026-06",
-            "valor": 15271074504.71,
-            "share_pct": 0.9036
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 15395630153.15,
-            "share_pct": 0.9148
-          },
-          {
             "periodo": "2026-08",
             "valor": 15781892239.25,
             "share_pct": 0.913
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 16271525907.71,
+            "share_pct": 0.9555
           }
         ]
       }
@@ -4004,19 +3524,14 @@
             "share_pct": 1.5075
           },
           {
-            "periodo": "2026-06",
-            "valor": 49833626234.65,
-            "share_pct": 1.4268
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 51312988074.12,
-            "share_pct": 1.4758
-          },
-          {
             "periodo": "2026-08",
             "valor": 49986121527.08,
             "share_pct": 1.4211
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 49887905425.28,
+            "share_pct": 1.3918
           }
         ],
         "ahorros": [
@@ -4046,19 +3561,14 @@
             "share_pct": 0.9524
           },
           {
-            "periodo": "2026-06",
-            "valor": 8005465877.01,
-            "share_pct": 0.6683
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 9998083218.7,
-            "share_pct": 0.848
-          },
-          {
             "periodo": "2026-08",
             "valor": 8398742637.12,
             "share_pct": 0.7019
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 10137900918.57,
+            "share_pct": 0.8484
           }
         ],
         "corrientes": [
@@ -4088,19 +3598,14 @@
             "share_pct": 0.5602
           },
           {
-            "periodo": "2026-06",
-            "valor": 2928145247.28,
-            "share_pct": 0.4842
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2579717483.26,
-            "share_pct": 0.4195
-          },
-          {
             "periodo": "2026-08",
             "valor": 2788420674.92,
             "share_pct": 0.4707
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2814629861.38,
+            "share_pct": 0.4101
           }
         ],
         "depositos": [
@@ -4130,19 +3635,14 @@
             "share_pct": 2.2739
           },
           {
-            "periodo": "2026-06",
-            "valor": 38900015110.36,
-            "share_pct": 2.3017
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 38735187372.16,
-            "share_pct": 2.3016
-          },
-          {
             "periodo": "2026-08",
             "valor": 38798958215.04,
             "share_pct": 2.2446
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 36935374645.33,
+            "share_pct": 2.1688
           }
         ]
       }
@@ -4177,19 +3677,14 @@
             "share_pct": 0.6193
           },
           {
-            "periodo": "2026-06",
-            "valor": 19527635043.78,
-            "share_pct": 0.5591
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 16734120321.55,
-            "share_pct": 0.4813
-          },
-          {
             "periodo": "2026-08",
             "valor": 17015891372.29,
             "share_pct": 0.4837
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 18095924826.11,
+            "share_pct": 0.5049
           }
         ],
         "ahorros": [
@@ -4219,19 +3714,14 @@
             "share_pct": 0.06
           },
           {
-            "periodo": "2026-06",
-            "valor": 590801418.67,
-            "share_pct": 0.0493
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 567707703.41,
-            "share_pct": 0.0482
-          },
-          {
             "periodo": "2026-08",
             "valor": 532953832.9,
             "share_pct": 0.0445
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 491993240.76,
+            "share_pct": 0.0412
           }
         ],
         "corrientes": [
@@ -4261,19 +3751,14 @@
             "share_pct": 3.5529
           },
           {
-            "periodo": "2026-06",
-            "valor": 18936535711.95,
-            "share_pct": 3.1314
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 16166120403.29,
-            "share_pct": 2.6288
-          },
-          {
             "periodo": "2026-08",
             "valor": 16482643201.28,
             "share_pct": 2.7824
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 17225476811.1,
+            "share_pct": 2.5096
           }
         ],
         "depositos": [
@@ -4303,19 +3788,14 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 297913.16,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 292214.85,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
             "valor": 294338.11,
             "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 378454774.25,
+            "share_pct": 0.0222
           }
         ]
       }
@@ -4350,19 +3830,14 @@
             "share_pct": 0.5337
           },
           {
-            "periodo": "2026-06",
-            "valor": 18850095702.29,
-            "share_pct": 0.5397
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 19020231064.05,
-            "share_pct": 0.547
-          },
-          {
             "periodo": "2026-08",
             "valor": 21873171197.82,
             "share_pct": 0.6218
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 24337535194.22,
+            "share_pct": 0.679
           }
         ],
         "ahorros": [
@@ -4392,19 +3867,14 @@
             "share_pct": 0.4531
           },
           {
-            "periodo": "2026-06",
-            "valor": 4830814853.3,
-            "share_pct": 0.4033
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5877758864.99,
-            "share_pct": 0.4986
-          },
-          {
             "periodo": "2026-08",
             "valor": 7863692352.41,
             "share_pct": 0.6572
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 7772056197.72,
+            "share_pct": 0.6504
           }
         ],
         "corrientes": [
@@ -4434,19 +3904,14 @@
             "share_pct": 0.481
           },
           {
-            "periodo": "2026-06",
-            "valor": 3309189322.09,
-            "share_pct": 0.5472
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2894710697.44,
-            "share_pct": 0.4707
-          },
-          {
             "periodo": "2026-08",
             "valor": 3238673358.03,
             "share_pct": 0.5467
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 4769430373.16,
+            "share_pct": 0.6949
           }
         ],
         "depositos": [
@@ -4476,19 +3941,14 @@
             "share_pct": 0.6146
           },
           {
-            "periodo": "2026-06",
-            "valor": 10710091526.9,
-            "share_pct": 0.6337
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 10247761501.62,
-            "share_pct": 0.6089
-          },
-          {
             "periodo": "2026-08",
             "valor": 10770805487.38,
             "share_pct": 0.6231
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 11796048623.34,
+            "share_pct": 0.6927
           }
         ]
       }
@@ -4523,19 +3983,14 @@
             "share_pct": 22.1086
           },
           {
-            "periodo": "2026-06",
-            "valor": 754600230655.0,
-            "share_pct": 21.6053
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 731139218297.0,
-            "share_pct": 21.0286
-          },
-          {
             "periodo": "2026-08",
             "valor": 747050240429.0,
             "share_pct": 21.2381
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 744965484206.0,
+            "share_pct": 20.7836
           }
         ],
         "ahorros": [
@@ -4565,19 +4020,14 @@
             "share_pct": 25.3817
           },
           {
-            "periodo": "2026-06",
-            "valor": 302749546297.0,
-            "share_pct": 25.2743
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 294503509748.0,
-            "share_pct": 24.9801
-          },
-          {
             "periodo": "2026-08",
             "valor": 304843803834.0,
             "share_pct": 25.4757
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 296393846004.0,
+            "share_pct": 24.803
           }
         ],
         "corrientes": [
@@ -4607,19 +4057,14 @@
             "share_pct": 31.2718
           },
           {
-            "periodo": "2026-06",
-            "valor": 168107622186.0,
-            "share_pct": 27.7986
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 164846667024.0,
-            "share_pct": 26.8059
-          },
-          {
             "periodo": "2026-08",
             "valor": 169161727578.0,
             "share_pct": 28.5558
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 174770695723.0,
+            "share_pct": 25.4623
           }
         ],
         "depositos": [
@@ -4649,19 +4094,14 @@
             "share_pct": 16.3091
           },
           {
-            "periodo": "2026-06",
-            "valor": 283743062172.0,
-            "share_pct": 16.7888
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 271789041525.0,
-            "share_pct": 16.1494
-          },
-          {
             "periodo": "2026-08",
             "valor": 273044709017.0,
             "share_pct": 15.7965
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 273800942479.0,
+            "share_pct": 16.0774
           }
         ]
       }
@@ -4696,19 +4136,14 @@
             "share_pct": 1.8785
           },
           {
-            "periodo": "2026-06",
-            "valor": 59922429698.92,
-            "share_pct": 1.7157
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 59737131194.8,
-            "share_pct": 1.7181
-          },
-          {
             "periodo": "2026-08",
             "valor": 60675742605.78,
             "share_pct": 1.725
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 64374680545.38,
+            "share_pct": 1.796
           }
         ],
         "ahorros": [
@@ -4738,19 +4173,14 @@
             "share_pct": 1.2551
           },
           {
-            "periodo": "2026-06",
-            "valor": 15514258873.31,
-            "share_pct": 1.2952
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 14425013568.72,
-            "share_pct": 1.2235
-          },
-          {
             "periodo": "2026-08",
             "valor": 14445544751.8,
             "share_pct": 1.2072
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 16824046883.35,
+            "share_pct": 1.4079
           }
         ],
         "corrientes": [
@@ -4780,19 +4210,14 @@
             "share_pct": 1.4897
           },
           {
-            "periodo": "2026-06",
-            "valor": 6874135777.0,
-            "share_pct": 1.1367
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 7335472445.36,
-            "share_pct": 1.1928
-          },
-          {
             "periodo": "2026-08",
             "valor": 6706503603.95,
             "share_pct": 1.1321
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 7274530606.73,
+            "share_pct": 1.0598
           }
         ],
         "depositos": [
@@ -4822,19 +4247,14 @@
             "share_pct": 2.4976
           },
           {
-            "periodo": "2026-06",
-            "valor": 37534035048.61,
-            "share_pct": 2.2209
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 37976645180.72,
-            "share_pct": 2.2565
-          },
-          {
             "periodo": "2026-08",
             "valor": 39523694250.03,
             "share_pct": 2.2866
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 40276103055.3,
+            "share_pct": 2.365
           }
         ]
       }
@@ -4869,19 +4289,14 @@
             "share_pct": 4.3162
           },
           {
-            "periodo": "2026-06",
-            "valor": 149175691275.85,
-            "share_pct": 4.2711
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 148844649667.7,
-            "share_pct": 4.281
-          },
-          {
             "periodo": "2026-08",
             "valor": 148824877040.13,
             "share_pct": 4.231
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 149206321127.21,
+            "share_pct": 4.1627
           }
         ],
         "ahorros": [
@@ -4911,19 +4326,14 @@
             "share_pct": 3.969
           },
           {
-            "periodo": "2026-06",
-            "valor": 53534302252.65,
-            "share_pct": 4.4692
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 52037711172.33,
-            "share_pct": 4.4139
-          },
-          {
             "periodo": "2026-08",
             "valor": 51661124758.14,
             "share_pct": 4.3173
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 52739751749.31,
+            "share_pct": 4.4134
           }
         ],
         "corrientes": [
@@ -4953,19 +4363,14 @@
             "share_pct": 2.6153
           },
           {
-            "periodo": "2026-06",
-            "valor": 13370336879.61,
-            "share_pct": 2.2109
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 12670078940.61,
-            "share_pct": 2.0603
-          },
-          {
             "periodo": "2026-08",
             "valor": 12276369816.92,
             "share_pct": 2.0723
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 14094887898.14,
+            "share_pct": 2.0535
           }
         ],
         "depositos": [
@@ -4995,19 +4400,14 @@
             "share_pct": 5.1922
           },
           {
-            "periodo": "2026-06",
-            "valor": 82271052143.59,
-            "share_pct": 4.8679
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 84136859554.76,
-            "share_pct": 4.9993
-          },
-          {
             "periodo": "2026-08",
             "valor": 84887382465.07,
             "share_pct": 4.911
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 82371681479.76,
+            "share_pct": 4.8368
           }
         ]
       }
@@ -5042,19 +4442,14 @@
             "share_pct": 4.4351
           },
           {
-            "periodo": "2026-06",
-            "valor": 137402533417.0,
-            "share_pct": 3.934
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 137872564197.0,
-            "share_pct": 3.9654
-          },
-          {
             "periodo": "2026-08",
             "valor": 138130358763.0,
             "share_pct": 3.9269
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 142134756615.0,
+            "share_pct": 3.9654
           }
         ],
         "ahorros": [
@@ -5084,19 +4479,14 @@
             "share_pct": 4.84
           },
           {
-            "periodo": "2026-06",
-            "valor": 55793049048.38,
-            "share_pct": 4.6577
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 56290224662.08,
-            "share_pct": 4.7746
-          },
-          {
             "periodo": "2026-08",
             "valor": 56018478168.84,
             "share_pct": 4.6815
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 55335618495.53,
+            "share_pct": 4.6306
           }
         ],
         "corrientes": [
@@ -5126,19 +4516,14 @@
             "share_pct": 4.6617
           },
           {
-            "periodo": "2026-06",
-            "valor": 21148958493.45,
-            "share_pct": 3.4972
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 21673054188.25,
-            "share_pct": 3.5243
-          },
-          {
             "periodo": "2026-08",
             "valor": 22074356780.74,
             "share_pct": 3.7263
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 24396739595.12,
+            "share_pct": 3.5544
           }
         ],
         "depositos": [
@@ -5168,19 +4553,14 @@
             "share_pct": 4.0422
           },
           {
-            "periodo": "2026-06",
-            "valor": 60460525875.17,
-            "share_pct": 3.5774
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 59909285346.67,
-            "share_pct": 3.5597
-          },
-          {
             "periodo": "2026-08",
             "valor": 60037523813.42,
             "share_pct": 3.4734
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 62402398524.35,
+            "share_pct": 3.6642
           }
         ]
       }
@@ -5215,18 +4595,13 @@
             "share_pct": 100.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 3492663109581.6,
-            "share_pct": 100.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3476885822142.13,
-            "share_pct": 100.0
-          },
-          {
             "periodo": "2026-08",
             "valor": 3517507877440.76,
+            "share_pct": 100.0
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3584397021428.11,
             "share_pct": 100.0
           }
         ],
@@ -5257,18 +4632,13 @@
             "share_pct": 100.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 1197857115930.35,
-            "share_pct": 100.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1178953002050.27,
-            "share_pct": 100.0
-          },
-          {
             "periodo": "2026-08",
             "valor": 1196604638025.05,
+            "share_pct": 100.0
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1194992329491.98,
             "share_pct": 100.0
           }
         ],
@@ -5299,18 +4669,13 @@
             "share_pct": 100.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 604734009764.3,
-            "share_pct": 100.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 614963243808.87,
-            "share_pct": 100.0
-          },
-          {
             "periodo": "2026-08",
             "valor": 592390470282.2,
+            "share_pct": 100.0
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 686390198131.14,
             "share_pct": 100.0
           }
         ],
@@ -5341,18 +4706,13 @@
             "share_pct": 100.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 1690071983886.95,
-            "share_pct": 100.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1682969576282.99,
-            "share_pct": 100.0
-          },
-          {
             "periodo": "2026-08",
             "valor": 1728512769133.51,
+            "share_pct": 100.0
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1703014493804.99,
             "share_pct": 100.0
           }
         ]
@@ -5388,19 +4748,14 @@
             "share_pct": 0.6938
           },
           {
-            "periodo": "2026-06",
-            "valor": 25573430809.45,
-            "share_pct": 0.7322
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 24017888237.64,
-            "share_pct": 0.6908
-          },
-          {
             "periodo": "2026-08",
             "valor": 23837071526.75,
             "share_pct": 0.6777
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 24375915635.49,
+            "share_pct": 0.6801
           }
         ],
         "ahorros": [
@@ -5430,19 +4785,14 @@
             "share_pct": 0.2178
           },
           {
-            "periodo": "2026-06",
-            "valor": 3216082819.09,
-            "share_pct": 0.2685
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2728084261.32,
-            "share_pct": 0.2314
-          },
-          {
             "periodo": "2026-08",
             "valor": 2936843754.96,
             "share_pct": 0.2454
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3338640406.4,
+            "share_pct": 0.2794
           }
         ],
         "corrientes": [
@@ -5472,19 +4822,14 @@
             "share_pct": 0.4982
           },
           {
-            "periodo": "2026-06",
-            "valor": 2887388101.07,
-            "share_pct": 0.4775
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2848992834.27,
-            "share_pct": 0.4633
-          },
-          {
             "periodo": "2026-08",
             "valor": 3110849943.13,
             "share_pct": 0.5251
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3041432787.57,
+            "share_pct": 0.4431
           }
         ],
         "depositos": [
@@ -5514,19 +4859,14 @@
             "share_pct": 1.1304
           },
           {
-            "periodo": "2026-06",
-            "valor": 19469959889.29,
-            "share_pct": 1.152
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 18440811142.05,
-            "share_pct": 1.0957
-          },
-          {
             "periodo": "2026-08",
             "valor": 17789377828.66,
             "share_pct": 1.0292
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 17995842441.52,
+            "share_pct": 1.0567
           }
         ]
       }
@@ -5561,19 +4901,14 @@
             "share_pct": 0.3352
           },
           {
-            "periodo": "2026-06",
-            "valor": 10902497208.11,
-            "share_pct": 0.3122
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 10566141029.91,
-            "share_pct": 0.3039
-          },
-          {
             "periodo": "2026-08",
             "valor": 10841112698.52,
             "share_pct": 0.3082
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 10903162183.92,
+            "share_pct": 0.3042
           }
         ],
         "ahorros": [
@@ -5603,19 +4938,14 @@
             "share_pct": 0.1675
           },
           {
-            "periodo": "2026-06",
-            "valor": 1869720052.44,
-            "share_pct": 0.1561
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1779803086.02,
-            "share_pct": 0.151
-          },
-          {
             "periodo": "2026-08",
             "valor": 1914347550.56,
             "share_pct": 0.16
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1954983254.34,
+            "share_pct": 0.1636
           }
         ],
         "corrientes": [
@@ -5645,19 +4975,14 @@
             "share_pct": 0.1142
           },
           {
-            "periodo": "2026-06",
-            "valor": 664797650.0,
-            "share_pct": 0.1099
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 582641066.16,
-            "share_pct": 0.0947
-          },
-          {
             "periodo": "2026-08",
             "valor": 705900816.63,
             "share_pct": 0.1192
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 506306122.08,
+            "share_pct": 0.0738
           }
         ],
         "depositos": [
@@ -5687,19 +5012,14 @@
             "share_pct": 0.5434
           },
           {
-            "periodo": "2026-06",
-            "valor": 8367979505.67,
-            "share_pct": 0.4951
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 8203696877.73,
-            "share_pct": 0.4875
-          },
-          {
             "periodo": "2026-08",
             "valor": 8220864331.33,
             "share_pct": 0.4756
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 8441872807.5,
+            "share_pct": 0.4957
           }
         ]
       }
@@ -5734,19 +5054,14 @@
             "share_pct": 0.3031
           },
           {
-            "periodo": "2026-06",
-            "valor": 12119498324.6,
-            "share_pct": 0.347
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 12220474220.82,
-            "share_pct": 0.3515
-          },
-          {
             "periodo": "2026-08",
             "valor": 12632036176.83,
             "share_pct": 0.3591
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 13275733652.6,
+            "share_pct": 0.3704
           }
         ],
         "ahorros": [
@@ -5776,19 +5091,14 @@
             "share_pct": 0.5511
           },
           {
-            "periodo": "2026-06",
-            "valor": 7192285429.45,
-            "share_pct": 0.6004
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 7015007289.54,
-            "share_pct": 0.595
-          },
-          {
             "periodo": "2026-08",
             "valor": 7135713620.42,
             "share_pct": 0.5963
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 7365297354.21,
+            "share_pct": 0.6163
           }
         ],
         "corrientes": [
@@ -5818,17 +5128,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -5860,19 +5165,14 @@
             "share_pct": 0.2206
           },
           {
-            "periodo": "2026-06",
-            "valor": 4927212895.15,
-            "share_pct": 0.2915
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5205466931.28,
-            "share_pct": 0.3093
-          },
-          {
             "periodo": "2026-08",
             "valor": 5496322556.41,
             "share_pct": 0.318
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 5910436298.39,
+            "share_pct": 0.3471
           }
         ]
       }
@@ -5907,19 +5207,14 @@
             "share_pct": 0.4215
           },
           {
-            "periodo": "2026-06",
-            "valor": 13875476579.9,
-            "share_pct": 0.3973
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 13494035095.82,
-            "share_pct": 0.3881
-          },
-          {
             "periodo": "2026-08",
             "valor": 13944873064.8,
             "share_pct": 0.3964
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 14723781655.2,
+            "share_pct": 0.4108
           }
         ],
         "ahorros": [
@@ -5949,19 +5244,14 @@
             "share_pct": 0.4582
           },
           {
-            "periodo": "2026-06",
-            "valor": 5693622940.24,
-            "share_pct": 0.4753
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5089335287.38,
-            "share_pct": 0.4317
-          },
-          {
             "periodo": "2026-08",
             "valor": 5285121567.59,
             "share_pct": 0.4417
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 5462920534.51,
+            "share_pct": 0.4572
           }
         ],
         "corrientes": [
@@ -5991,17 +5281,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -6033,19 +5318,14 @@
             "share_pct": 0.5441
           },
           {
-            "periodo": "2026-06",
-            "valor": 8181853639.66,
-            "share_pct": 0.4841
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 8404699808.44,
-            "share_pct": 0.4994
-          },
-          {
             "periodo": "2026-08",
             "valor": 8659751497.21,
             "share_pct": 0.501
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 9260861120.69,
+            "share_pct": 0.5438
           }
         ]
       }
@@ -6080,19 +5360,14 @@
             "share_pct": 3.8494
           },
           {
-            "periodo": "2026-06",
-            "valor": 134489453984.55,
-            "share_pct": 3.8506
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 134277947905.84,
-            "share_pct": 3.862
-          },
-          {
             "periodo": "2026-08",
             "valor": 138548586231.34,
             "share_pct": 3.9388
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 142428575520.06,
+            "share_pct": 3.9736
           }
         ],
         "ahorros": [
@@ -6122,19 +5397,14 @@
             "share_pct": 3.0963
           },
           {
-            "periodo": "2026-06",
-            "valor": 36778768206.03,
-            "share_pct": 3.0704
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 36032776941.16,
-            "share_pct": 3.0563
-          },
-          {
             "periodo": "2026-08",
             "valor": 37248103451.08,
             "share_pct": 3.1128
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 38703617421.16,
+            "share_pct": 3.2388
           }
         ],
         "corrientes": [
@@ -6164,17 +5434,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -6206,19 +5471,14 @@
             "share_pct": 5.8068
           },
           {
-            "periodo": "2026-06",
-            "valor": 97710685778.52,
-            "share_pct": 5.7815
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 98245170964.68,
-            "share_pct": 5.8376
-          },
-          {
             "periodo": "2026-08",
             "valor": 101300482780.26,
             "share_pct": 5.8606
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 103724958098.9,
+            "share_pct": 6.0907
           }
         ]
       }
@@ -6253,19 +5513,14 @@
             "share_pct": 0.2049
           },
           {
-            "periodo": "2026-06",
-            "valor": 6787028073.0,
-            "share_pct": 0.1943
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 6839338467.0,
-            "share_pct": 0.1967
-          },
-          {
             "periodo": "2026-08",
             "valor": 7018282847.0,
             "share_pct": 0.1995
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 7085062651.0,
+            "share_pct": 0.1977
           }
         ],
         "ahorros": [
@@ -6295,19 +5550,14 @@
             "share_pct": 0.2936
           },
           {
-            "periodo": "2026-06",
-            "valor": 3302118410.0,
-            "share_pct": 0.2757
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3348316353.0,
-            "share_pct": 0.284
-          },
-          {
             "periodo": "2026-08",
             "valor": 3447288398.0,
             "share_pct": 0.2881
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3531309053.0,
+            "share_pct": 0.2955
           }
         ],
         "corrientes": [
@@ -6337,17 +5587,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -6379,19 +5624,14 @@
             "share_pct": 0.21
           },
           {
-            "periodo": "2026-06",
-            "valor": 3484909663.0,
-            "share_pct": 0.2062
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3491022114.0,
-            "share_pct": 0.2074
-          },
-          {
             "periodo": "2026-08",
             "valor": 3570994449.0,
             "share_pct": 0.2066
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3553753598.0,
+            "share_pct": 0.2087
           }
         ]
       }
@@ -6426,19 +5666,14 @@
             "share_pct": 2.5745
           },
           {
-            "periodo": "2026-06",
-            "valor": 89698352308.0,
-            "share_pct": 2.5682
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 89854489768.81,
-            "share_pct": 2.5843
-          },
-          {
             "periodo": "2026-08",
             "valor": 89924158166.0,
             "share_pct": 2.5565
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 91426018866.0,
+            "share_pct": 2.5507
           }
         ],
         "ahorros": [
@@ -6468,19 +5703,14 @@
             "share_pct": 2.7182
           },
           {
-            "periodo": "2026-06",
-            "valor": 32014774328.58,
-            "share_pct": 2.6727
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 32131939044.97,
-            "share_pct": 2.7255
-          },
-          {
             "periodo": "2026-08",
             "valor": 31981748803.78,
             "share_pct": 2.6727
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 32372826025.79,
+            "share_pct": 2.709
           }
         ],
         "corrientes": [
@@ -6510,17 +5740,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -6552,19 +5777,14 @@
             "share_pct": 3.3852
           },
           {
-            "periodo": "2026-06",
-            "valor": 57683577979.42,
-            "share_pct": 3.4131
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 57722550723.84,
-            "share_pct": 3.4298
-          },
-          {
             "periodo": "2026-08",
             "valor": 57942409362.22,
             "share_pct": 3.3522
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 59053192840.21,
+            "share_pct": 3.4676
           }
         ]
       }
@@ -6599,19 +5819,14 @@
             "share_pct": 0.3378
           },
           {
-            "periodo": "2026-06",
-            "valor": 10760817499.0,
-            "share_pct": 0.3081
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 10513154747.0,
-            "share_pct": 0.3024
-          },
-          {
             "periodo": "2026-08",
             "valor": 10726046422.0,
             "share_pct": 0.3049
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 10796598749.0,
+            "share_pct": 0.3012
           }
         ],
         "ahorros": [
@@ -6641,19 +5856,14 @@
             "share_pct": 0.3988
           },
           {
-            "periodo": "2026-06",
-            "valor": 4770622198.0,
-            "share_pct": 0.3983
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 4696310884.0,
-            "share_pct": 0.3983
-          },
-          {
             "periodo": "2026-08",
             "valor": 4687402824.0,
             "share_pct": 0.3917
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 4792755513.0,
+            "share_pct": 0.4011
           }
         ],
         "corrientes": [
@@ -6683,17 +5893,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -6725,19 +5930,14 @@
             "share_pct": 0.4118
           },
           {
-            "periodo": "2026-06",
-            "valor": 5990195301.0,
-            "share_pct": 0.3544
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5816843863.0,
-            "share_pct": 0.3456
-          },
-          {
             "periodo": "2026-08",
             "valor": 6038643598.0,
             "share_pct": 0.3494
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 6003843236.0,
+            "share_pct": 0.3525
           }
         ]
       }
@@ -6772,19 +5972,14 @@
             "share_pct": 1.2467
           },
           {
-            "periodo": "2026-06",
-            "valor": 40168381955.0,
-            "share_pct": 1.1501
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 39963657422.44,
-            "share_pct": 1.1494
-          },
-          {
             "periodo": "2026-08",
             "valor": 40140386112.0,
             "share_pct": 1.1412
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 40684400528.0,
+            "share_pct": 1.135
           }
         ],
         "ahorros": [
@@ -6814,19 +6009,14 @@
             "share_pct": 1.1667
           },
           {
-            "periodo": "2026-06",
-            "valor": 13609011507.04,
-            "share_pct": 1.1361
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 13287163305.8,
-            "share_pct": 1.127
-          },
-          {
             "periodo": "2026-08",
             "valor": 13406147748.89,
             "share_pct": 1.1203
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 13482558023.7,
+            "share_pct": 1.1283
           }
         ],
         "corrientes": [
@@ -6856,17 +6046,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -6898,19 +6083,14 @@
             "share_pct": 1.7545
           },
           {
-            "periodo": "2026-06",
-            "valor": 26559370447.96,
-            "share_pct": 1.5715
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 26676494116.64,
-            "share_pct": 1.5851
-          },
-          {
             "periodo": "2026-08",
             "valor": 26734238363.11,
             "share_pct": 1.5467
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 27201842504.3,
+            "share_pct": 1.5973
           }
         ]
       }
@@ -6945,18 +6125,13 @@
             "share_pct": 0.0951
           },
           {
-            "periodo": "2026-06",
-            "valor": 3503639515.0,
-            "share_pct": 0.1003
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3507161596.05,
-            "share_pct": 0.1009
-          },
-          {
             "periodo": "2026-08",
             "valor": 3565964648.95,
+            "share_pct": 0.1014
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3635579254.96,
             "share_pct": 0.1014
           }
         ],
@@ -6987,19 +6162,14 @@
             "share_pct": 0.0783
           },
           {
-            "periodo": "2026-06",
-            "valor": 964325929.0,
-            "share_pct": 0.0805
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 945370318.99,
-            "share_pct": 0.0802
-          },
-          {
             "periodo": "2026-08",
             "valor": 953959362.95,
             "share_pct": 0.0797
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 982717085.53,
+            "share_pct": 0.0822
           }
         ],
         "corrientes": [
@@ -7029,17 +6199,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -7071,19 +6236,14 @@
             "share_pct": 0.142
           },
           {
-            "periodo": "2026-06",
-            "valor": 2539313586.0,
-            "share_pct": 0.1502
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2561791277.06,
-            "share_pct": 0.1522
-          },
-          {
             "periodo": "2026-08",
             "valor": 2612005286.0,
             "share_pct": 0.1511
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2652862169.43,
+            "share_pct": 0.1558
           }
         ]
       }
@@ -7118,19 +6278,14 @@
             "share_pct": 0.2253
           },
           {
-            "periodo": "2026-06",
-            "valor": 7551895014.0,
-            "share_pct": 0.2162
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 7578928193.0,
-            "share_pct": 0.218
-          },
-          {
             "periodo": "2026-08",
             "valor": 7688447239.0,
             "share_pct": 0.2186
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 7732937827.0,
+            "share_pct": 0.2157
           }
         ],
         "ahorros": [
@@ -7160,19 +6315,14 @@
             "share_pct": 0.3185
           },
           {
-            "periodo": "2026-06",
-            "valor": 3683210384.0,
-            "share_pct": 0.3075
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3663447518.0,
-            "share_pct": 0.3107
-          },
-          {
             "periodo": "2026-08",
             "valor": 3669887016.0,
             "share_pct": 0.3067
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3700765391.0,
+            "share_pct": 0.3097
           }
         ],
         "corrientes": [
@@ -7202,17 +6352,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -7244,19 +6389,14 @@
             "share_pct": 0.2342
           },
           {
-            "periodo": "2026-06",
-            "valor": 3868684630.0,
-            "share_pct": 0.2289
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3915480675.0,
-            "share_pct": 0.2327
-          },
-          {
             "periodo": "2026-08",
             "valor": 4018560223.0,
             "share_pct": 0.2325
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 4032172436.0,
+            "share_pct": 0.2368
           }
         ]
       }
@@ -7291,19 +6431,14 @@
             "share_pct": 0.1488
           },
           {
-            "periodo": "2026-06",
-            "valor": 4838203011.0,
-            "share_pct": 0.1385
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 4774354648.0,
-            "share_pct": 0.1373
-          },
-          {
             "periodo": "2026-08",
             "valor": 4752875974.0,
             "share_pct": 0.1351
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 4737421887.0,
+            "share_pct": 0.1322
           }
         ],
         "ahorros": [
@@ -7333,19 +6468,14 @@
             "share_pct": 0.2114
           },
           {
-            "periodo": "2026-06",
-            "valor": 2436341921.37,
-            "share_pct": 0.2034
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2375730415.84,
-            "share_pct": 0.2015
-          },
-          {
             "periodo": "2026-08",
             "valor": 2359040081.06,
             "share_pct": 0.1971
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2385098999.63,
+            "share_pct": 0.1996
           }
         ],
         "corrientes": [
@@ -7375,17 +6505,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -7417,19 +6542,14 @@
             "share_pct": 0.154
           },
           {
-            "periodo": "2026-06",
-            "valor": 2401861089.63,
-            "share_pct": 0.1421
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2398624232.16,
-            "share_pct": 0.1425
-          },
-          {
             "periodo": "2026-08",
             "valor": 2393835892.94,
             "share_pct": 0.1385
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2352322887.37,
+            "share_pct": 0.1381
           }
         ]
       }
@@ -7464,19 +6584,14 @@
             "share_pct": 0.1704
           },
           {
-            "periodo": "2026-06",
-            "valor": 5321892683.97,
-            "share_pct": 0.1524
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5283684738.95,
-            "share_pct": 0.152
-          },
-          {
             "periodo": "2026-08",
             "valor": 5286646408.69,
             "share_pct": 0.1503
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 5377435364.28,
+            "share_pct": 0.15
           }
         ],
         "ahorros": [
@@ -7506,19 +6621,14 @@
             "share_pct": 0.1414
           },
           {
-            "periodo": "2026-06",
-            "valor": 1605439431.51,
-            "share_pct": 0.134
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1626568249.45,
-            "share_pct": 0.138
-          },
-          {
             "periodo": "2026-08",
             "valor": 1641124937.82,
             "share_pct": 0.1371
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1643166280.55,
+            "share_pct": 0.1375
           }
         ],
         "corrientes": [
@@ -7548,17 +6658,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -7590,19 +6695,14 @@
             "share_pct": 0.2538
           },
           {
-            "periodo": "2026-06",
-            "valor": 3716453252.46,
-            "share_pct": 0.2199
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3657116489.5,
-            "share_pct": 0.2173
-          },
-          {
             "periodo": "2026-08",
             "valor": 3645521470.87,
             "share_pct": 0.2109
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3734269083.73,
+            "share_pct": 0.2193
           }
         ]
       }
@@ -7637,19 +6737,14 @@
             "share_pct": 0.2788
           },
           {
-            "periodo": "2026-06",
-            "valor": 9381685100.74,
-            "share_pct": 0.2686
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 9410023341.02,
-            "share_pct": 0.2706
-          },
-          {
             "periodo": "2026-08",
             "valor": 9421887313.01,
             "share_pct": 0.2679
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 9496686258.04,
+            "share_pct": 0.2649
           }
         ],
         "ahorros": [
@@ -7679,19 +6774,14 @@
             "share_pct": 0.3045
           },
           {
-            "periodo": "2026-06",
-            "valor": 3610639086.69,
-            "share_pct": 0.3014
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3615719442.27,
-            "share_pct": 0.3067
-          },
-          {
             "periodo": "2026-08",
             "valor": 3581691965.44,
             "share_pct": 0.2993
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3582086818.0,
+            "share_pct": 0.2998
           }
         ],
         "corrientes": [
@@ -7721,17 +6811,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -7763,19 +6848,14 @@
             "share_pct": 0.3588
           },
           {
-            "periodo": "2026-06",
-            "valor": 5771046014.05,
-            "share_pct": 0.3415
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5794303898.75,
-            "share_pct": 0.3443
-          },
-          {
             "periodo": "2026-08",
             "valor": 5840195347.57,
             "share_pct": 0.3379
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 5914599440.04,
+            "share_pct": 0.3473
           }
         ]
       }
@@ -7810,19 +6890,14 @@
             "share_pct": 0.1121
           },
           {
-            "periodo": "2026-06",
-            "valor": 3473831668.0,
-            "share_pct": 0.0995
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3507108759.0,
-            "share_pct": 0.1009
-          },
-          {
             "periodo": "2026-08",
             "valor": 3529371275.0,
             "share_pct": 0.1003
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3633722382.0,
+            "share_pct": 0.1014
           }
         ],
         "ahorros": [
@@ -7852,19 +6927,14 @@
             "share_pct": 0.0783
           },
           {
-            "periodo": "2026-06",
-            "valor": 842798767.0,
-            "share_pct": 0.0704
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 830111855.0,
-            "share_pct": 0.0704
-          },
-          {
             "periodo": "2026-08",
             "valor": 868296637.0,
             "share_pct": 0.0726
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1005053720.0,
+            "share_pct": 0.0841
           }
         ],
         "corrientes": [
@@ -7894,17 +6964,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -7936,19 +7001,14 @@
             "share_pct": 0.1782
           },
           {
-            "periodo": "2026-06",
-            "valor": 2631032901.0,
-            "share_pct": 0.1557
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2676996904.0,
-            "share_pct": 0.1591
-          },
-          {
             "periodo": "2026-08",
             "valor": 2661074638.0,
             "share_pct": 0.154
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2628668662.0,
+            "share_pct": 0.1544
           }
         ]
       }
@@ -7983,19 +7043,14 @@
             "share_pct": 0.0575
           },
           {
-            "periodo": "2026-06",
-            "valor": 1804648656.0,
-            "share_pct": 0.0517
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1801141548.0,
-            "share_pct": 0.0518
-          },
-          {
             "periodo": "2026-08",
             "valor": 1914933627.0,
             "share_pct": 0.0544
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1970676726.0,
+            "share_pct": 0.055
           }
         ],
         "ahorros": [
@@ -8025,17 +7080,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -8067,17 +7117,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -8109,19 +7154,14 @@
             "share_pct": 0.1224
           },
           {
-            "periodo": "2026-06",
-            "valor": 1804648656.0,
-            "share_pct": 0.1068
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1801141548.0,
-            "share_pct": 0.107
-          },
-          {
             "periodo": "2026-08",
             "valor": 1914933627.0,
             "share_pct": 0.1108
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1970676726.0,
+            "share_pct": 0.1157
           }
         ]
       }
@@ -8156,19 +7196,14 @@
             "share_pct": 0.0565
           },
           {
-            "periodo": "2026-06",
-            "valor": 2089534775.0,
-            "share_pct": 0.0598
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2115106582.0,
-            "share_pct": 0.0608
-          },
-          {
             "periodo": "2026-08",
             "valor": 2135029586.0,
             "share_pct": 0.0607
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2150441437.99,
+            "share_pct": 0.06
           }
         ],
         "ahorros": [
@@ -8198,19 +7233,14 @@
             "share_pct": 0.043
           },
           {
-            "periodo": "2026-06",
-            "valor": 532424340.0,
-            "share_pct": 0.0444
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 531929286.0,
-            "share_pct": 0.0451
-          },
-          {
             "periodo": "2026-08",
             "valor": 538920430.0,
             "share_pct": 0.045
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 548853742.99,
+            "share_pct": 0.0459
           }
         ],
         "corrientes": [
@@ -8240,17 +7270,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -8282,19 +7307,14 @@
             "share_pct": 0.0871
           },
           {
-            "periodo": "2026-06",
-            "valor": 1557110435.0,
-            "share_pct": 0.0921
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1583177296.0,
-            "share_pct": 0.0941
-          },
-          {
             "periodo": "2026-08",
             "valor": 1596109156.0,
             "share_pct": 0.0923
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1601587695.0,
+            "share_pct": 0.094
           }
         ]
       }
@@ -8329,19 +7349,14 @@
             "share_pct": 0.4073
           },
           {
-            "periodo": "2026-06",
-            "valor": 14672634901.11,
-            "share_pct": 0.4201
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 14724205625.02,
-            "share_pct": 0.4235
-          },
-          {
             "periodo": "2026-08",
             "valor": 14975035292.78,
             "share_pct": 0.4257
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 15107064834.66,
+            "share_pct": 0.4215
           }
         ],
         "ahorros": [
@@ -8371,19 +7386,14 @@
             "share_pct": 0.2957
           },
           {
-            "periodo": "2026-06",
-            "valor": 3838415172.28,
-            "share_pct": 0.3204
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3848526525.6,
-            "share_pct": 0.3264
-          },
-          {
             "periodo": "2026-08",
             "valor": 3934503012.31,
             "share_pct": 0.3288
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3936417499.31,
+            "share_pct": 0.3294
           }
         ],
         "corrientes": [
@@ -8413,17 +7423,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -8455,19 +7460,14 @@
             "share_pct": 0.639
           },
           {
-            "periodo": "2026-06",
-            "valor": 10834219728.83,
-            "share_pct": 0.6411
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 10875679099.42,
-            "share_pct": 0.6462
-          },
-          {
             "periodo": "2026-08",
             "valor": 11040532280.47,
             "share_pct": 0.6387
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 11170647335.35,
+            "share_pct": 0.6559
           }
         ]
       }
@@ -8502,19 +7502,14 @@
             "share_pct": 0.0193
           },
           {
-            "periodo": "2026-06",
-            "valor": 702009328.82,
-            "share_pct": 0.0201
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 728340497.29,
-            "share_pct": 0.0209
-          },
-          {
             "periodo": "2026-08",
             "valor": 792283944.98,
             "share_pct": 0.0225
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 824268090.75,
+            "share_pct": 0.023
           }
         ],
         "ahorros": [
@@ -8544,19 +7539,14 @@
             "share_pct": 0.0043
           },
           {
-            "periodo": "2026-06",
-            "valor": 50366710.84,
-            "share_pct": 0.0042
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 49932548.02,
-            "share_pct": 0.0042
-          },
-          {
             "periodo": "2026-08",
             "valor": 52355275.78,
             "share_pct": 0.0044
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 54930778.81,
+            "share_pct": 0.0046
           }
         ],
         "corrientes": [
@@ -8586,17 +7576,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -8628,19 +7613,14 @@
             "share_pct": 0.0377
           },
           {
-            "periodo": "2026-06",
-            "valor": 651642617.98,
-            "share_pct": 0.0386
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 678407949.27,
-            "share_pct": 0.0403
-          },
-          {
             "periodo": "2026-08",
             "valor": 739928669.2,
             "share_pct": 0.0428
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 769337311.94,
+            "share_pct": 0.0452
           }
         ]
       }
@@ -8675,19 +7655,14 @@
             "share_pct": 0.0187
           },
           {
-            "periodo": "2026-06",
-            "valor": 610370778.55,
-            "share_pct": 0.0175
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 621712004.83,
-            "share_pct": 0.0179
-          },
-          {
             "periodo": "2026-08",
             "valor": 647282457.06,
             "share_pct": 0.0184
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 649037403.25,
+            "share_pct": 0.0181
           }
         ],
         "ahorros": [
@@ -8717,18 +7692,13 @@
             "share_pct": 0.0006
           },
           {
-            "periodo": "2026-06",
-            "valor": 5248305.95,
-            "share_pct": 0.0004
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5143406.16,
-            "share_pct": 0.0004
-          },
-          {
             "periodo": "2026-08",
             "valor": 5371851.46,
+            "share_pct": 0.0004
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 5283133.51,
             "share_pct": 0.0004
           }
         ],
@@ -8759,17 +7729,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -8801,19 +7766,14 @@
             "share_pct": 0.0394
           },
           {
-            "periodo": "2026-06",
-            "valor": 605122472.6,
-            "share_pct": 0.0358
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 616568598.67,
-            "share_pct": 0.0366
-          },
-          {
             "periodo": "2026-08",
             "valor": 641910605.6,
             "share_pct": 0.0371
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 643754269.74,
+            "share_pct": 0.0378
           }
         ]
       }
@@ -8848,19 +7808,14 @@
             "share_pct": 0.1086
           },
           {
-            "periodo": "2026-06",
-            "valor": 3592106096.88,
-            "share_pct": 0.1028
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3616699225.08,
-            "share_pct": 0.104
-          },
-          {
             "periodo": "2026-08",
             "valor": 3629698774.61,
             "share_pct": 0.1032
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3701788140.02,
+            "share_pct": 0.1033
           }
         ],
         "ahorros": [
@@ -8890,17 +7845,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -8932,17 +7882,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -8974,19 +7919,14 @@
             "share_pct": 0.231
           },
           {
-            "periodo": "2026-06",
-            "valor": 3592106096.88,
-            "share_pct": 0.2125
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3616699225.08,
-            "share_pct": 0.2149
-          },
-          {
             "periodo": "2026-08",
             "valor": 3629698774.61,
             "share_pct": 0.21
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3701788140.02,
+            "share_pct": 0.2174
           }
         ]
       }
@@ -9021,17 +7961,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9063,17 +7998,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9105,17 +8035,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9147,17 +8072,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9194,19 +8114,14 @@
             "share_pct": 0.1003
           },
           {
-            "periodo": "2026-06",
-            "valor": 3062616308.0,
-            "share_pct": 0.0877
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 3067617576.0,
-            "share_pct": 0.0882
-          },
-          {
             "periodo": "2026-08",
             "valor": 3139445752.0,
             "share_pct": 0.0893
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 3083573047.0,
+            "share_pct": 0.086
           }
         ],
         "ahorros": [
@@ -9236,19 +8151,14 @@
             "share_pct": 0.0444
           },
           {
-            "periodo": "2026-06",
-            "valor": 494939788.0,
-            "share_pct": 0.0413
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 499768196.0,
-            "share_pct": 0.0424
-          },
-          {
             "periodo": "2026-08",
             "valor": 573231775.0,
             "share_pct": 0.0479
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 514925063.0,
+            "share_pct": 0.0431
           }
         ],
         "corrientes": [
@@ -9278,17 +8188,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9320,19 +8225,14 @@
             "share_pct": 0.1792
           },
           {
-            "periodo": "2026-06",
-            "valor": 2567676520.0,
-            "share_pct": 0.1519
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 2567849380.0,
-            "share_pct": 0.1526
-          },
-          {
             "periodo": "2026-08",
             "valor": 2566213977.0,
             "share_pct": 0.1485
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 2568647984.0,
+            "share_pct": 0.1508
           }
         ]
       }
@@ -9367,19 +8267,14 @@
             "share_pct": 0.0384
           },
           {
-            "periodo": "2026-06",
-            "valor": 1285237161.2,
-            "share_pct": 0.0368
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1270361791.89,
-            "share_pct": 0.0365
-          },
-          {
             "periodo": "2026-08",
             "valor": 1280559385.44,
             "share_pct": 0.0364
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1282026242.79,
+            "share_pct": 0.0358
           }
         ],
         "ahorros": [
@@ -9409,17 +8304,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9451,17 +8341,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9493,19 +8378,14 @@
             "share_pct": 0.0817
           },
           {
-            "periodo": "2026-06",
-            "valor": 1285237161.2,
-            "share_pct": 0.076
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1270361791.89,
-            "share_pct": 0.0755
-          },
-          {
             "periodo": "2026-08",
             "valor": 1280559385.44,
             "share_pct": 0.0741
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1282026242.79,
+            "share_pct": 0.0753
           }
         ]
       }
@@ -9540,19 +8420,14 @@
             "share_pct": 0.3945
           },
           {
-            "periodo": "2026-06",
-            "valor": 12828403041.82,
-            "share_pct": 0.3673
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 13001703541.4,
-            "share_pct": 0.3739
-          },
-          {
             "periodo": "2026-08",
             "valor": 13262038676.31,
             "share_pct": 0.377
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 13471684188.64,
+            "share_pct": 0.3758
           }
         ],
         "ahorros": [
@@ -9582,19 +8457,14 @@
             "share_pct": 0.0599
           },
           {
-            "periodo": "2026-06",
-            "valor": 545227785.84,
-            "share_pct": 0.0455
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 648935778.24,
-            "share_pct": 0.055
-          },
-          {
             "periodo": "2026-08",
             "valor": 664732103.57,
             "share_pct": 0.0556
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 793968245.65,
+            "share_pct": 0.0664
           }
         ],
         "corrientes": [
@@ -9624,17 +8494,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9666,19 +8531,14 @@
             "share_pct": 0.7933
           },
           {
-            "periodo": "2026-06",
-            "valor": 12283175255.98,
-            "share_pct": 0.7268
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 12352767763.16,
-            "share_pct": 0.734
-          },
-          {
             "periodo": "2026-08",
             "valor": 12597306572.74,
             "share_pct": 0.7288
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 12677715942.99,
+            "share_pct": 0.7444
           }
         ]
       }
@@ -9713,19 +8573,14 @@
             "share_pct": 0.157
           },
           {
-            "periodo": "2026-06",
-            "valor": 6362042445.0,
-            "share_pct": 0.1822
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 7008120586.0,
-            "share_pct": 0.2016
-          },
-          {
             "periodo": "2026-08",
             "valor": 6201198199.0,
             "share_pct": 0.1763
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 6024812079.0,
+            "share_pct": 0.1681
           }
         ],
         "ahorros": [
@@ -9755,19 +8610,14 @@
             "share_pct": 0.0645
           },
           {
-            "periodo": "2026-06",
-            "valor": 731491074.89,
-            "share_pct": 0.0611
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1186142530.0,
-            "share_pct": 0.1006
-          },
-          {
             "periodo": "2026-08",
             "valor": 769834393.41,
             "share_pct": 0.0643
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 709951801.24,
+            "share_pct": 0.0594
           }
         ],
         "corrientes": [
@@ -9797,17 +8647,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -9839,19 +8684,14 @@
             "share_pct": 0.2844
           },
           {
-            "periodo": "2026-06",
-            "valor": 5630551370.11,
-            "share_pct": 0.3332
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 5821978056.0,
-            "share_pct": 0.3459
-          },
-          {
             "periodo": "2026-08",
             "valor": 5431363805.59,
             "share_pct": 0.3142
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 5314860277.76,
+            "share_pct": 0.3121
           }
         ]
       }
@@ -9886,19 +8726,14 @@
             "share_pct": 0.027
           },
           {
-            "periodo": "2026-06",
-            "valor": 813211677.45,
-            "share_pct": 0.0233
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 805807225.43,
-            "share_pct": 0.0232
-          },
-          {
             "periodo": "2026-08",
             "valor": 0.0,
             "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 841420590.02,
+            "share_pct": 0.0235
           }
         ],
         "ahorros": [
@@ -9928,19 +8763,14 @@
             "share_pct": 0.001
           },
           {
-            "periodo": "2026-06",
-            "valor": 12209057.2,
-            "share_pct": 0.001
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 14284137.61,
-            "share_pct": 0.0012
-          },
-          {
             "periodo": "2026-08",
             "valor": 0.0,
             "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 33111549.03,
+            "share_pct": 0.0028
           }
         ],
         "corrientes": [
@@ -9970,17 +8800,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -10012,19 +8837,14 @@
             "share_pct": 0.0567
           },
           {
-            "periodo": "2026-06",
-            "valor": 801002620.25,
-            "share_pct": 0.0474
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 791523087.82,
-            "share_pct": 0.047
-          },
-          {
             "periodo": "2026-08",
             "valor": 0.0,
             "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 808309040.99,
+            "share_pct": 0.0475
           }
         ]
       }
@@ -10059,19 +8879,14 @@
             "share_pct": 0.0446
           },
           {
-            "periodo": "2026-06",
-            "valor": 1734670510.04,
-            "share_pct": 0.0497
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1727444040.39,
-            "share_pct": 0.0497
-          },
-          {
             "periodo": "2026-08",
             "valor": 1742299056.25,
             "share_pct": 0.0495
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1744636675.34,
+            "share_pct": 0.0487
           }
         ],
         "ahorros": [
@@ -10101,17 +8916,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -10143,17 +8953,12 @@
             "share_pct": 0.0
           },
           {
-            "periodo": "2026-06",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 0.0,
-            "share_pct": 0.0
-          },
-          {
             "periodo": "2026-08",
+            "valor": 0.0,
+            "share_pct": 0.0
+          },
+          {
+            "periodo": "2026-09",
             "valor": 0.0,
             "share_pct": 0.0
           }
@@ -10185,19 +8990,14 @@
             "share_pct": 0.095
           },
           {
-            "periodo": "2026-06",
-            "valor": 1734670510.04,
-            "share_pct": 0.1026
-          },
-          {
-            "periodo": "2026-07",
-            "valor": 1727444040.39,
-            "share_pct": 0.1026
-          },
-          {
             "periodo": "2026-08",
             "valor": 1742299056.25,
             "share_pct": 0.1008
+          },
+          {
+            "periodo": "2026-09",
+            "valor": 1744636675.34,
+            "share_pct": 0.1024
           }
         ]
       }
