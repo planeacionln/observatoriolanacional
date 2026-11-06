@@ -1,23 +1,22 @@
 {
-  "generado_en": "2026-10-21T16:57:41.754080+00:00",
+  "generado_en": "2026-11-06T19:08:47.435968+00:00",
   "modelo": "gemini-2.5-flash-lite",
   "secciones": {
     "macro": {
-      "periodo": "2026-10",
-      "titulo": "Panorama macroeconómico dominicano",
-      "resumen": "La actividad económica, medida por el IMAE, mostró una aceleración en los meses recientes, alcanzando un 6.40% en junio de 2026. La inflación interanual, por su parte, se situó en 4.98% en enero de 2026, revirtiendo la tendencia a la baja observada previamente.",
+      "periodo": "2026-11",
+      "titulo": "Actividad económica muestra dinamismo en septiembre",
+      "resumen": "La economía dominicana exhibió un crecimiento robusto en septiembre, impulsada por el dinamismo del Índice Mensual de Actividad Económica (IMAE). La inflación interanual se mantuvo contenida, reflejando estabilidad en los precios.",
       "puntos": [
-        "El IMAE registró un crecimiento de 4.60% en julio de 2026, evidenciando una expansión continua de la actividad económica.",
-        "Las remesas mostraron un comportamiento volátil, con un pico de US$1,149.20 millones en marzo de 2026 y un registro de US$1,097.10 millones en julio de 2026.",
-        "El tipo de cambio del dólar se mantuvo relativamente estable, cotizando alrededor de RD$59.20 en septiembre de 2026.",
-        "Los precios del petróleo WTI cerraron julio de 2026 en US$85.17 por barril, mostrando fluctuaciones."
+        "El IMAE registró un crecimiento de 5.60% en septiembre de 2026, evidenciando una aceleración respecto a meses previos.",
+        "La variación interanual del Índice de Precios al Consumidor (IPC) se situó en 4.98% en enero de 2026, mostrando una desaceleración respecto a años anteriores.",
+        "Las remesas recibidas en septiembre de 2026 alcanzaron los 1,057.10 millones de dólares, manteniendo un flujo significativo."
       ],
       "vigilar": [
-        "Posibles efectos del proyecto de ley sobre pensiones en el sistema financiero.",
-        "La evolución de los precios del petróleo y su impacto en la inflación y la balanza de pagos.",
-        "La dinámica de las remesas y su contribución a la economía nacional."
+        "La evolución del precio del petróleo WTI, que cerró la semana del 6 de noviembre de 2026 en 91.02 dólares por barril, tras una tendencia a la baja.",
+        "Las decisiones de política monetaria de la Reserva Federal de Estados Unidos y su impacto en las tasas de interés globales.",
+        "El comportamiento del tipo de cambio del dólar frente al peso dominicano, que se mantuvo alrededor de 60.90 RD$ en los primeros días de noviembre de 2026."
       ],
-      "generado_en": "2026-10-21T16:58:07.956234+00:00",
+      "generado_en": "2026-11-06T19:08:52.404455+00:00",
       "fuentes": [
         "bcrd",
         "titulares"
@@ -25,20 +24,20 @@
     },
     "sib": {
       "periodo": "2026-09",
-      "titulo": "Sistema Financiero: Calidad de Cartera y Rentabilidad Estables",
-      "resumen": "El sistema financiero dominicano mantiene indicadores de salud general estables, con una morosidad en descenso para los bancos múltiples y una leve alza en las asociaciones. La rentabilidad, medida por ROE y ROA, se mantiene robusta en ambos segmentos.",
+      "titulo": "Sistema financiero muestra estabilidad en cartera y rentabilidad",
+      "resumen": "El sistema financiero dominicano, en su conjunto, mantiene una cartera de crédito con morosidad controlada y una rentabilidad que se sostiene, con los Bancos Múltiples liderando en indicadores de eficiencia. Las Asociaciones de Ahorros y Préstamos (AAyP) exhiben una tendencia de mejora en su ROE y ROA, aunque su índice de eficiencia se mantiene por encima del promedio del sector bancario.",
       "puntos": [
-        "La morosidad del sistema se ubicó en 2.07% para las Asociaciones de Ahorros y Préstamos (AAyP) en septiembre de 2026, mostrando una ligera variación respecto al mes anterior.",
-        "El ROE de las AAyP alcanzó el 8.97% y el ROA el 1.59% en el mismo período, reflejando una rentabilidad positiva.",
-        "La eficiencia (Cost-to-income) de las AAyP mejoró a 64.30% en septiembre de 2026, indicando una gestión de costos favorable.",
-        "Los activos totales de las AAyP sumaron RD$443.3 mil millones en septiembre de 2026, evidenciando crecimiento en el sector."
+        "La morosidad general del sistema se ubicó en 2.07% para las AAyP y 1.60% para los Bancos Múltiples al cierre de septiembre de 2026.",
+        "El ROE de las AAyP alcanzó un 8.97% y el ROA un 1.59% en el mismo período, mostrando una recuperación respecto a meses anteriores.",
+        "La eficiencia (Cost-to-income) de las AAyP se situó en 64.30%, una mejora respecto al cierre del año anterior, pero aún por encima de los Bancos Múltiples (56.10%).",
+        "La Nacional registró una morosidad de 2.15% y un ROE de 8.67% en septiembre de 2026, ubicándose en línea con el promedio de su grupo de pares."
       ],
       "vigilar": [
-        "La morosidad de las AAyP mostró fluctuaciones en los últimos meses, cerrando en 2.07% en septiembre de 2026.",
-        "La eficiencia de La Nacional se ubicó en 74.60% en septiembre de 2026, por encima del promedio de las AAyP.",
-        "Se observa una tendencia decreciente en la morosidad de los Bancos Múltiples, que cerró en 1.60% en septiembre de 2026."
+        "La morosidad de las AAyP mostró un leve repunte a 2.07% en septiembre, tras una tendencia decreciente.",
+        "La eficiencia de La Nacional (74.60%) se mantiene como un área de atención frente a sus competidores directos.",
+        "Se observan variaciones mensuales en la morosidad y rentabilidad de las diferentes entidades, lo que requiere monitoreo continuo."
       ],
-      "generado_en": "2026-10-21T17:06:39.503201+00:00",
+      "generado_en": "2026-11-06T19:09:00.494900+00:00",
       "fuentes": [
         "sib_snapshot"
       ]
