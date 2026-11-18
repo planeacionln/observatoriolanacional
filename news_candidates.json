@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:13:28.561909+00:00",
+  "generated_at": "2026-11-18T23:02:31.111321+00:00",
   "dia_editorial": "2026-11-18",
   "zona_horaria": "UTC-4 (Santo Domingo)",
   "ventana_frescura": "2026-11-17 a 2026-11-18",
@@ -9,14 +9,14 @@
   "count_by_day": {
     "2026-11-18": 4
   },
-  "new_this_run": 4,
+  "new_this_run": 0,
   "already_published": 0,
   "out_of_window": 0,
   "ttl_days": 1,
   "max_age_days": 1,
   "errors": 0,
   "sources": 19,
-  "elapsed_s": 608.7,
+  "elapsed_s": 73.9,
   "candidates": [
     {
       "id": "n_da67e361cf74e581",
@@ -114,52 +114,88 @@
   "discarded_count": 60,
   "discarded": [
     {
-      "id": "n_5d711c4e13a9a72e",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
-      "title": "RD busca preparar su sistema eléctrico para nuevas industrias tecnológicas",
-      "url": "https://eldinero.com.do/389146/rd-busca-preparar-su-sistema-electrico-para-nuevas-industrias-tecnologicas",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": 5,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:03:35.941211+00:00"
-    },
-    {
       "id": "n_91048d17f1235546",
-      "motivo": "relevancia_baja",
-      "motivo_texto": "El modelo le puso poca relevancia financiera",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
       "title": "RD invertirá US$750 millones en redes de distribución eléctrica entre 2027 y 2028",
       "url": "https://eldinero.com.do/389137/rd-invertira-us750-millones-en-redes-de-distribucion-electrica-entre-2027-y-2028",
       "source_name": "El Dinero · Finanzas",
-      "relevance": 5,
+      "relevance": null,
       "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:03:54.101221+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:45.384610+00:00"
+    },
+    {
+      "id": "n_b142afd16d437203",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Autoridades y sector empresarial se reúnen para fortalecer lucha contra el comercio ilícito",
+      "url": "https://eldinero.com.do/389134/autoridades-y-sector-empresarial-se-reunen-para-fortalecer-lucha-contra-el-comercio-ilicito",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:45.548905+00:00"
+    },
+    {
+      "id": "n_55e309b7eb899f09",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Herramienta mide los riesgos que afectan a emprendedores vulnerables de América Latina",
+      "url": "https://eldinero.com.do/389131/herramienta-mide-los-riesgos-que-afectan-a-emprendedores-vulnerables-de-america-latina",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:45.667438+00:00"
+    },
+    {
+      "id": "n_5d711c4e13a9a72e",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "RD busca preparar su sistema eléctrico para nuevas industrias tecnológicas",
+      "url": "https://eldinero.com.do/389146/rd-busca-preparar-su-sistema-electrico-para-nuevas-industrias-tecnologicas",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:45.766259+00:00"
+    },
+    {
+      "id": "n_9c1cdd3670f82811",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "RD estrenará su primer sistema de almacenamiento en baterías a finales de noviembre",
+      "url": "https://eldinero.com.do/389130/rd-estrenara-su-primer-sistema-de-almacenamiento-en-baterias-a-finales-de-noviembre",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:45.837356+00:00"
     },
     {
       "id": "n_2a034b60cfd1db80",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "unnamed.png",
-      "url": "https://eldinero.com.do/389148/aduanas-mantiene-monto-de-us5500-en-la-gracia-navidena-para-dominicanos-residentes-en-el-exterior",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:03:41.805738+00:00"
-    },
-    {
-      "id": "n_116ed97116789c1c",
       "motivo": "sin_cuerpo",
       "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Inversión en taxi aéreo República Dominicana aún sin avances",
-      "url": "https://www.diariolibre.com/actualidad/ciudad/2026/11/18/inversion-en-taxi-aereo-republica-dominicana-aun-sin-avances/3724687",
+      "title": "Aduanas mantiene monto de US$5,500 en la gracia navideña para dominicanos residentes en el exterior",
+      "url": "https://eldinero.com.do/389148/aduanas-mantiene-monto-de-us5500-en-la-gracia-navidena-para-dominicanos-residentes-en-el-exterior",
+      "source_name": "El Dinero · Finanzas",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:47.279423+00:00"
+    },
+    {
+      "id": "n_bec40cc3358f1b67",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Vladimir Guerrero Jr. se integró a los entrenamientos con el Licey",
+      "url": "https://www.diariolibre.com/deportes/beisbol/2026/11/18/vladimir-guerrero-jr-se-integro-a-los-entrenamientos-con-el-licey/3724737",
       "source_name": "Diario Libre · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-18T21:04:02.630392+00:00"
+      "fetched_at": "2026-11-18T23:01:48.952845+00:00"
     },
     {
       "id": "n_66ecb97e79ffa4e6",
@@ -171,295 +207,199 @@
       "relevance": null,
       "señales": [],
       "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-18T21:04:02.982478+00:00"
+      "fetched_at": "2026-11-18T23:01:48.965092+00:00"
     },
     {
-      "id": "n_b8f7b818b1d60c02",
+      "id": "n_116ed97116789c1c",
       "motivo": "sin_cuerpo",
       "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Fallece una mujer de 21 años tras liposucción",
-      "url": "https://www.diariolibre.com/actualidad/sucesos/2026/11/18/fallece-una-mujer-de-21-anos-tras-liposuccion/3724472",
+      "title": "Inversión en taxi aéreo República Dominicana aún sin avances",
+      "url": "https://www.diariolibre.com/actualidad/ciudad/2026/11/18/inversion-en-taxi-aereo-republica-dominicana-aun-sin-avances/3724687",
       "source_name": "Diario Libre · Economía",
       "relevance": null,
       "señales": [],
       "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-18T21:04:04.196538+00:00"
+      "fetched_at": "2026-11-18T23:01:48.973237+00:00"
+    },
+    {
+      "id": "n_475a10d59c81b8a3",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Tribunal ordena a fiscalía presentar acusación contra Toxic Crow",
+      "url": "https://www.diariolibre.com/actualidad/justicia/2026/11/18/tribunal-ordena-a-fiscalia-presentar-acusacion-contra-toxic-crow/3724727",
+      "source_name": "Diario Libre · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:49.052881+00:00"
     },
     {
       "id": "n_df4c5cec72cfbf8c",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "unnamed.png",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Gobierno anuncia el pago del doble sueldo arranca el 3 de diciembre",
       "url": "https://www.diariolibre.com/economia/consumo/2026/11/18/gobierno-anuncia-el-pago-del-doble-sueldo-arranca-el-3-de-diciembre/3724317",
       "source_name": "Diario Libre · Economía",
-      "relevance": 0,
+      "relevance": null,
       "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:04:12.097936+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:49.061623+00:00"
     },
     {
       "id": "n_eade88860b35ce7b",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "unnamed.png",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Ito bisonó plantea separar tema migratorio y comercio con haití",
       "url": "https://www.diariolibre.com/politica/general/2026/11/18/ito-bisono-plantea-separar-tema-migratorio-y-comercio-con-haiti/3724704",
       "source_name": "Diario Libre · Economía",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:04:23.781194+00:00"
-    },
-    {
-      "id": "n_9638cc141c9a492b",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "unnamed.png",
-      "url": "https://www.diariolibre.com/economia/consumo/2026/11/18/gracia-navidena-dominicana-mantiene-monto-de-us5500/3724668",
-      "source_name": "Diario Libre · Economía",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:04:34.687728+00:00"
-    },
-    {
-      "id": "n_4ebe32bf295d9573",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Just a moment...",
-      "url": "https://www.fxstreet.es/news/dolar-de-singapur-perspectiva-de-rango-estable-con-apoyo-de-las-exportaciones-commerzbank-202611182002",
-      "source_name": "Fuente guardada",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:05:45.263400+00:00"
-    },
-    {
-      "id": "n_7ea288c1d15c1931",
-      "motivo": "modelo_irrelevante",
-      "motivo_texto": "El modelo la marco como no noticiosa",
-      "title": "Just a moment...",
-      "url": "https://www.fxstreet.es/news/se-espera-que-la-tasa-de-desempleo-de-australia-se-mantenga-en-el-47-202611182030",
-      "source_name": "Fuente guardada",
-      "relevance": 0,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:05:51.167998+00:00"
-    },
-    {
-      "id": "n_f04220f8986695b1",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Última hora: Las Minutas de la Fed mantienen firmemente sobre la mesa nuevas subidas de tasas de interés",
-      "url": "https://www.fxstreet.es/news/las-minutas-de-la-fed-ofreceran-mas-pistas-sobre-el-ritmo-de-subidas-del-banco-central-202611181500",
-      "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:11:56.870046+00:00"
-    },
-    {
-      "id": "n_e2e841a4ed58711d",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Yuan chino: Se observa un sesgo alcista gradual hacia 6.6520 frente al Dólar estadounidense – UOB",
-      "url": "https://www.fxstreet.es/news/yuan-chino-sesgo-alcista-gradual-hacia-66520-frente-al-dolar-estadounidense-uob-202611181805",
-      "source_name": "Fuente guardada",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:11:59.772565+00:00"
-    },
-    {
-      "id": "n_0835a80d24a9040a",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Rupia indonesia: la inesperada subida de tipos del Banco de Indonesia solo alivia parcialmente la presión – BBH",
-      "url": "https://www.fxstreet.es/news/rupia-indonesia-la-inesperada-subida-de-tipos-del-banco-de-indonesia-solo-alivia-parcialmente-la-presion-bbh-202611181926",
-      "source_name": "Fuente guardada",
-      "relevance": null,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:12:02.938514+00:00"
-    },
-    {
-      "id": "n_3a1eb8e085dac639",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Dólar de Singapur: Los rendimientos de EE.UU. determinan las perspectivas de recuperación del SGD - OCBC",
-      "url": "https://www.fxstreet.es/news/dolar-de-singapur-los-rendimientos-de-eeuu-determinan-las-perspectivas-de-recuperacion-del-sgd-ocbc-202611181845",
-      "source_name": "Fuente guardada",
-      "relevance": null,
-      "señales": [],
-      "detalle": "",
-      "fetched_at": "2026-11-18T21:12:08.932286+00:00"
-    },
-    {
-      "id": "n_b142afd16d437203",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Autoridades y sector empresarial se reúnen para fortalecer lucha contra el comercio ilícito",
-      "url": "https://eldinero.com.do/389134/autoridades-y-sector-empresarial-se-reunen-para-fortalecer-lucha-contra-el-comercio-ilicito",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:17.290567+00:00"
-    },
-    {
-      "id": "n_55e309b7eb899f09",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Herramienta mide los riesgos que afectan a emprendedores vulnerables de América Latina",
-      "url": "https://eldinero.com.do/389131/herramienta-mide-los-riesgos-que-afectan-a-emprendedores-vulnerables-de-america-latina",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:17.446491+00:00"
-    },
-    {
-      "id": "n_9c1cdd3670f82811",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "RD estrenará su primer sistema de almacenamiento en baterías a finales de noviembre",
-      "url": "https://eldinero.com.do/389130/rd-estrenara-su-primer-sistema-de-almacenamiento-en-baterias-a-finales-de-noviembre",
-      "source_name": "El Dinero · RSS",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:18.586736+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:01:49.143505+00:00"
     },
     {
       "id": "n_551faf50ad017c16",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
       "title": "Doble sueldo: sector público y privado movilizarán RD$105 mil millones en diciembre",
       "url": "https://hoy.com.do/economia/doble-sueldo-sector-publico-privado-movilizaran-rd-105-mil-millones-diciembre_1109088.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:37.825914+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:18.674984+00:00"
     },
     {
-      "id": "n_bbb45bd2fc4859d5",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "¿Quiénes serán los primeros en cobrar el doble sueldo?",
-      "url": "https://hoy.com.do/economia/quienes-seran-primeros-cobrar-doble-sueldo_1109094.html",
+      "id": "n_919679dce06328bb",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Familia de Melissa Medina pide evitar especulaciones sobre circunstancias de su fallecimiento",
+      "url": "https://hoy.com.do/el-pais/familia-melissa-medina-pide-evitar-especulaciones-sobre-circunstancias-fallecimiento_1109136.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:40.979059+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:18.713892+00:00"
     },
     {
       "id": "n_f8eff2a223761bf3",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
       "title": "Colmaderos piden cinco años de prórroga para aplicar la facturación electrónica",
       "url": "https://hoy.com.do/el-pais/colmaderos-piden-cinco-anos-prorroga-aplicar-facturacion-electronica_1108958.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:44.179394+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:18.732360+00:00"
     },
     {
       "id": "n_ac64de67068116c6",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
       "title": "De El Salvador a Haití: cómo Bukele convirtió una misión de rescate en una operación contra las pandillas",
       "url": "https://hoy.com.do/el-mundo/salvador-haiti-bukele-convirtio-mision-rescate-operacion-pandillas_1109093.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:47.957277+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:18.816045+00:00"
+    },
+    {
+      "id": "n_fe35c06318a98d69",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "ITLA otorgará 70 mil becas en microcredenciales para jóvenes en RD",
+      "url": "https://hoy.com.do/el-pais/almuerzo-corripio/itla-otorgara-70-mil-becas-microcredenciales-jovenes-rd_1109109.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:18.829723+00:00"
     },
     {
       "id": "n_cb2be73cd92df6f0",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
       "title": "Advierten Haití carece de plan para frenar bandas",
       "url": "https://hoy.com.do/el-mundo/advierten-haiti-carece-plan-frenar-bandas_1109057.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:48.675768+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:18.855161+00:00"
     },
     {
-      "id": "n_c21d5be4f7e1c930",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Medicamentos sin registro sanitario se comercializan por redes sociales y consultorios médicos",
-      "url": "https://eldia.com.do/medicamentos-sin-registro-sanitario-se-comercializan-por-redes-sociales-y-consultorios-medicos",
+      "id": "n_9f1fa8f43f81d770",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Domínguez Brito acusa al Gobierno de evadir responsabilidad por caso SeNaSa",
+      "url": "https://eldia.com.do/dominguez-brito-acusa-al-gobierno-de-evadir-responsabilidad-por-caso-senasa",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:54.016178+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:22.813853+00:00"
     },
     {
-      "id": "n_5d762211d25e3f1e",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "La verja fronteriza cobra relevancia para la República Dominicana ante la crisis de Haití",
-      "url": "https://eldia.com.do/la-verja-fronteriza-cobra-relevancia-para-la-republica-dominicana-ante-la-crisis-de-haiti",
+      "id": "n_d550fafb7dce3529",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Contraataque letal: La fiscalía presenta pruebas de dinero y apuestas acorralando a Clase y Ortiz",
+      "url": "https://eldia.com.do/contraataque-letal-la-fiscalia-presenta-pruebas-de-dinero-y-apuestas-acorralando-a-clase-y-ortiz",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:54.234952+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:22.814640+00:00"
     },
     {
-      "id": "n_bd4cbc874c7bf688",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "ProConsumidor cerró más de 30 comercios chinos y prepara nuevas clausuras",
-      "url": "https://eldia.com.do/proconsumidor-cerro-mas-de-30-comercios-chinos-y-prepara-nuevas-clausuras",
+      "id": "n_eabf672f4c6af7a6",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "DGII clausuró más de 60 negocios por competencia ilícita",
+      "url": "https://eldia.com.do/dgii-clausuro-mas-60-negocios-por-competencia-ilicita",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:54.290518+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:22.881715+00:00"
     },
     {
-      "id": "n_586d91c5aa9eec7f",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Gobierno aumentará inversión pública a RD$230,000 millones para impulsar la economía",
-      "url": "https://eldia.com.do/gobierno-aumentara-inversion-publica-a-rd230000-millones-para-impulsar-la-economia",
+      "id": "n_9e0a6ae891398ddc",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "¡Se formó el revolú en Venezuela! Caos por preventa de boletos para ver a Shakira en Caracas",
+      "url": "https://eldia.com.do/se-formo-el-revolu-en-venezuela-caos-por-preventa-de-boletos-para-ver-a-shakira-en-caracas",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:54.626773+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:23.015150+00:00"
     },
     {
-      "id": "n_3d40678b4f8f133e",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Gobierno crea Fuerza de Tarea para combatir comercio ilícito y da 30 días para presentar plan nacional",
-      "url": "https://eldia.com.do/gobierno-crea-fuerza-de-tarea-interinstitucional-para-combatir-el-comercio-ilicito-y-garantizar-la-competencia-leal",
+      "id": "n_22c52de0bd0ce8a1",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Gobierno crea Fuerza de Tarea contra el comercio ilícito y da 30 días para presentar plan nacional",
+      "url": "https://eldia.com.do/gobierno-crea-fuerza-de-tarea-contra-el-comercio-ilicito-y-da-30-dias-para-presentar-plan-nacional",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:12:54.749197+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:23.053118+00:00"
     },
     {
-      "id": "n_cfc0a28b2013a387",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "ITLA fabrica prótesis gratis en solo 20 horas para personas de escasos recursos",
-      "url": "https://eldia.com.do/itla-fabrica-protesis-gratis-en-solo-20-horas-para-personas-de-escasos-recursos",
+      "id": "n_bd30aad717497b97",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Nueva York reunirá el talento y la cultura dominicana en encuentro encabezado por Roberto Ángel Salcedo",
+      "url": "https://eldia.com.do/nueva-york-reunira-el-talento-y-la-cultura-dominicana-en-encuentro-encabezado-por-roberto-angel-salcedo",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:13:00.572634+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:23.056098+00:00"
     },
     {
       "id": "n_65c5cfcf18f188c5",
@@ -471,7 +411,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-14, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.576823+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877203+00:00"
     },
     {
       "id": "n_c322a6bd8cc13f79",
@@ -483,7 +423,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-15, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.577166+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877302+00:00"
     },
     {
       "id": "n_42ea864c69a57a21",
@@ -495,7 +435,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-15, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.577314+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877351+00:00"
     },
     {
       "id": "n_499a161bf969e320",
@@ -507,7 +447,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-11, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.577446+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877398+00:00"
     },
     {
       "id": "n_c0d30f5e466962a4",
@@ -519,7 +459,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-16, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.577572+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877444+00:00"
     },
     {
       "id": "n_b8cb42da720c5ee8",
@@ -531,7 +471,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-13, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.577690+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877488+00:00"
     },
     {
       "id": "n_58a6642ce3e60944",
@@ -543,7 +483,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-13, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.578077+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877534+00:00"
     },
     {
       "id": "n_da9619968deaa5e2",
@@ -555,7 +495,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-11, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.578281+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877577+00:00"
     },
     {
       "id": "n_be0e001b692cb3f4",
@@ -567,7 +507,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-13, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.578472+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877638+00:00"
     },
     {
       "id": "n_691fcc83448f56f3",
@@ -579,7 +519,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-30, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.578611+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877707+00:00"
     },
     {
       "id": "n_c653b5a092280008",
@@ -591,7 +531,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-11, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.578795+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877791+00:00"
     },
     {
       "id": "n_443da1e8b929c42c",
@@ -603,7 +543,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-13, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.578904+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877840+00:00"
     },
     {
       "id": "n_5c9b56c12a2c5295",
@@ -615,19 +555,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-14, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.578989+00:00"
-    },
-    {
-      "id": "n_148a14e9f3b5b746",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "Economía dominicana creció 4.6 % hasta septiembre, pero inflación sigue sobre la meta - Acento",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYlQ1VGp0N0NzQ2RNaGp3cWFOMVliTHU1UEhITjMydVZXWkJmOElOdF9Pd2U1TjEyQTNrOVlyM2hzUXAxYWNHZEs1RHhyZlV5RldyQ2QtcmxkZUVELU1iWk0tQThqc1JxaDdEUkxMUUdlMHdWUlJkZEFwdWRmMFZTUHdES3FoclpmTDExV3J3ckFOS2NaTlA4enVrVTBqejEwZ1dxWlNUM1JVSk45eDhmV0NQbndkenN0VkdBX25xLXFiSmly0gHEAUFVX3lxTFBiVDVUanQ3Q3NDZE1oandxYU4xWWJMdTVQSEhOMzJ1VldaQmY4SU50X093ZTVOMTJBM2s5WXIzaHNRcDFhY0dkSzVEeHJmVXlGV3JDZC1ybGRlRUQtTWJaTS1BOGpzUnFoN0RSTExRR2Uwd1ZSUmRkQXB1ZGYwVlNQd0RLcWhyWmZMMTFXcndyQU5LY1pOUDh6dWtVMGp6MTBnV3FaU1QzUlVKTjl4OGZXQ1Bud2R6c3RWR0FfbnEtcWJKaXI?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-11-11, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.579063+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877889+00:00"
     },
     {
       "id": "n_5f0a0d700275d215",
@@ -639,19 +567,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-22, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.579200+00:00"
-    },
-    {
-      "id": "n_65d0bb011cecbcf8",
-      "motivo": "vieja",
-      "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "La economía dominicana crece 5.6% en septiembre y el Banco Central prevé 4.5% anual - Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRTdCb2JzbEZzYU9VTVZjbm1iXzBYU3JlVmdsUXBOMzN2U2E5NzQzX0d4cUJINUFBczVXTDd2QVU4OG5zb2NZZlllMk1BeUFGUGFORmM0U3JvZjc3cEMtRXdWdmpHbDZXZmNjeGtQOTRxbzZtT1RkWnI3VFc4dElSS1BmTkthOFRxVGZQWUFTQXRHUDBGYlF2bnJYRVhKNmN6YkN1ZHVtUXotZ1VGY1FYSGxDNVBaLUsxWTMxQmZ2UXdsYzdxWTRtWF84SlI0YlVWOVHSAewBQVVfeXFMT1Bma096a19qX1d5SkY0SjNvNGhKc3BJUGVGY3FHV2g0ZHVrVFR5a2drWWkzTDA1a0pVbXN6c1FXMkVFZWZub1g2Tk80OVBNSEtZbHpUWVBlSklBWHA0Rm56NXRnbUJxZmFONF9RZEdMMk9BTkVEX1BsLXBMVDhWSExOU0NKc0QxV2FGZ1g2OTBaNVRVUmt0a0k3QU5YaXkwQ0ZOU0FwREpYRkZKY3Y3cEk2R1A5WjNOZGVmZUpmYmo2bWtBMXRvR3RaVXlaVDU1UjRfQTVLMGxvLVhSeHRZLURnaWtxNFlGMEZoSno?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "el feed la fecha 2026-10-24, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.579316+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877931+00:00"
     },
     {
       "id": "n_6095f9c5154c8cbb",
@@ -663,7 +579,31 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-17, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.579395+00:00"
+      "fetched_at": "2026-11-18T23:02:28.877976+00:00"
+    },
+    {
+      "id": "n_148a14e9f3b5b746",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Economía dominicana creció 4.6 % hasta septiembre, pero inflación sigue sobre la meta - Acento",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYlQ1VGp0N0NzQ2RNaGp3cWFOMVliTHU1UEhITjMydVZXWkJmOElOdF9Pd2U1TjEyQTNrOVlyM2hzUXAxYWNHZEs1RHhyZlV5RldyQ2QtcmxkZUVELU1iWk0tQThqc1JxaDdEUkxMUUdlMHdWUlJkZEFwdWRmMFZTUHdES3FoclpmTDExV3J3ckFOS2NaTlA4enVrVTBqejEwZ1dxWlNUM1JVSk45eDhmV0NQbndkenN0VkdBX25xLXFiSmly0gHEAUFVX3lxTFBiVDVUanQ3Q3NDZE1oandxYU4xWWJMdTVQSEhOMzJ1VldaQmY4SU50X093ZTVOMTJBM2s5WXIzaHNRcDFhY0dkSzVEeHJmVXlGV3JDZC1ybGRlRUQtTWJaTS1BOGpzUnFoN0RSTExRR2Uwd1ZSUmRkQXB1ZGYwVlNQd0RLcWhyWmZMMTFXcndyQU5LY1pOUDh6dWtVMGp6MTBnV3FaU1QzUlVKTjl4OGZXQ1Bud2R6c3RWR0FfbnEtcWJKaXI?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-11-11, ventana 2026-11-17 a 2026-11-18",
+      "fetched_at": "2026-11-18T23:02:28.878018+00:00"
+    },
+    {
+      "id": "n_65d0bb011cecbcf8",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "La economía dominicana crece 5.6% en septiembre y el Banco Central prevé 4.5% anual - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRTdCb2JzbEZzYU9VTVZjbm1iXzBYU3JlVmdsUXBOMzN2U2E5NzQzX0d4cUJINUFBczVXTDd2QVU4OG5zb2NZZlllMk1BeUFGUGFORmM0U3JvZjc3cEMtRXdWdmpHbDZXZmNjeGtQOTRxbzZtT1RkWnI3VFc4dElSS1BmTkthOFRxVGZQWUFTQXRHUDBGYlF2bnJYRVhKNmN6YkN1ZHVtUXotZ1VGY1FYSGxDNVBaLUsxWTMxQmZ2UXdsYzdxWTRtWF84SlI0YlVWOVHSAewBQVVfeXFMT1Bma096a19qX1d5SkY0SjNvNGhKc3BJUGVGY3FHV2g0ZHVrVFR5a2drWWkzTDA1a0pVbXN6c1FXMkVFZWZub1g2Tk80OVBNSEtZbHpUWVBlSklBWHA0Rm56NXRnbUJxZmFONF9RZEdMMk9BTkVEX1BsLXBMVDhWSExOU0NKc0QxV2FGZ1g2OTBaNVRVUmt0a0k3QU5YaXkwQ0ZOU0FwREpYRkZKY3Y3cEk2R1A5WjNOZGVmZUpmYmo2bWtBMXRvR3RaVXlaVDU1UjRfQTVLMGxvLVhSeHRZLURnaWtxNFlGMEZoSno?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-10-24, ventana 2026-11-17 a 2026-11-18",
+      "fetched_at": "2026-11-18T23:02:28.878062+00:00"
     },
     {
       "id": "n_1bf2ac89c963f793",
@@ -675,7 +615,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-06, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.579465+00:00"
+      "fetched_at": "2026-11-18T23:02:28.878106+00:00"
     },
     {
       "id": "n_54f45e410b61ded6",
@@ -687,55 +627,67 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-30, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.579528+00:00"
+      "fetched_at": "2026-11-18T23:02:28.878165+00:00"
     },
     {
-      "id": "n_46b3b4a1d4bf6bf2",
+      "id": "n_e873fe41bebf4205",
       "motivo": "vieja",
       "motivo_texto": "Publicada fuera del dia editorial en curso",
-      "title": "El costo de la canasta básica promedio en el país pasó en octubre los RD$50,000 - Diario Libre",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXpjVzFtQS02YlRSSnZoWFdTRmVGN212T3U2ZFdMT0JxeHBrdFpGb1ZTSExtc1lWbktrUlI5b2NQcjE1TGhMZUxPbW5Ca0IxUkNHWHhXOUxteFJhZGh2Z0ZHN2JzWm05Nkc1RVJlVk12Q1VZMUk1X19zVG1iQTNHT09lcDJEMk9ROS1SYWk2aHNrWEN0WmE3TWdNcHBhUGs3MGhrSnlWUU9MS01RT2w5MmdEZkNTVkZJV1JmS3JqQlo3UXVYVEZDUEl5WWnSAdIBQVVfeXFMT1NsUXh1M1hLbGEyZV9leVM0QlFzTU1nU19fQll0ckFPMGVVYm92bmhJRUF4U0ZLUm9IYzFObWNjc2V6TkVvMUNfYjNhUVVLRkx6SHRVQ2xXZ1pYSGFBdnh5OXZaWk5PYXBIbndzSzJNM1RPaUl5XzdMdFZKTDVWSFRHUVRSNGZuWTN0NHFHMzBJblBtbzhhOEFQYThJN1lVVnhSeWRGTy1wOGtPSkplcFd6dVJoVlVrOFp6NjRibVRiVUV1cUhsVGZSWjdzaU1EZGFR?oc=5",
+      "title": "Banco Central dominicano mantuvo la tasa de política monetaria en 5.25% anual - Infobae",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUTBDaG5ndEFlRHpQRnp1X3VmbzJtSEp0TWN2ZE1ua0QyZmV3NldoVTlObjVkZWNQOWdOakNOTnZVcm9IM1cxd1pTZVBiNXN6NzVKSEFmeTdqRVNtczJBbjJiUjY0NGNYQWFHd3lNMzJLMXBjOUFQUVVoOS14QzF0S0lkQmVabDBCMktLVGZCNGQ1SklKX3pBeGFERjQ1cUpVZzNyT3JvaFBoQ0VsRXFPTlpnRjZWV0FHTnRDck9IRWptQVRVNmFEaXBhWEzSAecBQVVfeXFMTjhCSVBodUhkdXg5UklVaUlhc1ZpOWZiaDVBNmpNSVFjT3FYQTFIYkpYZ0pUcUlwdk9CLVlVamlta2FqUDhrQzhkN3h6bjhRV1pPN1dJR1QwSnk1eUtfeDVCSndpSGpaemxSa1lYdk1qUXZodGtXOGFyWkdDTEFNRDdhNmJuWk5tSlE4UUs1YklTV25OeXhSZmtkOWxVS3V1a1MzY2RDMXV3RFU2ZHd4UEhpdVhVN0RFUTVHN1I5SFU0QnpOY1JCTnZBVHc0WlBlTkJaejlSU1U4OUFaTXkzZUVFOWVoZ2M0?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
-      "detalle": "el feed la fecha 2026-11-11, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:13.579595+00:00"
+      "detalle": "el feed la fecha 2026-08-31, ventana 2026-11-17 a 2026-11-18",
+      "fetched_at": "2026-11-18T23:02:28.878212+00:00"
     },
     {
       "id": "n_3d5324cfaea58264",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
       "title": "Precio del dólar hoy miércoles 18 de noviembre de 2026 en RD: compra a RD$60.01 y venta a RD$60.34 - Revista Mercado",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0xwZkFzazBwUy1kWVNBYU1tRGVNSTNKck52Qk44TWd0dXJheXp5ckNpMHBKa0w2TUdDck9fX2ZUZ2wwaU1qaFdoRlNDNC0wSVpVTUp4OGF3SkpWZ0hMX2tTcWlqd19LUDA5QTFicTBvQXJCb3VjMlBoMWxuQ0tHR1JoRHdWSmU3WXFJYkhCZ0lhMGduWC1Mc0xwRWd4Y2M?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:13:14.445388+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:28.934298+00:00"
     },
     {
-      "id": "n_595c6b19f1731d76",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
-      "title": "Precio del dólar en República Dominicana hoy, martes 17 de noviembre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSHN4MEwyS0ZTOFcyN0xrQkVLUzdtZlZXRzIyck1KTm5KMTFQMjVTRkZFQzBvckpUQkFyZHlkd21NQ2JHMVF0a29uM2lOVDNhUlpuaUdZQ2pWYkxUU3JtSU9qREwzOENHNVBlYTJnNklFYmdMTnZ4R1dqckNsT2pjRUhSWE9LTEJ5Y3VuY21iY2d2WFZXV0E2eFdGM3lPS2tSRFdPRWpWZ1JQRDFGUC1sWVBCaWlDeFNvUnE5M1BUZWpyVDVkX19HcWNKMmU4SGhOaGhOMmd0X2dPSzVqUkdKb2pjTEswbWpKY09hUGtNeTdLS1VJZTBMQg?oc=5",
+      "id": "n_53803f6d6ee9568b",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Inflación en América Latina: Venezuela 377% y Brasil 4,63% - El Ecosistema Startup",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcm11STJNRkJjZDJRN0RWYjRXb2M1cWJkaVhtYlVwenBrcVI2WW05c2JSbUJ5QzZuSTZxcmk0VGZaZzIwR3AyU0tUa01YVGxKM2ZUOEhqRUJlaWZyQVBzLTZwMU5Sak5qN2g0cnlMTXZvaVg5U2tVOGRyemN3V0NJMFB1LU1SU3k4emh3dW5R?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:13:15.222574+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:28.935271+00:00"
     },
     {
       "id": "n_7d2d63ef1de5ea87",
-      "motivo": "sin_detalle",
-      "motivo_texto": "El articulo no devolvio datos utiles",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
       "title": "Precio del dólar en República Dominicana hoy, miércoles 18 de noviembre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWnVhQUlhY1dXTVpKRkVsZ0REQ1hIQVc2UVFuWl9oektPMVZ6QlZOVkY2ZTc3UmYwelF6bTBCelctWDVlNWpGZTBtRXZUczVObmxWSEVYYkh6WHgtalowUnRSU2RlTXRXYUdKOVd1dlF3VTRmWEZhS0hvRmk5NkxURWR1QURlQmd3WmVNX3lvMkdyZ1hkM3g5U1Y1OU03NFRQR3pzZXRFZmx6Z3VPRGczb2NzTWdnRFRDOEtxelFLazRIaHJrSzluX0pDeW9FUUotTEc5UGc4c051a0QzMTlzVTVIVUt2V2Y2cEpyQUN0UjFZaFRCUlBDXzdNY2c?oc=5",
       "source_name": "Google News · BCRD y política monetaria",
       "relevance": null,
       "señales": [],
-      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
-      "fetched_at": "2026-11-18T21:13:15.395828+00:00"
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:28.939166+00:00"
+    },
+    {
+      "id": "n_595c6b19f1731d76",
+      "motivo": "sin_cuerpo",
+      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "title": "Precio del dólar en República Dominicana hoy, martes 17 de noviembre: cuánto cuesta el USD a DOP, compra y venta - El Comercio Perú",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSHN4MEwyS0ZTOFcyN0xrQkVLUzdtZlZXRzIyck1KTm5KMTFQMjVTRkZFQzBvckpUQkFyZHlkd21NQ2JHMVF0a29uM2lOVDNhUlpuaUdZQ2pWYkxUU3JtSU9qREwzOENHNVBlYTJnNklFYmdMTnZ4R1dqckNsT2pjRUhSWE9LTEJ5Y3VuY21iY2d2WFZXV0E2eFdGM3lPS2tSRFdPRWpWZ1JQRDFGUC1sWVBCaWlDeFNvUnE5M1BUZWpyVDVkX19HcWNKMmU4SGhOaGhOMmd0X2dPSzVqUkdKb2pjTEswbWpKY09hUGtNeTdLS1VJZTBMQg?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
+      "fetched_at": "2026-11-18T23:02:28.994861+00:00"
     },
     {
       "id": "n_0628b1e30c20fc54",
@@ -747,7 +699,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-16, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:17.342446+00:00"
+      "fetched_at": "2026-11-18T23:02:30.957650+00:00"
     },
     {
       "id": "n_31bc46beefd235ae",
@@ -759,7 +711,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-16, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:17.342881+00:00"
+      "fetched_at": "2026-11-18T23:02:30.957781+00:00"
+    },
+    {
+      "id": "n_aae8e64d69e67de6",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Superintendencia de Bancos asegura que entidades financieras dominicanas operan con normalidad - Hoy Digital",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2RSRGNycE9XaExKaVJjVk8wMllCUzdqUW8wWi1BdjBtMDhVa2N0R0pEYTJwckZJZzNRTEwyV3hCajNBX2NhOFRNOEN5SUUyR0lVZnZULUt2YlpTZ3cwcGxfQWpocll5S0hlWEgwaktMM0x0Q28tOURZTUg0QllrTFBYSkhXYlFXTmdGZEFEVzdLS1NRaEMxeTFHdDA3bS1mY3BmeGo5WXpJbWFGbEhpOHNuQ0tOR3g2QUdOY2ExTlExUdIBxwFBVV95cUxPb041YS1BcmlvaWJldkN0NTdjdkFHR2hxWkZXd0tzRERtUF9OTHVmdmM5MWZ5Ym1mUmdiR0xuenF3cmx6bVIweURnZ20xbGlzM3FCR3M1emJKSkwyR3pQZmFMZjNjVVlHWFhXbkdaaEhVV04zS3ZRNjg0c0R4bkNLQ1B3NUJBdmxzM2FWZnR0MWpFT3NPem5MRURuMllpWl93MDBUc1RReVVOaVZOVDFXc2tMSlRXdktkRnFTeEI1Q0tfSHBhdmRF?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-11-16, ventana 2026-11-17 a 2026-11-18",
+      "fetched_at": "2026-11-18T23:02:30.957827+00:00"
     },
     {
       "id": "n_3e8413b4f6aba95b",
@@ -771,7 +735,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-14, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:17.343189+00:00"
+      "fetched_at": "2026-11-18T23:02:30.957864+00:00"
+    },
+    {
+      "id": "n_4cef10d81e1397b2",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Superintendencia de Bancos dice servicios bancarios funcionan con normalidad - Diario Libre",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUx2Ty01TG1FdkZLYnZGRVVWZDgwUDJVTmZuQWdCR3FHdDE0MzA2cm81N3duVUlDeXcwaGVlYkt1Vnh0NWNzVGMxWldGU3dGeERKc2ZwTEp3bzAwNHUxRTBEVThGOGEzb3VtcF9ScnVvQnNROFVoeXdiZVVRbVBESmZiRE9OYWpQa1JFaHlONURmT0hodFFISlUtN3E3WVRrN05jNVRtOHZOMWNiRDhVN0F4UkhSblAtaE9DcEZvUTZRd25JQzlN0gHMAUFVX3lxTE5GMW10TGRnRmJvQUtXN1htN0N6ODFud2Vrem9weXhmZXZkWXBkNndKcld2eVVHaGJIUkZCWm4zb2U3MmYwcFNQVGNVdWhPRGp0T3p4dVNDaHd5bFlvMGRYZGlmN2Y4M2tiV0FhZVQ4dS1rdzJoSHJjdDBIeHk2NHNtUFZDX01pbkpVQ3lQcHdfNWhfVEF4d3Z5aHFIUktzZElPTnBObi1TQktCOUZwN0RQR1J3WXNzaXhpSDB1RjJNbUtMMGxLVXdiNkNkTw?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-11-16, ventana 2026-11-17 a 2026-11-18",
+      "fetched_at": "2026-11-18T23:02:30.957900+00:00"
     },
     {
       "id": "n_034e53eadcd4d576",
@@ -783,7 +759,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-16, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:17.343408+00:00"
+      "fetched_at": "2026-11-18T23:02:30.957934+00:00"
     },
     {
       "id": "n_283cc53ffb307230",
@@ -795,7 +771,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-08, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:17.343572+00:00"
+      "fetched_at": "2026-11-18T23:02:30.957994+00:00"
+    },
+    {
+      "id": "n_6560fd1389360431",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "El FMI conoce lo avances regulatorios y de supervisión impulsados en el sector financiero - Diario Libre",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNalhvckVBczlNR0kyYTczX2FGZk9FMFRrc2pyZXFVeVdiV2pNVGFUN1FkY2VTbWh0c2JFQlZJbzdTYW9XNE4xZFF6QmxaaHA0TllfY1c4cmJpTHcwbXdVRzBGdE1JQXMtWnBXQmllWEZCQTE1TUwwRlhXTVkybWw1dUE0OWFtSVZNcTNRMG5rRE83ZUZSVDFrNVB0QlBnTk5GUDdaWU9OWnRMS3VBUkxCZGc1WW1YN0xNY2dMRHlrWdIBxAFBVV95cUxNcDZOaFBhTkJPRFV2ZmMyWm52WTE4ZFdvMkFMajN0MWZsRW0zbDJCWTV1LXlWOXRtWlNKOHU4MFdjdi1MakZnUFhsdFc2NEhVUUxOY2RtLWctRWRDSE5nSnhRdVNlbFVVYUhhRXV5VHpjX0lJV2hYRlZfYkRxcjZaYk5PeW1lZng2dnpwbmQ5MFJOYUQ1b3hxSG04QXlLTjBySnY1NFJRZHZJWXBhb2E1eHRObWQyRzBCUDdjdEVLSTg3b0F0?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-11-12, ventana 2026-11-17 a 2026-11-18",
+      "fetched_at": "2026-11-18T23:02:30.958030+00:00"
     },
     {
       "id": "n_3ef2d7d5253477b3",
@@ -807,7 +795,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-08, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:17.343686+00:00"
+      "fetched_at": "2026-11-18T23:02:30.958063+00:00"
     },
     {
       "id": "n_36379ff0e122be8d",
@@ -819,7 +807,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-20, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:17.343787+00:00"
+      "fetched_at": "2026-11-18T23:02:30.958096+00:00"
     },
     {
       "id": "n_ce675cd044785893",
@@ -831,7 +819,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-02, ventana 2026-11-17 a 2026-11-18",
-      "fetched_at": "2026-11-18T21:13:17.343901+00:00"
+      "fetched_at": "2026-11-18T23:02:30.958134+00:00"
+    },
+    {
+      "id": "n_a0aa586c064a5c72",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Superintendencia de Bancos presenta archivo histórico sobre la evolución del sistema financiero dominicano - Presidencia de la República Dominicana",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGxDUjRRS0JlM2l4QXZwOHlZT0hpU3hJV2g0Nk5kMUk2SkwzdTZVTUJ2ZGtCN0tOYnNkRTdEc05nLWRzVms3NF9pUzVNYkJNa051NFJGNGxmc3d5dmpiV1VQa1NOTllldG9TUnc5ZTV0cEtoRThaaWJoT1dwVXV0cVEzRWtGSUNQaWY0WGI1MHFzcU1IM3Byek5QWUZLS0RncENFN3c4Sjk4a2FMYjF3MThDWW5Mcy1yWVZIWg?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-07-27, ventana 2026-11-17 a 2026-11-18",
+      "fetched_at": "2026-11-18T23:02:30.958167+00:00"
     }
   ]
 }
