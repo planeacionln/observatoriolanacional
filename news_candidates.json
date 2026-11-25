@@ -1,166 +1,480 @@
 {
-  "generated_at": "2026-11-24T22:54:31.561453+00:00",
+  "generated_at": "2026-11-25T01:11:58.659941+00:00",
   "dia_editorial": "2026-11-24",
   "zona_horaria": "UTC-4 (Santo Domingo)",
   "ventana_frescura": "2026-11-23 a 2026-11-24",
   "gemini_model": "gemini-2.5-flash-lite",
   "min_relevance": 6,
-  "count": 0,
-  "count_by_day": {},
-  "new_this_run": 0,
+  "count": 17,
+  "count_by_day": {
+    "2026-11-24": 17
+  },
+  "new_this_run": 19,
   "already_published": 0,
   "out_of_window": 0,
   "ttl_days": 1,
   "max_age_days": 1,
   "errors": 0,
   "sources": 19,
-  "elapsed_s": 84.3,
-  "candidates": [],
-  "discarded_count": 60,
-  "discarded": [
+  "elapsed_s": 784.7,
+  "candidates": [
     {
-      "id": "n_66eb60d51e1e0981",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "MHE incorpora nuevos criterios para medir el bienestar; pobreza multidimensional se reduce a menos de la mitad en una década",
-      "url": "https://eldinero.com.do/389787/mhe-incorpora-nuevos-criterios-para-medir-el-bienestar-pobreza-multidimensional-se-reduce-a-menos-de-la-mitad-en-una-decada",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:21.855205+00:00"
+      "id": "n_281498db66fea9f9",
+      "source_key": "news_gnews_bcrd",
+      "source_name": "Google News · BCRD y política monetaria",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3pDQU8xa0hjcmE1cVVpbHItMmtKeWFKMWxPczFTUWMzQmc3Y05mX3dWOWlNUUZMYS1PWDVHdTZqdXB3bFNOcmptSkx0ekNEYThLZUJEbWE2UnQ2S3lQQkwxUmVURVNCZTNoOXpEVkpoX3J3RkxlVHpGYnNiTnczbGxycDFfNTR2UGQwRWJzSS0xRi0zYWFTZXJaekvSAaIBQVVfeXFMTzVmUm5xQTNfS1I0dGV3T1puVGpnWXNBeS0wREdaUTIyczVremFTMFJ3MHRYMlZacXhFSUo2WVZiUWZqVnd0azFYVzl0aDdZSm45aEFRd0ktb1hoLTVDR2plSWNMMjA1eGpxLU8xZG9VclVzOE9MelplZFRLYlNvaWl0RktxWXpOcTZiRlB6bll2LW9vUzVkMk1HNk95WUhzVHJ3?oc=5",
+      "title": "¡Más dólares para el país! Remesas superan los US$10,500 millones hasta octubre - Hoy Digital",
+      "summary": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "body": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "category": "Economia",
+      "relevance": 8,
+      "señales": [
+        "macro"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": true,
+      "sin_ia": true,
+      "published_at": "2026-11-24T15:43:23+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:11:55.570930+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
     },
     {
-      "id": "n_601a8deaf0e35c70",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "El 81% de las transacciones financieras en RD se realiza por canales digitales y de autoservicio",
-      "url": "https://eldinero.com.do/389784/el-81-de-las-transacciones-financieras-en-rd-se-realiza-por-canales-digitales-y-de-autoservicio",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:21.969581+00:00"
+      "id": "n_a932a40511b5969a",
+      "source_key": "news_gnews_bcrd",
+      "source_name": "Google News · BCRD y política monetaria",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV2dQeWowVGUxRU1TdVE1b0hMbkczXzZTR1oyZFA0TThFV0xyQlYwWEMxSzhmRzVhbDRMOGhMQjVQZGRXbEJWTklDczJyOFQzT1hnV2poMENlUVR0dkZQWkRnbE9tOE5SWGpNTGo4emZ2QW51cHE3N2lkWUZnWjh2WHFYaEFCVjFjc3piX2RTTUVhMEx6V2VsdHRfMktwWWs0RDA00gGoAUFVX3lxTE14WlFkcTF3N1hkTEMwdlpyeUZrQzkzMl9qdG5tMlJKSkRjQnd6eVlHazFkZVptY0d3b2hvb0lWclhoMGlwMmlQMy1oQVp5d3BLY0hVU1piSHFyc0p4QV9qNE1tMy1JS0tRQXh1UjJFUXBlTVpIZW5tV0s2bEp6UXlvWkFCQXBtZWZSSkp1WExhNHRzSkFFaVNOcTZLdWFhTG45dUNMUmZGQQ?oc=5",
+      "title": "Remesas superan los US$10,598 millones hasta octubre, un aumento de 7.3 % - El Nacional — La voz de todos",
+      "summary": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "body": "URL Source: https://lh3.googleusercontent.com/-DR60l-K8vnyi99NZovm9HlXyZwQ85GMDxiwJWzoasZYCUrPuUM P 4Rb7ei03j-0nRs0c4F=w16",
+      "category": "Economia",
+      "relevance": 8,
+      "señales": [
+        "macro"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": true,
+      "sin_ia": true,
+      "published_at": "2026-11-24T16:03:17+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:11:55.436770+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
     },
     {
-      "id": "n_a1fd3adbef5f9124",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Gracia Navideña: qué puedo traer y a partir de cuándo",
-      "url": "https://eldinero.com.do/389780/gracia-navidena-que-puedo-traer-y-a-partir-de-cuando",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:22.047100+00:00"
+      "id": "n_f323dee58c96c256",
+      "source_key": "news_eldinero_rss",
+      "source_name": "El Dinero · RSS",
+      "url": "https://eldinero.com.do/389765/abinader-inaugura-port-samana-con-financiamiento-de-us44-4-millones-de-banreservas",
+      "title": "Abinader inaugura Port Samaná con financiamiento de US$44.4 millones de Banreservas",
+      "summary": "URL Source: https://eldinero.com.do/389765/abinader-inaugura-port-samana-con-financiamiento-de-us44-4-millones-de-banreservas",
+      "body": "URL Source: https://eldinero.com.do/389765/abinader-inaugura-port-samana-con-financiamiento-de-us44-4-millones-de-banreservas Final URL: https://eldinero.com.do/389765/abinader-inaugura-port-samana-con-financiamiento-de-us44-4-millones-de-banreservas/ (mailto:?subject=Abinader%20inaugura%20Port%20Saman%C3%A1%20con%20financiamiento%20de%20US%2444.4%20millones%20de%20Banreservas&body=https%3A%2F%2Feldinero.com.do%2F389765%2Fabinader-inaugura-port-samana-con-financiamiento-de-us44-4-millones-de-banreservas%2F)",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd",
+        "banca"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-11-24T19:21:42+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:10:56.306094+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
     },
     {
-      "id": "n_a3956cec41923632",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Superintendencia de Seguros formaliza compromiso institucional para prevenir y erradicar las violencias de género",
-      "url": "https://eldinero.com.do/389777/superintendencia-de-seguros-formaliza-compromiso-institucional-para-prevenir-y-erradicar-las-violencias-de-genero",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:22.383013+00:00"
+      "id": "n_b84d88e662115bf1",
+      "source_key": "news_eldinero_rss",
+      "source_name": "El Dinero · RSS",
+      "url": "https://eldinero.com.do/389744/mexico-capta-us43090-millones-en-inversion-extranjera-directa-hasta-septiembre",
+      "title": "México capta US$43,090 millones en inversión extranjera directa hasta septiembre",
+      "summary": "URL Source: https://eldinero.com.do/389744/mexico-capta-us43090-millones-en-inversion-extranjera-directa-hasta-septiembre",
+      "body": "URL Source: https://eldinero.com.do/389744/mexico-capta-us43090-millones-en-inversion-extranjera-directa-hasta-septiembre Final URL: https://eldinero.com.do/389744/mexico-capta-us43090-millones-en-inversion-extranjera-directa-hasta-septiembre/ La cifra representa un récord para los primeros nueve meses de un año y supera en 5.3% la registrada inicialmente en igual período de 2025",
+      "category": "Economia",
+      "relevance": 8,
+      "señales": [
+        "macro"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-11-24T18:53:41+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:10:55.610387+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
     },
     {
-      "id": "n_fb797429c4e79a5a",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Mensajes falsos y robo de línea telefónica, los fraudes más usados en temporada de compras, advierte la ABA",
-      "url": "https://eldinero.com.do/389773/mensajes-falsos-y-robo-de-linea-telefonica-los-fraudes-mas-usados-en-temporada-de-compras-advierte-la-aba",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:22.977448+00:00"
+      "id": "n_2d20550b0d217dc5",
+      "source_key": "news_extra_msynflyf",
+      "source_name": "Fuente guardada",
+      "url": "https://www.fxstreet.es/news/el-dolar-australiano-recupera-el-nivel-de-06600-antes-de-la-crucial-prueba-de-inflacion-del-rba-202611242337",
+      "title": "El Dólar australiano recupera el nivel de 0.6600 antes de la crucial prueba de inflación del RBA",
+      "summary": "URL Source: https://www.fxstreet.es/news/el-dolar-australiano-recupera-el-nivel-de-06600-antes-de-la-crucial-prueba-de-inflacion-del-rba-202611242337",
+      "body": "URL Source: https://www.fxstreet.es/news/el-dolar-australiano-recupera-el-nivel-de-06600-antes-de-la-crucial-prueba-de-inflacion-del-rba-202611242337 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-11-24T23:37:42+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:10:48.979902+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
     },
     {
-      "id": "n_0b01369dbb6041f5",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Raquel Peña destaca inversiones en energía, infraestructura y zonas francas para impulsar el Cibao",
-      "url": "https://eldinero.com.do/389762/raquel-pena-destaca-inversiones-en-energia-infraestructura-y-zonas-francas-para-impulsar-el-cibao",
-      "source_name": "El Dinero · Finanzas",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:23.085770+00:00"
+      "id": "n_15b28886305ebdff",
+      "source_key": "news_extra_msynflyf",
+      "source_name": "Fuente guardada",
+      "url": "https://www.fxstreet.es/news/el-ipc-de-australia-parece-destinado-a-suponer-un-quebradero-de-cabeza-para-el-rba-202611242030",
+      "title": "La inflación del IPC de Australia salta al 4.9% interanual en octubre y supera el 4.8% previsto",
+      "summary": "URL Source: https://www.fxstreet.es/news/el-ipc-de-australia-parece-destinado-a-suponer-un-quebradero-de-cabeza-para-el-rba-202611242030",
+      "body": "URL Source: https://www.fxstreet.es/news/el-ipc-de-australia-parece-destinado-a-suponer-un-quebradero-de-cabeza-para-el-rba-202611242030 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-11-24T20:30:25+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:10:44.630895+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
     },
     {
-      "id": "n_63362b66b4b06c10",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Senado aprueba presupuesto complementario que eleva déficit fiscal en República Dominicana",
-      "url": "https://www.diariolibre.com/politica/general/2026/11/24/senado-aprueba-presupuesto-complementario-que-eleva-deficit-fiscal-en-republica-dominicana/3730555",
-      "source_name": "Diario Libre · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:25.410819+00:00"
-    },
-    {
-      "id": "n_2968cb04603acbad",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Abinader dispone tres días de duelo por muerte de Delio Gómez Ochoa",
-      "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/abinader-dispone-tres-dias-de-duelo-por-muerte-de-delio-gomez-ochoa/3730592",
-      "source_name": "Diario Libre · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:25.662382+00:00"
-    },
-    {
-      "id": "n_e64035cad882c4c0",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Feminicidios en RD: 8 de cada 10 los cometen parejas o exparejas",
-      "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/feminicidios-en-rd-8-de-cada-10-los-cometen-parejas-o-exparejas/3730289",
-      "source_name": "Diario Libre · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:25.982984+00:00"
-    },
-    {
-      "id": "n_a2b8d002c0df505b",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Crecimiento de las exportaciones impulsa inversiones en el Cibao según Francesca Rainieri",
-      "url": "https://www.diariolibre.com/economia/macroeconomia/2026/11/24/crecimiento-de-las-exportaciones-impulsa-inversiones-en-el-cibao-segun-francesca-rainieri/3730514",
-      "source_name": "Diario Libre · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:26.254006+00:00"
-    },
-    {
-      "id": "n_8ca3200f83fcebb8",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Potencial económico del Cibao y retos según Raquel Peña",
-      "url": "https://www.diariolibre.com/economia/macroeconomia/2026/11/24/potencial-economico-del-cibao-y-retos-segun-raquel-pena/3730478",
-      "source_name": "Diario Libre · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:26.343160+00:00"
+      "id": "n_23cfd3e7ea2be627",
+      "source_key": "news_extra_msynflyf",
+      "source_name": "Fuente guardada",
+      "url": "https://www.fxstreet.es/news/el-dolar-australiano-se-fortalece-frente-al-yen-japones-tras-la-publicacion-de-una-inflacion-del-ipc-mas-alta-de-lo-esperado-202611250057",
+      "title": "El Dólar australiano se fortalece frente al Yen japonés tras la publicación de una inflación del IPC más alta de lo esperado",
+      "summary": "URL Source: https://www.fxstreet.es/news/el-dolar-australiano-se-fortalece-frente-al-yen-japones-tras-la-publicacion-de-una-inflacion-del-ipc-mas-alta-de-lo-esperado-202611250057",
+      "body": "URL Source: https://www.fxstreet.es/news/el-dolar-australiano-se-fortalece-frente-al-yen-japones-tras-la-publicacion-de-una-inflacion-del-ipc-mas-alta-de-lo-esperado-202611250057 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "politica_monetaria"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": true,
+      "published_at": "2026-11-25T00:57:16+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:10:43.416409+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
     },
     {
       "id": "n_eadb66f673b39d85",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "La ABA advierte sobre los mecanismos de fraudes financieros",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
       "url": "https://www.diariolibre.com/economia/negocios/2026/11/24/la-aba-advierte-sobre-los-mecanismos-de-fraudes-financieros/3730444",
+      "title": "Mensajes falsos y robo de línea telefónica, los fraudes más usados en temporada de compras",
+      "summary": "La Asociación de Bancos Múltiples (ABA) alerta sobre el incremento de fraudes financieros, como el phishing y el robo de líneas telefónicas, durante la temporada de compras. Estos métodos buscan engañar a los usuarios para obtener información sensible y realizar transacciones no autorizadas.",
+      "body": "La Asociación de Bancos Múltiples (ABA) ha emitido una advertencia sobre el aumento de estafas financieras dirigidas a consumidores, especialmente durante periodos de alta actividad comercial. Los delincuentes utilizan tácticas como el envío de mensajes falsos (phishing) y el secuestro de números telefónicos para perpetrar sus delitos, poniendo en riesgo la seguridad de las transacciones bancarias.",
+      "category": "Financiero",
+      "relevance": 10,
+      "señales": [
+        "entidad_rd",
+        "hecho"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T16:24:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:00:39.005262+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending",
+      "tambien_en": [
+        {
+          "source_name": "El Dinero · Finanzas",
+          "url": "https://eldinero.com.do/389773/mensajes-falsos-y-robo-de-linea-telefonica-los-fraudes-mas-usados-en-temporada-de-compras-advierte-la-aba",
+          "title": "Mensajes falsos y robo de línea telefónica, los fraudes más usados en temporada de compras, advierte la ABA"
+        }
+      ]
+    },
+    {
+      "id": "n_63362b66b4b06c10",
+      "source_key": "news_diariolibre_finanzas",
+      "source_name": "Diario Libre · Finanzas",
+      "url": "https://www.diariolibre.com/politica/general/2026/11/24/senado-aprueba-presupuesto-complementario-que-eleva-deficit-fiscal-en-republica-dominicana/3730555",
+      "title": "El Senado aprueba de urgencia el presupuesto complementario que eleva el déficit fiscal",
+      "summary": "El Senado de la República aprobó de urgencia un presupuesto complementario que incrementa el déficit fiscal, lo cual podría tener implicaciones en la estabilidad económica y las finanzas públicas dominicanas. Esta decisión legislativa requiere un análisis detallado sobre su impacto en el sector financiero y la deuda del país.",
+      "body": "El Senado aprobó de urgencia un presupuesto complementario que eleva el déficit fiscal, una medida que impacta directamente las finanzas públicas de la República Dominicana. Esta aprobación legislativa genera interrogantes sobre la sostenibilidad de la deuda y las futuras políticas fiscales del país. La decisión subraya la necesidad de un monitoreo constante de la gestión económica gubernamental.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "macro",
+        "hecho"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T17:58:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:00:33.097371+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
+    },
+    {
+      "id": "n_a2b8d002c0df505b",
+      "source_key": "news_diariolibre",
       "source_name": "Diario Libre · Economía",
-      "relevance": null,
+      "url": "https://www.diariolibre.com/economia/macroeconomia/2026/11/24/crecimiento-de-las-exportaciones-impulsa-inversiones-en-el-cibao-segun-francesca-rainieri/3730514",
+      "title": "Francesca Rainieri ve en el crecimiento de las exportaciones una oportunidad para atraer inversiones al Cibao",
+      "summary": "El crecimiento de las exportaciones dominicanas presenta una oportunidad clave para atraer inversión extranjera directa a la región del Cibao. Francesca Rainieri destaca el potencial de esta tendencia para dinamizar la economía local y generar nuevas oportunidades de negocio.",
+      "body": "Francesca Rainieri, en su análisis sobre el panorama económico, señala que el incremento en las exportaciones representa un atractivo significativo para la inversión en la zona del Cibao. Esta tendencia podría impulsar el desarrollo económico de la región, fomentando la creación de empleo y fortaleciendo el sector productivo dominicano.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "macro",
+        "hecho"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T17:20:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T01:00:03.149666+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
+    },
+    {
+      "id": "n_606a04e87efe165e",
+      "source_key": "news_diariolibre",
+      "source_name": "Diario Libre · Economía",
+      "url": "https://www.diariolibre.com/politica/general/2026/11/24/omar-fernandez-cuestiona-aumento-del-deficit-fiscal-en-85000-millones-de-pesos/3730620",
+      "title": "Omar Fernández cuestiona aumento del déficit fiscal en 85,000 millones de pesos",
+      "summary": "El legislador Omar Fernández ha expresado preocupación por un incremento de 85,000 millones de pesos en el déficit fiscal dominicano. Esta situación podría tener implicaciones significativas para la estabilidad económica y las finanzas públicas del país.",
+      "body": "El diputado Omar Fernández ha cuestionado públicamente el reciente aumento del déficit fiscal en la República Dominicana, cifrado en 85,000 millones de pesos. Esta declaración pone de relieve las preocupaciones sobre la gestión de las finanzas públicas y su potencial impacto en la economía nacional.",
+      "category": "Economia",
+      "relevance": 7,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:26.643611+00:00"
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T18:57:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T00:59:50.809090+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
+    },
+    {
+      "id": "n_9d1300fc224c7748",
+      "source_key": "news_diariolibre",
+      "source_name": "Diario Libre · Economía",
+      "url": "https://www.diariolibre.com/mundo/haiti/2026/11/24/el-primer-ministro-haitiano-defiende-que-haiti-viva-sin-temor/3730632",
+      "title": "El primer ministro haitiano dice que su país tiene derecho a vivir sin el terror armado",
+      "summary": "El primer ministro de Haití expresó la necesidad de que su nación viva libre de terrorismo armado, un clamor que resuena en un contexto de inestabilidad regional con potenciales repercusiones económicas y de seguridad para República Dominicana.",
+      "body": "El jefe de gobierno haitiano enfatizó el derecho de su país a erradicar la violencia armada, un llamado que subraya la urgencia de la situación en la vecina nación. Esta declaración resalta la compleja realidad de Haití y su impacto en la estabilidad de la región, incluyendo posibles efectos en la economía y el sector financiero dominicano.",
+      "category": "Global",
+      "relevance": 7,
+      "señales": [],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T19:07:00-04:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T00:59:39.002867+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
+    },
+    {
+      "id": "n_601a8deaf0e35c70",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/389784/el-81-de-las-transacciones-financieras-en-rd-se-realiza-por-canales-digitales-y-de-autoservicio",
+      "title": "El 81% de las transacciones financieras en RD se realiza por canales digitales y de autoservicio",
+      "summary": "El 81% de las transacciones financieras en República Dominicana se efectúan a través de canales digitales y de autoservicio, evidenciando la consolidación de la banca en línea y aplicaciones móviles. Esta tendencia, destacada por el Superintendente de Bancos, refleja la creciente adopción de tecnologías por parte de los usuarios y la adaptación del sector financiero local.",
+      "body": "La digitalización financiera en República Dominicana ha alcanzado un punto álgido, con el 81% de las transacciones realizándose por medios digitales y de autoservicio. El Superintendente de Bancos, Enmanuel Cedeño Brea, resaltó que 5.2 millones de usuarios utilizan activamente aplicaciones móviles, mientras que más de dos millones acceden a la banca en línea, consolidando la transformación del sector.",
+      "category": "Financiero",
+      "relevance": 9,
+      "señales": [
+        "regulador"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T20:20:50+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T00:59:20.958792+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
+    },
+    {
+      "id": "n_0b01369dbb6041f5",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/389762/raquel-pena-destaca-inversiones-en-energia-infraestructura-y-zonas-francas-para-impulsar-el-cibao",
+      "title": "Raquel Peña destaca inversiones en energía, infraestructura y zonas francas para impulsar el Cibao",
+      "summary": "La vicepresidenta Raquel Peña resaltó las inversiones en energía, infraestructura y zonas francas como motores clave para el desarrollo de la región del Cibao. Estas iniciativas buscan fortalecer la economía local y atraer mayor inversión extranjera directa.",
+      "body": "La vicepresidenta Raquel Peña enfatizó el papel crucial de las inversiones en energía, infraestructura y zonas francas para el crecimiento económico de la región del Cibao. Estas acciones gubernamentales están diseñadas para mejorar el entorno de negocios, atraer capital y generar empleo, consolidando la posición de la región como un polo de desarrollo.",
+      "category": "Economia",
+      "relevance": 8,
+      "señales": [
+        "macro"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T20:00:02+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T00:59:14.882419+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
+    },
+    {
+      "id": "n_a3956cec41923632",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/389777/superintendencia-de-seguros-formaliza-compromiso-institucional-para-prevenir-y-erradicar-las-violencias-de-genero",
+      "title": "Superintendencia de Seguros formaliza compromiso institucional para prevenir y erradicar las violencias de género",
+      "summary": "La Superintendencia de Seguros de la República Dominicana ha formalizado su compromiso contra la violencia de género mediante la Resolución núm. 16-2026. Esta iniciativa busca integrar la prevención y erradicación de la violencia y discriminación por razón de género como una responsabilidad institucional clave.",
+      "body": "La Superintendencia de Seguros de la República Dominicana ha oficializado su compromiso para prevenir y erradicar las violencias de género a través de la Resolución núm. 16-2026. Este acto subraya la importancia de la igualdad y el respeto, integrando estas acciones como una responsabilidad institucional fundamental en todas sus operaciones y relaciones laborales.",
+      "category": "Regulatorio",
+      "relevance": 9,
+      "señales": [
+        "regulador",
+        "hecho"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T20:02:46+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T00:59:08.858631+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
+    },
+    {
+      "id": "n_a1fd3adbef5f9124",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/389780/gracia-navidena-que-puedo-traer-y-a-partir-de-cuando",
+      "title": "Gracia Navideña: qué puedo traer y a partir de cuándo",
+      "summary": "La Dirección General de Aduanas (DGA) de República Dominicana ha establecido un beneficio de exoneración fiscal para dominicanos residentes en el extranjero, permitiendo la importación de regalos y artículos hasta por US$5,500 durante la temporada navideña. Esta medida busca incentivar la llegada de obsequios para familiares y contribuye a la economía a través de las remesas y el consumo.",
+      "body": "La Gracia Navideña, vigente del 1 de diciembre al 7 de enero, permite a dominicanos con al menos seis meses de residencia en el extranjero ingresar obsequios hasta por un valor de US$5,500 por familia. Este beneficio, gestionado por la Dirección General de Aduanas (DGA), abarca desde aparatos tecnológicos hasta artículos del hogar y pertenencias personales, incentivando así la contribución de la diáspora al desarrollo económico del país.",
+      "category": "Economia",
+      "relevance": 8,
+      "señales": [
+        "macro"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T20:09:00+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T00:59:03.106245+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending"
+    },
+    {
+      "id": "n_66eb60d51e1e0981",
+      "source_key": "news_eldinero",
+      "source_name": "El Dinero · Finanzas",
+      "url": "https://eldinero.com.do/389787/mhe-incorpora-nuevos-criterios-para-medir-el-bienestar-pobreza-multidimensional-se-reduce-a-menos-de-la-mitad-en-una-decada",
+      "title": "MHE incorpora nuevos criterios para medir el bienestar; pobreza multidimensional se reduce a menos de la mitad en una década",
+      "summary": "El Ministerio de Hacienda y Economía dominicano ha actualizado sus criterios para medir el bienestar, incorporando 20 indicadores que abarcan salud, educación y servicios básicos. Esta nueva metodología revela una significativa reducción de la pobreza multidimensional en el país, cayendo a menos de la mitad en la última década.",
+      "body": "El Ministerio de Hacienda y Economía (MHE) de República Dominicana ha presentado un nuevo Índice de Pobreza Multidimensional (IPM-RD) que amplía los criterios de medición del bienestar ciudadano. Este índice, que integra 20 indicadores y fue validado por organismos internacionales, muestra una notable disminución de la pobreza multidimensional, pasando de 44.1% a 20.3% entre 2016 y 2025.",
+      "category": "Economia",
+      "relevance": 9,
+      "señales": [
+        "regulador",
+        "hecho"
+      ],
+      "rescatado_por_regla": false,
+      "cuerpo_recuperado": false,
+      "sin_ia": false,
+      "published_at": "2026-11-24T20:21:50+00:00",
+      "fecha_inferida_de_url": false,
+      "dia_editorial": "2026-11-24",
+      "fetched_at": "2026-11-25T00:58:56.878987+00:00",
+      "dia_lectura": "2026-11-24",
+      "status": "pending",
+      "tambien_en": [
+        {
+          "source_name": "Fuente guardada",
+          "url": "https://www.hacienda.gob.do/mhe-incorpora-nuevos-criterios-para-la-medicion-del-bienestar-pobreza-multidimensional-se-redujo-a-menos-de-la-mitad-en-una-decada",
+          "title": "MHE incorpora nuevos criterios para la medición del bienestar; pobreza multidimensional se redujo a menos de la mitad en una década"
+        }
+      ]
+    }
+  ],
+  "discarded_count": 60,
+  "discarded": [
+    {
+      "id": "n_38fb81dc50f973a9",
+      "motivo": "relevancia_baja",
+      "motivo_texto": "El modelo le puso poca relevancia financiera",
+      "title": "Raquel Peña pide a partidos renovarse y combatir la corrupción para recuperar la confianza ciudadana",
+      "url": "https://www.diariolibre.com/politica/general/2026/11/24/raquel-pena-llama-a-partidos-a-renovarse-y-combatir-la-corrupcion/3730574",
+      "source_name": "Diario Libre · Economía",
+      "relevance": 5,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-11-25T00:59:33.432470+00:00"
+    },
+    {
+      "id": "n_1df2c1e17fc6d351",
+      "motivo": "relevancia_baja",
+      "motivo_texto": "El modelo le puso poca relevancia financiera",
+      "title": "Caos y denuncias de maltrato durante auditoría del MAP al personal de salud en Barahona",
+      "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/reportan-caos-y-denuncias-de-maltrato-durante-auditoria-del-map/3730651",
+      "source_name": "Diario Libre · Finanzas",
+      "relevance": 5,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-11-25T01:00:27.159100+00:00"
+    },
+    {
+      "id": "n_2968cb04603acbad",
+      "motivo": "modelo_irrelevante",
+      "motivo_texto": "El modelo la marco como no noticiosa",
+      "title": "Abinader dispone tres días de duelo oficial por la muerte de Delio Gómez Ochoa",
+      "url": "https://www.diariolibre.com/actualidad/nacional/2026/11/24/abinader-dispone-tres-dias-de-duelo-por-muerte-de-delio-gomez-ochoa/3730592",
+      "source_name": "Diario Libre · Economía",
+      "relevance": 0,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-11-25T00:59:45.010381+00:00"
+    },
+    {
+      "id": "n_f9f2bde911b9352e",
+      "motivo": "modelo_irrelevante",
+      "motivo_texto": "El modelo la marco como no noticiosa",
+      "title": "¿Quiénes son las nueve candidatas favoritas del Miss Universo 2026?",
+      "url": "https://www.diariolibre.com/revista/cultura/2026/11/24/quienes-son-las-candidatas-favoritas-del-miss-universo-2026/3730541",
+      "source_name": "Diario Libre · Economía",
+      "relevance": 0,
+      "señales": [],
+      "detalle": "",
+      "fetched_at": "2026-11-25T00:59:57.019908+00:00"
     },
     {
       "id": "n_a6224c4825cba593",
@@ -172,7 +486,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-19, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:53:50.919281+00:00"
+      "fetched_at": "2026-11-25T01:04:28.289018+00:00"
     },
     {
       "id": "n_491d146ae3fc1adc",
@@ -184,7 +498,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-19, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:53:50.919322+00:00"
+      "fetched_at": "2026-11-25T01:04:28.289129+00:00"
     },
     {
       "id": "n_c5d3486f835ace55",
@@ -196,7 +510,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-19, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:53:50.919365+00:00"
+      "fetched_at": "2026-11-25T01:04:28.289249+00:00"
     },
     {
       "id": "n_22d6dce955e600a9",
@@ -208,7 +522,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-16, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:53:50.919408+00:00"
+      "fetched_at": "2026-11-25T01:04:28.289350+00:00"
     },
     {
       "id": "n_79caae90eae4d9e9",
@@ -220,7 +534,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-13, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:53:50.919451+00:00"
+      "fetched_at": "2026-11-25T01:04:28.289446+00:00"
     },
     {
       "id": "n_a66dc4af5b279595",
@@ -232,7 +546,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-11, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:53:50.919495+00:00"
+      "fetched_at": "2026-11-25T01:04:28.289540+00:00"
     },
     {
       "id": "n_e64f94312e44f154",
@@ -244,7 +558,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-06, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:53:50.919564+00:00"
+      "fetched_at": "2026-11-25T01:04:28.289633+00:00"
     },
     {
       "id": "n_e74213a9a353a9b3",
@@ -256,31 +570,103 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-06, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:53:50.919615+00:00"
-    },
-    {
-      "id": "n_8d661def6f7d8b41",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "MHE incorpora nuevos criterios para la medición del bienestar; pobreza multidimensional se redujo a menos de la mitad en una década",
-      "url": "https://www.hacienda.gob.do/mhe-incorpora-nuevos-criterios-para-la-medicion-del-bienestar-pobreza-multidimensional-se-redujo-a-menos-de-la-mitad-en-una-decada",
-      "source_name": "Fuente guardada",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:51.455601+00:00"
+      "fetched_at": "2026-11-25T01:04:28.289727+00:00"
     },
     {
       "id": "n_e00d7603e7330352",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
       "title": "Hacienda y Economía impulsa una gestión pública basada en evidencia con el taller “Evaluar para decidir”",
       "url": "https://www.hacienda.gob.do/hacienda-y-economia-impulsa-una-gestion-publica-basada-en-evidencia-con-el-taller-evaluar-para-decidir",
       "source_name": "Fuente guardada",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:53:51.697517+00:00"
+      "detalle": "",
+      "fetched_at": "2026-11-25T01:10:39.226958+00:00"
+    },
+    {
+      "id": "n_eb9f6cf731897cd4",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "El Dólar australiano alcanza máximos semanales frente al USD tras un IPC elevado mientras la atención se centra en los datos del PCE de EE.UU.",
+      "url": "https://www.fxstreet.es/news/el-dolar-australiano-alcanza-maximos-semanales-frente-al-usd-tras-un-ipc-elevado-mientras-la-atencion-se-centra-en-los-datos-del-pce-de-eeuu-202611250109",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:10:44.268449+00:00"
+    },
+    {
+      "id": "n_22eea42f1d2b7ec9",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Jacobs, del RBA: Las condiciones financieras son «restrictivas» tras las subidas de tasas",
+      "url": "https://www.fxstreet.es/news/jacobs-del-rba-las-condiciones-financieras-son-restrictivas-tras-las-subidas-de-tasas-202611250015",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:10:46.112618+00:00"
+    },
+    {
+      "id": "n_a4c63685d87ec1ce",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "La coalición liderada por Arabia Saudí ataca el puerto yemení de Hodeidah",
+      "url": "https://www.fxstreet.es/news/la-coalicion-liderada-por-arabia-saudi-ataca-el-puerto-yemeni-de-hodeidah-202611242349",
+      "source_name": "Fuente guardada",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:10:47.092573+00:00"
+    },
+    {
+      "id": "n_a0356b152321981d",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Gobierno instalará más de 68,000 luminarias en siete provincias de la zona norte entre 2027 y 2028",
+      "url": "https://eldinero.com.do/389756/gobierno-instalara-mas-de-68000-luminarias-en-siete-provincias-de-la-zona-norte-entre-2027-y-2028",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:10:55.107025+00:00"
+    },
+    {
+      "id": "n_3fdfe2c6c06ba217",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "La FAO y sector pesquero buscan consolidar la cadena de valor del dorado en RD",
+      "url": "https://eldinero.com.do/389759/la-fao-y-sector-pesquero-buscan-consolidar-la-cadena-de-valor-del-dorado-en-rd",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:10:55.155119+00:00"
+    },
+    {
+      "id": "n_f4e439f513db82ed",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "FMI aprueba un nuevo crédito para Ecuador por US$703 millones",
+      "url": "https://eldinero.com.do/389753/fmi-aprueba-un-nuevo-credito-para-ecuador-por-us703-millones",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:10:55.894243+00:00"
+    },
+    {
+      "id": "n_0d995c22b5fc2119",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Nvidia cae un 7% en Wall Street tras el regreso de Jensen Huang",
+      "url": "https://eldinero.com.do/389750/nvidia-cae-un-7-en-wall-street-tras-el-regreso-de-jensen-huang",
+      "source_name": "El Dinero · RSS",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:10:57.982077+00:00"
     },
     {
       "id": "n_83fc2ca607d93966",
@@ -292,7 +678,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-11-16, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:04.507897+00:00"
+      "fetched_at": "2026-11-25T01:10:59.676688+00:00"
     },
     {
       "id": "n_215e922946900901",
@@ -304,151 +690,163 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-17, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:04.507958+00:00"
+      "fetched_at": "2026-11-25T01:10:59.676795+00:00"
+    },
+    {
+      "id": "n_1354d8042561855d",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Senado declara de urgencia y aprueba proyecto de ley que modifica Presupuesto 2026",
+      "url": "https://hoy.com.do/el-pais/senado-declara-urgencia-aprueba-proyecto-ley-modifica-presupuesto-2026_1109774.html",
+      "source_name": "Hoy Digital · Economía",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:06.160805+00:00"
     },
     {
       "id": "n_f7a3aca95a90e180",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
       "title": "Cada 11 minutos, una mujer muere a manos de su pareja o un familiar, alerta la ONU",
       "url": "https://hoy.com.do/el-mundo/11-minutos-mujer-muere-manos-pareja-familiar-alerta-onu_1109716.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:05.562431+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:06.178264+00:00"
     },
     {
-      "id": "n_9fee490ea288e7c1",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Este 25 de noviembre, ¿Qué dicen las cifras sobre la violencia contra las mujeres en RD?",
-      "url": "https://hoy.com.do/el-pais/rd-frente-deuda-pendiente-prevenir-violencia-proteger-mujeres_1109720.html",
+      "id": "n_0c2df496dd2e7c7f",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Primer ministro haitiano le responde a AI: Haití tiene derecho a vivir sin miedo",
+      "url": "https://hoy.com.do/el-mundo/el-caribe/primer-ministro-haitiano-le-responde-ai-haiti-derecho-vivir-miedo_1109798.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:06.068384+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:08.854479+00:00"
     },
     {
-      "id": "n_75aa9b2c4ef84ae4",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Abelardo de la Espriella confirma que secuestradores liberaron a cinco rehenes en Cartagena",
-      "url": "https://hoy.com.do/el-mundo/abelardo-espriella-confirma-secuestradores-liberaron-cinco-rehenes-cartagena_1109743.html",
+      "id": "n_3a3cc31af3467e8c",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Luis Abinader decreta tres días de duelo por la muerte de Delio Gómez Ochoa, Héroe Nacional",
+      "url": "https://hoy.com.do/el-pais/luis-abinader-decreta-tres-dias-duelo-muerte-delio-gomez-ochoa-heroe-nacional_1109789.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:06.086024+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:10.203539+00:00"
     },
     {
-      "id": "n_b4089e7a10bdcfef",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Calidad eléctrica, seguridad social y acceso a internet afectan a los hogares",
-      "url": "https://hoy.com.do/economia/calidad-electrica-seguridad-social-acceso-internet-afectan-hogares_1109755.html",
+      "id": "n_b6e5dfbe5fd28379",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Le cantan 20 años de prisión a mayor del Ejército por muerte de Perla Yokasta Santos",
+      "url": "https://hoy.com.do/el-pais/le-cantan-20-anos-prision-mayor-ejercito-muerte-perla-yokasta-santos_1109787.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:06.140837+00:00"
-    },
-    {
-      "id": "n_6d908706afa4cc56",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Miss Universo 2026: el recorrido de Melissa Núñez en busca de la corona",
-      "url": "https://hoy.com.do/vivir/alegria/miss-universo-2026-recorrido-melissa-nunez-busca-corona_1109725.html",
-      "source_name": "Hoy Digital · Economía",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:07.903777+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:12.462981+00:00"
     },
     {
       "id": "n_3c338f8bf52d1b7c",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
       "title": "Miss Universo 2026: ¿Dónde y a qué hora ver la coronación en República Dominicana?",
       "url": "https://hoy.com.do/vivir/alegria/miss-universo-2026-hora-ver-coronacion-republica-dominicana_1109715.html",
       "source_name": "Hoy Digital · Economía",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:08.282225+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:16.670863+00:00"
     },
     {
-      "id": "n_c634c24fc441fe5a",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Matrimonio Feliz resalta presencia de los padres, disciplina y ejemplo para formar mejores generaciones",
-      "url": "https://eldia.com.do/mas-de-60-de-cada-100-matrimonios-terminan-en-divorcio-en-republica-dominicana-segun-la-one",
+      "id": "n_bfe14e630a122da8",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Jueces condenan militar a 20 años de prisión por muerte de joven en Los Guandules",
+      "url": "https://eldia.com.do/jueces-condenan-militar-a-20-anos-de-prision-por-muerte-de-joven-en-los-guandules",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:14.510566+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:21.584034+00:00"
     },
     {
-      "id": "n_e5320e4b0b64c436",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "\"Merezco que se respete mi dignidad\": Caro Brito rompe el silencio tras ser mencionada en caso Rompeolas",
-      "url": "https://eldia.com.do/merezco-que-se-respete-mi-dignidad-caro-brito-rompe-el-silencio-tras-ser-mencionada-en-caso-rompeolas",
+      "id": "n_105bb68c89679980",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Senado aprueba el proyecto de ley que modifica el Presupuesto del 2026",
+      "url": "https://eldia.com.do/senado-aprueba-el-proyecto-de-ley-que-modifica-el-presupuesto-del-2026",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:14.568920+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:22.021500+00:00"
     },
     {
-      "id": "n_1c4a6305d959856a",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Diputado Heriberto Aracena denuncia abandono y acumulación de basura en Santo Domingo Este",
-      "url": "https://eldia.com.do/diputado-heriberto-aracena-denuncia-abandono-y-acumulacion-de-basura-en-santo-domingo-este",
+      "id": "n_05ac1bd55d107264",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Sobre las Mirabal y la no violencia contra la mujer",
+      "url": "https://eldia.com.do/sobre-las-mirabal-y-la-no-violencia-contra-la-mujer",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:14.569781+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:22.406820+00:00"
     },
     {
-      "id": "n_3166ae1f2aabffce",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Camión cargado de arroz se vuelca y provoca tapón en la autopista del Nordeste",
-      "url": "https://eldia.com.do/camion-cargado-de-arroz-se-vuelca-y-provoca-tapon-en-la-autopista-del-nordeste",
+      "id": "n_e1bebe917201224b",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Dos oportunidades, un mismo sueño: la historia de perseverancia de Melissa Núñez",
+      "url": "https://eldia.com.do/dos-oportunidades-un-mismo-sueno-la-historia-de-perseverancia-de-melissa-nunez",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:15.096055+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:22.681001+00:00"
     },
     {
-      "id": "n_400ef9f9e04f82c4",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Arrestan en Los Frailes a \"El Temible John\", vinculado a alijo de 243 kilos de cocaína",
-      "url": "https://eldia.com.do/arrestan-en-los-frailes-a-el-temible-john-vinculado-a-alijo-de-243-kilos-de-cocaina",
+      "id": "n_c7f598171cdcbb41",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "A 23 años de Amelia Vega: Las dominicanas que han estado cerca de conquistar la segunda corona de Miss Universo",
+      "url": "https://eldia.com.do/a-23-anos-de-amelia-vega-las-dominicanas-que-han-estado-cerca-de-conquistar-la-segunda-corona-de-miss-universo",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:15.204751+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:27.444177+00:00"
     },
     {
-      "id": "n_f07113287d566108",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "De Caro Brito y Rompeolas a Figueroa Agosto y Falcón, cómo el narco ha rozado la farándula y el deporte en RD",
-      "url": "https://eldia.com.do/de-caro-brito-y-rompeolas-a-figueroa-agosto-y-falcon-como-el-narco-ha-rozado-la-farandula-y-el-deporte-en-rd",
+      "id": "n_ccbe4a97c6aacf4d",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "AILA proyecta recibir unos 540,000 pasajeros durante la temporada navideña",
+      "url": "https://eldia.com.do/aila-proyecta-recibir-unos-540000-pasajeros-durante-la-temporada-navidena",
       "source_name": "El Día · Económicas",
       "relevance": null,
       "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:15.338279+00:00"
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:28.735761+00:00"
+    },
+    {
+      "id": "n_65c5cfcf18f188c5",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "💵 El Banco Central de la República informó que las tasas de cambio para la compra y venta del Dólar Estadounidense para este 14 de noviembre de 2026, son de RD$60.3636/US$ y RD$60.8132/US$, respectivamente, las cuales servirán de referencia para - Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnd3JqX3pjd2pibFdYZlhtdllManpGcDAxX0VFbExOaGJTMTkwZzFOc0JTNUZYY0lNVkR1MUk4U2ZZbzZMRG5SME1NdlhFbmUwbnc?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2026-11-14, ventana 2026-11-23 a 2026-11-24",
+      "fetched_at": "2026-11-25T01:11:43.373363+00:00"
     },
     {
       "id": "n_165f9fc9b3117f40",
@@ -460,19 +858,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:22.599504+00:00"
-    },
-    {
-      "id": "n_281498db66fea9f9",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "¡Más dólares para el país! Remesas superan los US$10,500 millones hasta octubre - Hoy Digital",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc3pDQU8xa0hjcmE1cVVpbHItMmtKeWFKMWxPczFTUWMzQmc3Y05mX3dWOWlNUUZMYS1PWDVHdTZqdXB3bFNOcmptSkx0ekNEYThLZUJEbWE2UnQ2S3lQQkwxUmVURVNCZTNoOXpEVkpoX3J3RkxlVHpGYnNiTnczbGxycDFfNTR2UGQwRWJzSS0xRi0zYWFTZXJaekvSAaIBQVVfeXFMTzVmUm5xQTNfS1I0dGV3T1puVGpnWXNBeS0wREdaUTIyczVremFTMFJ3MHRYMlZacXhFSUo2WVZiUWZqVnd0azFYVzl0aDdZSm45aEFRd0ktb1hoLTVDR2plSWNMMjA1eGpxLU8xZG9VclVzOE9MelplZFRLYlNvaWl0RktxWXpOcTZiRlB6bll2LW9vUzVkMk1HNk95WUhzVHJ3?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:23.153590+00:00"
+      "fetched_at": "2026-11-25T01:11:54.916175+00:00"
     },
     {
       "id": "n_e5c3dbd6a4886219",
@@ -484,31 +870,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:23.285599+00:00"
-    },
-    {
-      "id": "n_a932a40511b5969a",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Remesas superan los US$10,598 millones hasta octubre, un aumento de 7.3 % - El Nacional — La voz de todos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV2dQeWowVGUxRU1TdVE1b0hMbkczXzZTR1oyZFA0TThFV0xyQlYwWEMxSzhmRzVhbDRMOGhMQjVQZGRXbEJWTklDczJyOFQzT1hnV2poMENlUVR0dkZQWkRnbE9tOE5SWGpNTGo4emZ2QW51cHE3N2lkWUZnWjh2WHFYaEFCVjFjc3piX2RTTUVhMEx6V2VsdHRfMktwWWs0RDA00gGoAUFVX3lxTE14WlFkcTF3N1hkTEMwdlpyeUZrQzkzMl9qdG5tMlJKSkRjQnd6eVlHazFkZVptY0d3b2hvb0lWclhoMGlwMmlQMy1oQVp5d3BLY0hVU1piSHFyc0p4QV9qNE1tMy1JS0tRQXh1UjJFUXBlTVpIZW5tV0s2bEp6UXlvWkFCQXBtZWZSSkp1WExhNHRzSkFFaVNOcTZLdWFhTG45dUNMUmZGQQ?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:23.388005+00:00"
-    },
-    {
-      "id": "n_4e1da5e29690a49e",
-      "motivo": "sin_cuerpo",
-      "motivo_texto": "No se pudo leer el cuerpo del articulo",
-      "title": "Economía dominicana recibe US$10,598 millones en remesas entre enero y octubre - Diario Libre",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZmlCUlpCTUJEbEhnVVZTWm5JdHRrWEtjQlY0a1MyRnNGTEh5ZHUwWFNsWVBraFNJNzJxNDFIY1FaN2ZjVjBZWnhjMlkwRUpmVXJHeHdTQl9OZ2hDLU9GcndpY0xDc0dCbEVsMWZSVTFxQ0pNNDN4MnFWVEwxNm5sUWtfcWI5UHRaRjFOQ3NDN1FWMDJGWXdYMDNNb2ZqaDJSd2tZR1pQbU9UUkFFMDZsNXNxVGlSNnE0SzVSdEpERVZCOGtq0gHKAUFVX3lxTE9LVlFONk5MYUxMdUsyWGwtR3phM1VkNWdsRVZmdzhLZGpxWGhRN09zWTJGUUJacnZGcm8zY3BBMmZHUG1oeW5VMlp1QzNMeGZuZGJrOUowTDRTNnB5RW1USHA0UGZlOU5OSkhjeVlDT2lRVEpacDg5dFY2Tlc1dmhtM2Z5b1R0ZDRGcTBfdUFPdXVDbjV4T0JRT1JrcDljNWZoYTNQNFVyU1NLV2M3RUZFVXAzX2tnRjNGcDg0LWpxWUVTV3E2aWg2ZXc?oc=5",
-      "source_name": "Google News · BCRD y política monetaria",
-      "relevance": null,
-      "señales": [],
-      "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:23.689751+00:00"
+      "fetched_at": "2026-11-25T01:11:55.123176+00:00"
     },
     {
       "id": "n_6de82cede751c1dc",
@@ -520,7 +882,19 @@
       "relevance": null,
       "señales": [],
       "detalle": "Ni la URL original ni una cobertura alterna se pudieron leer",
-      "fetched_at": "2026-11-24T22:54:24.025725+00:00"
+      "fetched_at": "2026-11-25T01:11:56.079027+00:00"
+    },
+    {
+      "id": "n_66b2bfcbea784499",
+      "motivo": "sin_detalle",
+      "motivo_texto": "El articulo no devolvio datos utiles",
+      "title": "Precio del dólar en República Dominicana hoy, martes 24 de noviembre: compra y venta, cuánto cuesta el USD a DOP - El Comercio Perú",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbktXenJ0a3hZRUlxdDFoTl9TcEJNTWd3WXFVUmRzVjB0QmJxWGpERkVRY2ROMm9lSkVpRFBHSVBDNTFkaGlTUEY4MVlZNGpiZng2OEhhT0Q4cnZ4dkQ5THo0bUdqTmVweTg3NUJ2RUZvVlc3Z1NJbERFVWgxSERHYVRsZjgyZ2x2RU12VnFlNjM0aDNlaV9mTFdMX2MzSWlVWEJfcGdjS0dLQ1pYdDdlNG40el9VWXNFRmw0UldvVGNwY3J2WmVpSFFfUXJKVThvajNTMXRUNkFGNU9qUVZhYnRlMG9BOTcyTWNDUHFObFpLdGlscTdmbw?oc=5",
+      "source_name": "Google News · BCRD y política monetaria",
+      "relevance": null,
+      "señales": [],
+      "detalle": "Sin cuota de Gemini y sin señal institucional que la sostenga",
+      "fetched_at": "2026-11-25T01:11:56.656667+00:00"
     },
     {
       "id": "n_283cc53ffb307230",
@@ -532,7 +906,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-08, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969500+00:00"
+      "fetched_at": "2026-11-25T01:11:58.552885+00:00"
     },
     {
       "id": "n_f0324ba66c647069",
@@ -544,7 +918,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-16, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969559+00:00"
+      "fetched_at": "2026-11-25T01:11:58.552981+00:00"
     },
     {
       "id": "n_063489c4c006b4ea",
@@ -556,7 +930,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-05-15, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969606+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553075+00:00"
     },
     {
       "id": "n_ce675cd044785893",
@@ -568,7 +942,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-09-02, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969649+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553165+00:00"
     },
     {
       "id": "n_b1985dcb65a7bfe1",
@@ -580,7 +954,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-03-25, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969690+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553289+00:00"
     },
     {
       "id": "n_f415b99ea22623bf",
@@ -592,7 +966,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2025-08-08, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969730+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553385+00:00"
     },
     {
       "id": "n_36379ff0e122be8d",
@@ -604,7 +978,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-20, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969770+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553476+00:00"
     },
     {
       "id": "n_9dcfd71d00e571f7",
@@ -616,7 +990,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-10-01, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969812+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553567+00:00"
     },
     {
       "id": "n_3ef2d7d5253477b3",
@@ -628,7 +1002,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-08, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969852+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553658+00:00"
     },
     {
       "id": "n_74a7b84f475c7571",
@@ -640,7 +1014,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-10, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969892+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553746+00:00"
     },
     {
       "id": "n_a0aa586c064a5c72",
@@ -652,7 +1026,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-27, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969933+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553835+00:00"
     },
     {
       "id": "n_8247242539f96e12",
@@ -664,7 +1038,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-08-24, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.969975+00:00"
+      "fetched_at": "2026-11-25T01:11:58.553925+00:00"
     },
     {
       "id": "n_2f77bfd95d666d3e",
@@ -676,7 +1050,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-14, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.970016+00:00"
+      "fetched_at": "2026-11-25T01:11:58.554016+00:00"
     },
     {
       "id": "n_e47d6db92bb439e1",
@@ -688,7 +1062,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-07-06, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.970057+00:00"
+      "fetched_at": "2026-11-25T01:11:58.554108+00:00"
     },
     {
       "id": "n_456a6ce6a2ee754a",
@@ -700,7 +1074,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-03-12, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.970098+00:00"
+      "fetched_at": "2026-11-25T01:11:58.554199+00:00"
     },
     {
       "id": "n_be8f46330b052031",
@@ -712,7 +1086,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2026-03-30, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.970139+00:00"
+      "fetched_at": "2026-11-25T01:11:58.554321+00:00"
     },
     {
       "id": "n_38ed22e9c721daa0",
@@ -724,7 +1098,7 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2025-08-22, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.970181+00:00"
+      "fetched_at": "2026-11-25T01:11:58.554412+00:00"
     },
     {
       "id": "n_93f151cf0af15bc3",
@@ -736,7 +1110,43 @@
       "relevance": null,
       "señales": [],
       "detalle": "el feed la fecha 2025-09-01, ventana 2026-11-23 a 2026-11-24",
-      "fetched_at": "2026-11-24T22:54:25.970224+00:00"
+      "fetched_at": "2026-11-25T01:11:58.554502+00:00"
+    },
+    {
+      "id": "n_43065e3835536ff4",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "Superintendencia de Bancos socializa enfoque estratégico 2025 con líderes de la banca - Presidencia de la República Dominicana",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUphLThIb1YzdDQ4LVZlQ3lsVldLdGY1Z1plZDNCYy1YeFAwXzg3eEF2enUzel93Vnp4RnEtaTVwTzRzNVlGdUVuOGJLMzByVkFMbFE1cEd4X0REQ0xFWGZDa1Q4bHowZ3V2NVItdHBySTVuX2tSYlY4NFAzVl85WjgyZHQ3UjNDaW9rc2JiTjQyWWk2dEQwVDJiTG5NdHQ2RmU2M1plZVFDMlhrMDI1WXFYa0NoVlZWYmxyN1Zn?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2025-02-03, ventana 2026-11-23 a 2026-11-24",
+      "fetched_at": "2026-11-25T01:11:58.554592+00:00"
+    },
+    {
+      "id": "n_892abfffb33aa03e",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "La Superintendencia de Bancos realiza el conversatorio “Ciberseguridad: desafíos para el sistema financiero dominicano” - Presidencia de la República Dominicana",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGJuY2M2OUt4c2gyckI1RE1aRHprMHhtRXJGMk9KaWVoYklpb2xBSllxckdXTDR5N2ktX0lTcU5kaVJ4ZXpZbDBNOFp1dGlYSVFLd0FyODhDT2g4VV9KNUwzeUxyTlQ0OGZJb0xGVllGYTlEM3VVdzVfaXFZZFRpc3l1cTVJX1ctckRvV2paRVM1S1NtajVsR1NtbF9nY0FULTk2NmQyTzVTTjlQUnhCYndJVE1la2NkZklBNTZQQQ?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2025-11-11, ventana 2026-11-23 a 2026-11-24",
+      "fetched_at": "2026-11-25T01:11:58.554685+00:00"
+    },
+    {
+      "id": "n_6c6050a6056505bf",
+      "motivo": "vieja",
+      "motivo_texto": "Publicada fuera del dia editorial en curso",
+      "title": "La Superintendencia de Bancos realiza congreso sobre la vigilancia y actualización constante para evitar robo de datos - Presidencia de la República Dominicana",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNclBQdnJEX0tkUHF5aC0wclc4bVJ4VlJidnVVaG9STkMxQzVKaHlFYm5QVmJPeWhJSTJqSDRXSmsyWVJEY3VHYkhnTEZCMkNwd3RldUdpaXNUNjc0VnBjOWpzT01FdjFRVDMyNlBHSkdCVE90Wnd1UmNFcXRaUnFLQWlqcE5RS1hKM0JXZ0EzNkFNcWFFcThlM3g0enlUNDNVQVhvWTlOVldvb003TGItYnhNYXdPTG4xbFFuLUNzWQ?oc=5",
+      "source_name": "Google News · Banca y Superintendencia",
+      "relevance": null,
+      "señales": [],
+      "detalle": "el feed la fecha 2025-11-20, ventana 2026-11-23 a 2026-11-24",
+      "fetched_at": "2026-11-25T01:11:58.554774+00:00"
     }
   ]
 }
